@@ -42,13 +42,83 @@
       "url": "https://pbs.twimg.com/media/HS6pS5PbkAAlCGu.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @DeepBlueX0",
-      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802"
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/85e90e96bf700298c831597e81c1fc7d7eca6824618e713e640bbefff56d7536.webp",
+        "sha256": "85e90e96bf700298c831597e81c1fc7d7eca6824618e713e640bbefff56d7536",
+        "bytes": 90418,
+        "mimeType": "image/webp",
+        "width": 675,
+        "height": 1199,
+        "originalSha256": "cfa28f78b189469831a560384835e9d8430d0feb26ca49ef2f1b29ad28f0b41c",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b8527cc91ce85c5c18eab6592ec1e47eaee1ceacbbb0ad62e2022799de288683.webp",
+            "sha256": "b8527cc91ce85c5c18eab6592ec1e47eaee1ceacbbb0ad62e2022799de288683",
+            "bytes": 33256,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 568
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/d45f9cf68b6281d7636b9b9e15c5057dd0651ac502f09a5655f9f15655af1b49.webp",
+            "sha256": "d45f9cf68b6281d7636b9b9e15c5057dd0651ac502f09a5655f9f15655af1b49",
+            "bytes": 81266,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 1137
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/85e90e96bf700298c831597e81c1fc7d7eca6824618e713e640bbefff56d7536.webp",
+            "sha256": "85e90e96bf700298c831597e81c1fc7d7eca6824618e713e640bbefff56d7536",
+            "bytes": 90418,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1199
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HS6pS5PbIAAiDUX.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @DeepBlueX0",
-      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802"
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/d2d98096d74cd91149e0e191ade40443e27b61358e4b88b75adc6beaca5131cf.webp",
+        "sha256": "d2d98096d74cd91149e0e191ade40443e27b61358e4b88b75adc6beaca5131cf",
+        "bytes": 101556,
+        "mimeType": "image/webp",
+        "width": 1199,
+        "height": 675,
+        "originalSha256": "e4b819958902744f6f5347c97308e713281a92271911a03b31c605ba5d93d82e",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/aef57281db19d83750b435cc1b09b9838b9733616578ab90974e293fbdce3cb0.webp",
+            "sha256": "aef57281db19d83750b435cc1b09b9838b9733616578ab90974e293fbdce3cb0",
+            "bytes": 15976,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/dc3412bd6ec18168f074b8057926e9430b40072c259f0f2a9593b1a4ec1e7993.webp",
+            "sha256": "dc3412bd6ec18168f074b8057926e9430b40072c259f0f2a9593b1a4ec1e7993",
+            "bytes": 42046,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/d2d98096d74cd91149e0e191ade40443e27b61358e4b88b75adc6beaca5131cf.webp",
+            "sha256": "d2d98096d74cd91149e0e191ade40443e27b61358e4b88b75adc6beaca5131cf",
+            "bytes": 101556,
+            "mimeType": "image/webp",
+            "width": 1199,
+            "height": 675
+          }
+        ]
+      }
     }
   ],
   "rights": {

@@ -43,13 +43,83 @@
       "url": "https://pbs.twimg.com/media/HSeFhXdWsAAzwjJ.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @saniaspeaks_",
-      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765"
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/44cc6e6025d483cf8b021158f198eb58a3855d8f481ec2a04f62a821425d4ea0.webp",
+        "sha256": "44cc6e6025d483cf8b021158f198eb58a3855d8f481ec2a04f62a821425d4ea0",
+        "bytes": 123948,
+        "mimeType": "image/webp",
+        "width": 900,
+        "height": 1200,
+        "originalSha256": "540786aedd12c90faed9c1a2c6f774dae9867a4a2c08c7699f35b5e1ff4d2404",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b2d6bedaf69ab4f91725796bbca6227cd29ca0ebdc2eb0473137be42cf97e2f3.webp",
+            "sha256": "b2d6bedaf69ab4f91725796bbca6227cd29ca0ebdc2eb0473137be42cf97e2f3",
+            "bytes": 22848,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/ab59cb40d98c18e7b7c6e2e42c0fb38fcbbc7900a0c69562dad13e17120a3a91.webp",
+            "sha256": "ab59cb40d98c18e7b7c6e2e42c0fb38fcbbc7900a0c69562dad13e17120a3a91",
+            "bytes": 71942,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 853
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/44cc6e6025d483cf8b021158f198eb58a3855d8f481ec2a04f62a821425d4ea0.webp",
+            "sha256": "44cc6e6025d483cf8b021158f198eb58a3855d8f481ec2a04f62a821425d4ea0",
+            "bytes": 123948,
+            "mimeType": "image/webp",
+            "width": 900,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HSeFh_NWMAAbxI-.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @saniaspeaks_",
-      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765"
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b30c7c4c9d846ac35235159a2300ed12fdfa1837524fcd235140f7d3052d57b6.webp",
+        "sha256": "b30c7c4c9d846ac35235159a2300ed12fdfa1837524fcd235140f7d3052d57b6",
+        "bytes": 203704,
+        "mimeType": "image/webp",
+        "width": 900,
+        "height": 1200,
+        "originalSha256": "5a1c17f4ca7b465782499572516ad421dbc7b2172330c2623e1b3ffab6d25f7f",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e307b302d934a3579269c85993041a9604d4e159e5f64e4917e77913e22b52ed.webp",
+            "sha256": "e307b302d934a3579269c85993041a9604d4e159e5f64e4917e77913e22b52ed",
+            "bytes": 27930,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/32c732a2b2b4e154db84a18e6b7cd7a2f42a3c0061dea7a9f396309902ae11cb.webp",
+            "sha256": "32c732a2b2b4e154db84a18e6b7cd7a2f42a3c0061dea7a9f396309902ae11cb",
+            "bytes": 110712,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 853
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b30c7c4c9d846ac35235159a2300ed12fdfa1837524fcd235140f7d3052d57b6.webp",
+            "sha256": "b30c7c4c9d846ac35235159a2300ed12fdfa1837524fcd235140f7d3052d57b6",
+            "bytes": 203704,
+            "mimeType": "image/webp",
+            "width": 900,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {

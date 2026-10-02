@@ -205,6 +205,91 @@
             "format": "uri",
             "maxLength": 2048,
             "pattern": "^https://[^\\s]+$"
+          },
+          "cdn": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "bytes": {
+                "type": "integer"
+              },
+              "mimeType": {
+                "type": "string",
+                "enum": [
+                  "image/webp",
+                  "video/mp4"
+                ]
+              },
+              "width": {
+                "type": "integer"
+              },
+              "height": {
+                "type": "integer"
+              },
+              "originalSha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "variants": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "url": {
+                      "type": "string",
+                      "format": "uri",
+                      "pattern": "^https://media\\.reeldance\\.ai/galleries/assets/[a-f0-9]{64}\\.(webp|mp4)$"
+                    },
+                    "sha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "bytes": {
+                      "type": "integer"
+                    },
+                    "mimeType": {
+                      "type": "string",
+                      "enum": [
+                        "image/webp",
+                        "video/mp4"
+                      ]
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "url",
+                    "sha256",
+                    "bytes",
+                    "mimeType",
+                    "width",
+                    "height"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "url",
+              "sha256",
+              "bytes",
+              "mimeType",
+              "originalSha256"
+            ],
+            "additionalProperties": false
           }
         },
         "required": [

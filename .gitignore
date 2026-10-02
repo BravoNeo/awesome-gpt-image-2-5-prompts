@@ -3,3 +3,11 @@ __pycache__/
 pending/
 .DS_Store
 .env*
+*.db
+*.sqlite
+node_modules/
+.output/
+.nitro/
+src/paraglide/
+src/routeTree.gen.ts
+npm-debug.log

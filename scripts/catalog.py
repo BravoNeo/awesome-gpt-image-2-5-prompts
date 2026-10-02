@@ -52,7 +52,7 @@ def validate_schema(value, schema, path='$'):
     if set(schema) - supported:
         raise ValueError(f'Unsupported schema keyword at {path}: {set(schema) - supported}')
     kind = schema.get('type')
-    types = {'object': dict, 'array': list, 'string': str}
+    types = {'object': dict, 'array': list, 'string': str, 'integer': int, 'number': (int, float)}
     if kind and not isinstance(value, types[kind]):
         raise ValueError(f'{path}: expected {kind}')
     if 'enum' in schema and value not in schema['enum']:
@@ -81,6 +81,20 @@ def validate_schema(value, schema, path='$'):
             https_url(value)
 
 
+
+def validate_cdn(cdn, image=False):
+    mime = 'image/webp' if image else 'video/mp4'
+    suffix = '.webp' if image else '.mp4'
+    if cdn['mimeType'] != mime or cdn['url'] != 'https://media.reeldance.ai/galleries/assets/' + cdn['sha256'] + suffix or type(cdn['bytes']) is not int or cdn['bytes'] <= 0:
+        raise ValueError('Invalid CDN content-address/type/size')
+    if image:
+        if type(cdn.get('width')) is not int or type(cdn.get('height')) is not int or cdn['width'] <= 0 or cdn['height'] <= 0 or not cdn.get('variants'):
+            raise ValueError('Invalid CDN image dimensions/variants')
+        for variant in cdn['variants']:
+            if variant['mimeType'] != mime or variant['url'] != 'https://media.reeldance.ai/galleries/assets/' + variant['sha256'] + suffix or any(type(variant[k]) is not int or variant[k] <= 0 for k in ['width', 'height', 'bytes']):
+                raise ValueError('Invalid CDN responsive variant')
+
+
 def validate_entries(entries, taxonomy=None):
     taxonomy = taxonomy or read_json(ROOT / 'content/taxonomy.json')
     schema = read_json(ROOT / 'schema/entry.schema.json')
@@ -98,6 +112,14 @@ def validate_entries(entries, taxonomy=None):
                 raise ValueError(f'Unknown category in {axis}: {values}')
         if not any(m['role'] == 'output' for m in e['media']):
             raise ValueError('A complete artwork needs at least one output image')
+        for media in e['media']:
+            if 'cdn' in media:
+                validate_cdn(media['cdn'], image=True)
+                c = media['cdn']
+                if c['mimeType'] != 'image/webp' or c.get('width', 0) <= 0 or c.get('height', 0) <= 0 or c['bytes'] <= 0:
+                    raise ValueError('Invalid CDN image dimensions/type')
+                if any(v['width'] <= 0 or v['height'] <= 0 or v['bytes'] <= 0 for v in c.get('variants', [])):
+                    raise ValueError('Invalid responsive variant')
         urls = [m['url'] for m in e['media']]
         if len(urls) != len(set(urls)):
             raise ValueError('Duplicate media URL within one artwork')

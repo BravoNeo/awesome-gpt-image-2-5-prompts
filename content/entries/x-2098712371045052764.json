@@ -42,13 +42,83 @@
       "url": "https://pbs.twimg.com/media/HSAdMkHbQAAE49-.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764"
+      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/c6ac5c951a2ef35f61aca5718caa44548276e708b2c9ad3c202cebb40e9e3c4e.webp",
+        "sha256": "c6ac5c951a2ef35f61aca5718caa44548276e708b2c9ad3c202cebb40e9e3c4e",
+        "bytes": 139004,
+        "mimeType": "image/webp",
+        "width": 671,
+        "height": 1199,
+        "originalSha256": "5e73b7c99d3b286f158cd4f1e2d994380ab1f87d0858b8daf32b652c427f483c",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/49973799db27a72cd1c0064a6ea87fdd2f1450a5760d323ae49d84d5b84f5cce.webp",
+            "sha256": "49973799db27a72cd1c0064a6ea87fdd2f1450a5760d323ae49d84d5b84f5cce",
+            "bytes": 49192,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 572
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/a5e784fc4bcdd002f37b7e95ae8704bd1e9e00a5370705742c5a599466272b86.webp",
+            "sha256": "a5e784fc4bcdd002f37b7e95ae8704bd1e9e00a5370705742c5a599466272b86",
+            "bytes": 128400,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 1144
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/c6ac5c951a2ef35f61aca5718caa44548276e708b2c9ad3c202cebb40e9e3c4e.webp",
+            "sha256": "c6ac5c951a2ef35f61aca5718caa44548276e708b2c9ad3c202cebb40e9e3c4e",
+            "bytes": 139004,
+            "mimeType": "image/webp",
+            "width": 671,
+            "height": 1199
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HSAdt1baIAA9fYa.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764"
+      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/6877af8127ee6b51382017541e53b7a361ecdfa1056f89a0010b8bd427308d6d.webp",
+        "sha256": "6877af8127ee6b51382017541e53b7a361ecdfa1056f89a0010b8bd427308d6d",
+        "bytes": 127236,
+        "mimeType": "image/webp",
+        "width": 671,
+        "height": 1199,
+        "originalSha256": "8ef7008e8991cbc96e4de31f35ba4f0dd3cca822f181d39317b34129c4a2d3b8",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/c7438c5d5e33c6eb2ad5bf3e660040559330585e310f3b5b0506b7837e111571.webp",
+            "sha256": "c7438c5d5e33c6eb2ad5bf3e660040559330585e310f3b5b0506b7837e111571",
+            "bytes": 40954,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 572
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/ffb2495924d05d462b31120318364aacc87278039f7c529f69c75f635fb43770.webp",
+            "sha256": "ffb2495924d05d462b31120318364aacc87278039f7c529f69c75f635fb43770",
+            "bytes": 119588,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 1144
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/6877af8127ee6b51382017541e53b7a361ecdfa1056f89a0010b8bd427308d6d.webp",
+            "sha256": "6877af8127ee6b51382017541e53b7a361ecdfa1056f89a0010b8bd427308d6d",
+            "bytes": 127236,
+            "mimeType": "image/webp",
+            "width": 671,
+            "height": 1199
+          }
+        ]
+      }
     }
   ],
   "rights": {

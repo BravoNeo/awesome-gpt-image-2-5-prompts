@@ -42,7 +42,42 @@
       "url": "https://pbs.twimg.com/media/HTC0LGeakAEzFci.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @aidavid125",
-      "sourceUrl": "https://x.com/aidavid125/status/2103379427459834120"
+      "sourceUrl": "https://x.com/aidavid125/status/2103379427459834120",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/e26abaa34dc829a22b91817f636aba01fa2b001399b49cffcf120f608e588ab0.webp",
+        "sha256": "e26abaa34dc829a22b91817f636aba01fa2b001399b49cffcf120f608e588ab0",
+        "bytes": 122166,
+        "mimeType": "image/webp",
+        "width": 1199,
+        "height": 675,
+        "originalSha256": "b3e65a9ac0ca82db91cf8ec43eb27cf2e91a5e2be9cec1046ccc875a28c536f2",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/2ad56a85f131cd6dbbe05b2d8b9408a6199580b5ae89894d5315af99c1de62a6.webp",
+            "sha256": "2ad56a85f131cd6dbbe05b2d8b9408a6199580b5ae89894d5315af99c1de62a6",
+            "bytes": 16408,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/1a1f2cd01e41854e2927223505473a84ec21fac7409a4b69e273c50d6a36de7b.webp",
+            "sha256": "1a1f2cd01e41854e2927223505473a84ec21fac7409a4b69e273c50d6a36de7b",
+            "bytes": 47110,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e26abaa34dc829a22b91817f636aba01fa2b001399b49cffcf120f608e588ab0.webp",
+            "sha256": "e26abaa34dc829a22b91817f636aba01fa2b001399b49cffcf120f608e588ab0",
+            "bytes": 122166,
+            "mimeType": "image/webp",
+            "width": 1199,
+            "height": 675
+          }
+        ]
+      }
     }
   ],
   "rights": {

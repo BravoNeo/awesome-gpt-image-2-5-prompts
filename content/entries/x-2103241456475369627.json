@@ -41,13 +41,83 @@
       "url": "https://pbs.twimg.com/media/HTA29JiXgAEGPPM.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @LANDCASTER_92",
-      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627"
+      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/515d1ed58010cea4930aa90bbc76dffb71e8fe1e83c6ff3eb529c712aff6406a.webp",
+        "sha256": "515d1ed58010cea4930aa90bbc76dffb71e8fe1e83c6ff3eb529c712aff6406a",
+        "bytes": 469916,
+        "mimeType": "image/webp",
+        "width": 800,
+        "height": 1200,
+        "originalSha256": "2a07cf25e4d9741dd144ebced2ac7d7ea479bb9951fba1f8d8713fcde586350c",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e0cd9ee9f22f3f6cb2a98e14ea2f00c88095422aeee6066a25dd135c0da4d12f.webp",
+            "sha256": "e0cd9ee9f22f3f6cb2a98e14ea2f00c88095422aeee6066a25dd135c0da4d12f",
+            "bytes": 76568,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 480
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/7972d42c95185b3cac9a016d915980bb205a187eaedb3ea4a410bc9b12099f87.webp",
+            "sha256": "7972d42c95185b3cac9a016d915980bb205a187eaedb3ea4a410bc9b12099f87",
+            "bytes": 296370,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 960
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/515d1ed58010cea4930aa90bbc76dffb71e8fe1e83c6ff3eb529c712aff6406a.webp",
+            "sha256": "515d1ed58010cea4930aa90bbc76dffb71e8fe1e83c6ff3eb529c712aff6406a",
+            "bytes": 469916,
+            "mimeType": "image/webp",
+            "width": 800,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HTA29JhXEAA20cu.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @LANDCASTER_92",
-      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627"
+      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/d72951c4d331d851a3aaa1b554371f53d63f408c2cedba3dcc55d365c273d738.webp",
+        "sha256": "d72951c4d331d851a3aaa1b554371f53d63f408c2cedba3dcc55d365c273d738",
+        "bytes": 422804,
+        "mimeType": "image/webp",
+        "width": 800,
+        "height": 1200,
+        "originalSha256": "dbc002040e60c4148f9d3d288669aa3cb825937c47b3b2a8499f9c1b044acffd",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/09102dc5a047591b320bde60c4406a688fc532c41598c69a283c98ef8fede8cf.webp",
+            "sha256": "09102dc5a047591b320bde60c4406a688fc532c41598c69a283c98ef8fede8cf",
+            "bytes": 75026,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 480
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/fc280e817df58b5923aec3d9e4f084004d3d6bf06eec7d4200b6cb39e9fdc185.webp",
+            "sha256": "fc280e817df58b5923aec3d9e4f084004d3d6bf06eec7d4200b6cb39e9fdc185",
+            "bytes": 273034,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 960
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/d72951c4d331d851a3aaa1b554371f53d63f408c2cedba3dcc55d365c273d738.webp",
+            "sha256": "d72951c4d331d851a3aaa1b554371f53d63f408c2cedba3dcc55d365c273d738",
+            "bytes": 422804,
+            "mimeType": "image/webp",
+            "width": 800,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {

@@ -43,7 +43,42 @@
       "url": "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @hAru_mAki_ch",
-      "sourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254"
+      "sourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b24d5d6570f69164d4ba4104978439d49319b34f82c6827d4de53ff161401d08.webp",
+        "sha256": "b24d5d6570f69164d4ba4104978439d49319b34f82c6827d4de53ff161401d08",
+        "bytes": 318616,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 900,
+        "originalSha256": "111ef488bac9424eeb9e2ae7287bba51df66a821c6d9a024664d29c60a829dcb",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3c3ef1fe5b38111a427fff1713ed197fbed4c52f13a566e5b4053172a4836bdb.webp",
+            "sha256": "3c3ef1fe5b38111a427fff1713ed197fbed4c52f13a566e5b4053172a4836bdb",
+            "bytes": 34068,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 240
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/c1a375d06d7226271a89021e2a8543071d1a535f3882403d2fb85ea8aa492c64.webp",
+            "sha256": "c1a375d06d7226271a89021e2a8543071d1a535f3882403d2fb85ea8aa492c64",
+            "bytes": 110668,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 480
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b24d5d6570f69164d4ba4104978439d49319b34f82c6827d4de53ff161401d08.webp",
+            "sha256": "b24d5d6570f69164d4ba4104978439d49319b34f82c6827d4de53ff161401d08",
+            "bytes": 318616,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 900
+          }
+        ]
+      }
     }
   ],
   "rights": {

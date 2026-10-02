@@ -42,25 +42,133 @@
       "url": "https://pbs.twimg.com/media/HSK3ASrbIAALdCP.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/6f4270ecc246260dc88b782b3022e2619a5cbb139dd634721533c66d415962cc.webp",
+        "sha256": "6f4270ecc246260dc88b782b3022e2619a5cbb139dd634721533c66d415962cc",
+        "bytes": 54420,
+        "mimeType": "image/webp",
+        "width": 555,
+        "height": 1200,
+        "originalSha256": "472c4243c2bffeb1a0e85c39ff968d0cf815c14939825296a352c6ec428f6242",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/a9917b5021ab84878292f4a87b3cc7258d65af5259c4ee883421afe3b5d2dac4.webp",
+            "sha256": "a9917b5021ab84878292f4a87b3cc7258d65af5259c4ee883421afe3b5d2dac4",
+            "bytes": 26020,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 692
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/6f4270ecc246260dc88b782b3022e2619a5cbb139dd634721533c66d415962cc.webp",
+            "sha256": "6f4270ecc246260dc88b782b3022e2619a5cbb139dd634721533c66d415962cc",
+            "bytes": 54420,
+            "mimeType": "image/webp",
+            "width": 555,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HSK3Dk3aoAAn-EJ.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b1e9b8783cfa575c4eecd6000fc40dc1f1c03fd79daa973ef15957bbb64a2c28.webp",
+        "sha256": "b1e9b8783cfa575c4eecd6000fc40dc1f1c03fd79daa973ef15957bbb64a2c28",
+        "bytes": 64948,
+        "mimeType": "image/webp",
+        "width": 555,
+        "height": 1200,
+        "originalSha256": "6d2eb67b439b5e19f39f07686de26b79b01bbdd4087d087c358acfc2a1068b5d",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/d167d0bcf23bb29d39b4d8d8c74e99462202e8cf49b12f524a900da4eccdd663.webp",
+            "sha256": "d167d0bcf23bb29d39b4d8d8c74e99462202e8cf49b12f524a900da4eccdd663",
+            "bytes": 30732,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 692
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b1e9b8783cfa575c4eecd6000fc40dc1f1c03fd79daa973ef15957bbb64a2c28.webp",
+            "sha256": "b1e9b8783cfa575c4eecd6000fc40dc1f1c03fd79daa973ef15957bbb64a2c28",
+            "bytes": 64948,
+            "mimeType": "image/webp",
+            "width": 555,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HSK3GI8bQAAL1Tc.jpg",
       "role": "output",
       "alt": "Original artwork 3 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/9292faf0c30533f52aee2c8a033947601225062363153d9a1f5e73b84b4596fd.webp",
+        "sha256": "9292faf0c30533f52aee2c8a033947601225062363153d9a1f5e73b84b4596fd",
+        "bytes": 58646,
+        "mimeType": "image/webp",
+        "width": 555,
+        "height": 1200,
+        "originalSha256": "2c8792ff3b874aa16c864cf5a643d30ef118a9549debbad7a5c0a03a3d8a8f8d",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/9b24c5649ed315cd46d4504b5cb79313e982100f10db287fc34bf6cc7b023a2e.webp",
+            "sha256": "9b24c5649ed315cd46d4504b5cb79313e982100f10db287fc34bf6cc7b023a2e",
+            "bytes": 28164,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 692
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/9292faf0c30533f52aee2c8a033947601225062363153d9a1f5e73b84b4596fd.webp",
+            "sha256": "9292faf0c30533f52aee2c8a033947601225062363153d9a1f5e73b84b4596fd",
+            "bytes": 58646,
+            "mimeType": "image/webp",
+            "width": 555,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HSK3I5caQAA1EpY.jpg",
       "role": "output",
       "alt": "Original artwork 4 by @sakisuta_",
-      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/ef01e50996d5475d4cfa0b1961c1f8ad09f8523e1874dfee9350c56761790a7d.webp",
+        "sha256": "ef01e50996d5475d4cfa0b1961c1f8ad09f8523e1874dfee9350c56761790a7d",
+        "bytes": 86882,
+        "mimeType": "image/webp",
+        "width": 555,
+        "height": 1200,
+        "originalSha256": "675a572bcefc16bef15a653d3a831c870caecae81e06f0f60cc5dfa13a4ab82e",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/642ac0951d7c2c43abe5b8048a2d1f9724456c3357e65105c312e31c1940f562.webp",
+            "sha256": "642ac0951d7c2c43abe5b8048a2d1f9724456c3357e65105c312e31c1940f562",
+            "bytes": 42386,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 692
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/ef01e50996d5475d4cfa0b1961c1f8ad09f8523e1874dfee9350c56761790a7d.webp",
+            "sha256": "ef01e50996d5475d4cfa0b1961c1f8ad09f8523e1874dfee9350c56761790a7d",
+            "bytes": 86882,
+            "mimeType": "image/webp",
+            "width": 555,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {

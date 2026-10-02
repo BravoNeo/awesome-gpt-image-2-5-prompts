@@ -45,25 +45,165 @@
       "url": "https://pbs.twimg.com/media/HTORDWca4AAjQnO.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @harboriis",
-      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275"
+      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/106ff8cf054690b5fc64212aec3155936c286684042603e39fca1015f5ad64fb.webp",
+        "sha256": "106ff8cf054690b5fc64212aec3155936c286684042603e39fca1015f5ad64fb",
+        "bytes": 307962,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "3f0d663c0173323c0a0a39bb45cdfc29399a322ce4e99c802bb396eb8cc628f0",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/7991d3b906d21057959eac77eca030c990333a3b32f542de7ab9616f3faede2a.webp",
+            "sha256": "7991d3b906d21057959eac77eca030c990333a3b32f542de7ab9616f3faede2a",
+            "bytes": 49750,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 400
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/6e3351d1da3a291f021647b83e998d98fbde846c93b751a283734bd3929b89a2.webp",
+            "sha256": "6e3351d1da3a291f021647b83e998d98fbde846c93b751a283734bd3929b89a2",
+            "bytes": 168414,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 800
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/106ff8cf054690b5fc64212aec3155936c286684042603e39fca1015f5ad64fb.webp",
+            "sha256": "106ff8cf054690b5fc64212aec3155936c286684042603e39fca1015f5ad64fb",
+            "bytes": 307962,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HTORFrdaYAA_wa4.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @harboriis",
-      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275"
+      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/7867fc36f068d555e800f57709d44926e6e0de44893e083712e9357ec1efabda.webp",
+        "sha256": "7867fc36f068d555e800f57709d44926e6e0de44893e083712e9357ec1efabda",
+        "bytes": 409464,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "75c5954da6d80611baecb61f40d2aca343a12bfa0dfd68250a17a4cb5a75fb10",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/69ab464af6bc4d560c6439436352194cc9e7063148af4b63a79adc6bbe5ed05e.webp",
+            "sha256": "69ab464af6bc4d560c6439436352194cc9e7063148af4b63a79adc6bbe5ed05e",
+            "bytes": 55942,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 400
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/59552ac0c3417d8ace8ff29ea9d6be6b8c669c128e530e4a7fed88ad1878350c.webp",
+            "sha256": "59552ac0c3417d8ace8ff29ea9d6be6b8c669c128e530e4a7fed88ad1878350c",
+            "bytes": 197942,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 800
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/7867fc36f068d555e800f57709d44926e6e0de44893e083712e9357ec1efabda.webp",
+            "sha256": "7867fc36f068d555e800f57709d44926e6e0de44893e083712e9357ec1efabda",
+            "bytes": 409464,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HTORG2AaEAAGAry.jpg",
       "role": "output",
       "alt": "Original artwork 3 by @harboriis",
-      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275"
+      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/4675b79152361b7cb91c9880b21eb801236c01aa89812a9748d22e69f1cedb8a.webp",
+        "sha256": "4675b79152361b7cb91c9880b21eb801236c01aa89812a9748d22e69f1cedb8a",
+        "bytes": 404866,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "024ce46f3768ebda91699080bfb8f14f43eb03f3b17c15421723ce6132722913",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/ddfa7b82700e558e7626e2be23d5bf624335b8f399a4fa9ac33f9fd4bf30fd7d.webp",
+            "sha256": "ddfa7b82700e558e7626e2be23d5bf624335b8f399a4fa9ac33f9fd4bf30fd7d",
+            "bytes": 56140,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 400
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/43c5cafc82e2c0dc97e8f2127d399d97ee41aa9ef00227cc30dd7deec0f5737c.webp",
+            "sha256": "43c5cafc82e2c0dc97e8f2127d399d97ee41aa9ef00227cc30dd7deec0f5737c",
+            "bytes": 202860,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 800
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/4675b79152361b7cb91c9880b21eb801236c01aa89812a9748d22e69f1cedb8a.webp",
+            "sha256": "4675b79152361b7cb91c9880b21eb801236c01aa89812a9748d22e69f1cedb8a",
+            "bytes": 404866,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HTORH3nbAAAGRmX.jpg",
       "role": "output",
       "alt": "Original artwork 4 by @harboriis",
-      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275"
+      "sourceUrl": "https://x.com/harboriis/status/2104185048652255275",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b29fc7fedc8846a42f0021aa6b0f1eb19663c8c3365b2136c24244793a126aa1.webp",
+        "sha256": "b29fc7fedc8846a42f0021aa6b0f1eb19663c8c3365b2136c24244793a126aa1",
+        "bytes": 281366,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "cce1aafb12c0dfece910b5df48339d5e8c4bc82d3f23184595d781dbeb2c97e1",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3c50891a0b837f2a16f3e00bed0ebdcd8a31e68f030cabf7bd5b40f5342cbe68.webp",
+            "sha256": "3c50891a0b837f2a16f3e00bed0ebdcd8a31e68f030cabf7bd5b40f5342cbe68",
+            "bytes": 41584,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 400
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/607f0f44a239b6bc3aeab8afb4f1d06e3e1f93488955e8f63f368c71fd501517.webp",
+            "sha256": "607f0f44a239b6bc3aeab8afb4f1d06e3e1f93488955e8f63f368c71fd501517",
+            "bytes": 145642,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 800
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b29fc7fedc8846a42f0021aa6b0f1eb19663c8c3365b2136c24244793a126aa1.webp",
+            "sha256": "b29fc7fedc8846a42f0021aa6b0f1eb19663c8c3365b2136c24244793a126aa1",
+            "bytes": 281366,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {

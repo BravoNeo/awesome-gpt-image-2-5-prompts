@@ -43,13 +43,83 @@
       "url": "https://pbs.twimg.com/media/HTRQ6F6aYAATtnX.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @Aqsahere_",
-      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848"
+      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/4d644b0264ddf60fb72044a254b315a638474ff37e5c0a67e7b07dd7e164bee7.webp",
+        "sha256": "4d644b0264ddf60fb72044a254b315a638474ff37e5c0a67e7b07dd7e164bee7",
+        "bytes": 266824,
+        "mimeType": "image/webp",
+        "width": 900,
+        "height": 1200,
+        "originalSha256": "2b4636cf41f95667d6903ef92a9534fb59d89fdd24602b7e76d44a7b6f763670",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b220773232e5292b0b44c8161e3ac2daab986eda101b3c9c632e4e108cfff588.webp",
+            "sha256": "b220773232e5292b0b44c8161e3ac2daab986eda101b3c9c632e4e108cfff588",
+            "bytes": 46546,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 427
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3190ae431cc6f28d92be4df1b5ae09010ea8a418c419bc368b07b193bc09e5d8.webp",
+            "sha256": "3190ae431cc6f28d92be4df1b5ae09010ea8a418c419bc368b07b193bc09e5d8",
+            "bytes": 152958,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 853
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/4d644b0264ddf60fb72044a254b315a638474ff37e5c0a67e7b07dd7e164bee7.webp",
+            "sha256": "4d644b0264ddf60fb72044a254b315a638474ff37e5c0a67e7b07dd7e164bee7",
+            "bytes": 266824,
+            "mimeType": "image/webp",
+            "width": 900,
+            "height": 1200
+          }
+        ]
+      }
     },
     {
       "url": "https://pbs.twimg.com/media/HTRQ7l2bkAAcv79.jpg",
       "role": "output",
       "alt": "Original artwork 2 by @Aqsahere_",
-      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848"
+      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/e74d82c08f0ba70b4de4029f8e7348d8a50f86c0730042bacd89e25b80ab9230.webp",
+        "sha256": "e74d82c08f0ba70b4de4029f8e7348d8a50f86c0730042bacd89e25b80ab9230",
+        "bytes": 255810,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "5343756f3e3c6e46f359057b3493503c1b48924e09b221d0b22875798bfdedce",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/107ec10b1fb5214e0ed744d81a1022e55bf81dcd5de6f7a79e4eeb7de51df080.webp",
+            "sha256": "107ec10b1fb5214e0ed744d81a1022e55bf81dcd5de6f7a79e4eeb7de51df080",
+            "bytes": 43444,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 400
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/93688681c943f6ea38366692d7290bd1adb5a0107ed6167805fd2bb7a1420d78.webp",
+            "sha256": "93688681c943f6ea38366692d7290bd1adb5a0107ed6167805fd2bb7a1420d78",
+            "bytes": 144672,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 800
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e74d82c08f0ba70b4de4029f8e7348d8a50f86c0730042bacd89e25b80ab9230.webp",
+            "sha256": "e74d82c08f0ba70b4de4029f8e7348d8a50f86c0730042bacd89e25b80ab9230",
+            "bytes": 255810,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
     }
   ],
   "rights": {

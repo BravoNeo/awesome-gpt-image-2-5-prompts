@@ -43,7 +43,42 @@
       "url": "https://pbs.twimg.com/media/HTcTNUhaIAEiESl.jpg",
       "role": "output",
       "alt": "Original artwork 1 by @liyue_ai",
-      "sourceUrl": "https://x.com/liyue_ai/status/2105172484677091829"
+      "sourceUrl": "https://x.com/liyue_ai/status/2105172484677091829",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/b31652ad9fc802f91d6fd084ccf28c418eeee80478e67e7de1dd562e35c55e34.webp",
+        "sha256": "b31652ad9fc802f91d6fd084ccf28c418eeee80478e67e7de1dd562e35c55e34",
+        "bytes": 114016,
+        "mimeType": "image/webp",
+        "width": 675,
+        "height": 1199,
+        "originalSha256": "38c3823c50998b94d40202b740ea5eaeff8552c00669e1b9e61b36fe72668ed5",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/93e29ed8c99280620dca2229ba167d31c36a0eec2558b31524000b23272d4988.webp",
+            "sha256": "93e29ed8c99280620dca2229ba167d31c36a0eec2558b31524000b23272d4988",
+            "bytes": 39160,
+            "mimeType": "image/webp",
+            "width": 320,
+            "height": 568
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/94af3bd64e1e6c2286cbe55bcab6d1e4da2fe651626315a3add33e4b73444289.webp",
+            "sha256": "94af3bd64e1e6c2286cbe55bcab6d1e4da2fe651626315a3add33e4b73444289",
+            "bytes": 102214,
+            "mimeType": "image/webp",
+            "width": 640,
+            "height": 1137
+          },
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/b31652ad9fc802f91d6fd084ccf28c418eeee80478e67e7de1dd562e35c55e34.webp",
+            "sha256": "b31652ad9fc802f91d6fd084ccf28c418eeee80478e67e7de1dd562e35c55e34",
+            "bytes": 114016,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1199
+          }
+        ]
+      }
     }
   ],
   "rights": {

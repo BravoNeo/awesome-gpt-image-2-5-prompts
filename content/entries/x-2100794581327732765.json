@@ -1,0 +1,59 @@
+{
+  "id": "x-2100794581327732765",
+  "slug": "sunset-parking-garage-car-portrait",
+  "title": {
+    "en": "Sunset Parking-Garage Car Portrait",
+    "zh": "日落停车场汽车人像"
+  },
+  "description": {
+    "en": "A natural smartphone fashion portrait beside a customized sports coupe on a rooftop parking garage at sunset.",
+    "zh": "日落时分在露天停车场顶层，以改装跑车与紫粉色穿搭呈现自然手机时装人像。"
+  },
+  "categories": {
+    "use": [
+      "portraits",
+      "fashion-editorial"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people",
+      "fashion",
+      "vehicles"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "𝗦𝗮𝗻𝗶𝗮",
+    "handle": "saniaspeaks_"
+  },
+  "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765",
+  "promptSourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765",
+  "mediaSourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid sunset automotive lifestyle portrait of a young East Asian woman posing beside a customized modern sports coupe on the top level of an open-air parking garage.\nShe has long, straight dark-brown hair with subtle lighter brown highlights, naturally parted in the center and falling over her shoulders. She has delicate youthful features, realistic clear skin, minimal natural makeup, and a calm confident expression while looking directly at the camera.\nShe is wearing a fitted purple sleeveless cropped tank top, high-waisted bright pink cargo-style shorts with multiple pockets and strap details, and matching loose pink patterned thigh-high leg warmers or oversized leg sleeves. She finishes the outfit with clean white low-top sneakers and minimal jewelry.\nShe stands directly in front of the car with a relaxed confident pose, both hands resting naturally on the front hood of the vehicle, shoulders relaxed, feet positioned casually apart. The pose should feel like an authentic spontaneous car-meet photograph rather than a professional advertisement.\nThe car is a low, aggressively styled modern Japanese-inspired sports coupe finished in a distinctive metallic dusty-rose/pink color. It has a wide aerodynamic body kit, black front grille, sharp sculpted headlights with subtle purple illumination, large polished multi-spoke alloy wheels, dark tinted windows, a prominent rear wing, and realistic glossy reflections across the bodywork.\nThe scene takes place on an elevated rooftop parking deck during sunset. A low concrete perimeter wall runs behind the car, with a distant flat city horizon visible above it. The sky transitions naturally from warm golden-orange near the horizon into soft pale blue-gray higher up, with the last sunlight reflecting across the car's metallic paint.\nAuthentic RAW smartphone photography, realistic human skin texture, individual hair strands, accurate hands and fingers, natural body proportions, realistic clothing folds, detailed automotive surfaces, physically accurate reflections, subtle lens softness, slight smartphone exposure imperfections, natural shadows, realistic sunset lighting, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, no commercial car-ad look, candid street photography aesthetic, highly detailed, vertical 3:4 composition.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSeFhXdWsAAzwjJ.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @saniaspeaks_",
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSeFh_NWMAAbxI-.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @saniaspeaks_",
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2100794581327732765"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

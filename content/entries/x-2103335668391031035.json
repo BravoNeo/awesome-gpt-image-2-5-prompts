@@ -1,0 +1,69 @@
+{
+  "id": "x-2103335668391031035",
+  "slug": "subject-features-to-fashion-design",
+  "title": {
+    "en": "Subject Features Reconstructed as Fashion",
+    "zh": "主体特征转译为时装"
+  },
+  "description": {
+    "en": "Translate a subject’s material, texture, color and structure into a coherent, wearable fashion design.",
+    "zh": "提取主体材质、纹理、色彩与结构特征，转译为真实合理、可穿着的完整时装设计。"
+  },
+  "categories": {
+    "use": [
+      "fashion-editorial"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "fashion",
+      "objects"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "主体：XX × 核心特征提取 × 时装设计重构\n\n提取主体最具辨识度的材质、纹理、色彩、形态与结构特征，将其重新转化为完整的时装设计语言。通过合理的面料组织、服装结构与细节设计完成自然转译，使最终服装能够清晰体现主体特征，同时保持真实、合理、可穿着的服装形态。整体采用真实时装摄影质感，材质自然，纹理清晰，结构明确，光影真实，避免直接复制主体形态、简单拼贴、复杂堆叠、过度装饰与人为制造的视觉效果。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTCMosvakAAt25_.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCMos7asAAyIEH.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCMosuakAAgTzr.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCMosyaYAAQm2h.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2103335668391031035"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

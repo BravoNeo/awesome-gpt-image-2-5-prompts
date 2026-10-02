@@ -116,7 +116,49 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(prompt_for(self.entry,'en'),(original,'en',False))
         full=json.loads(build_outputs([self.entry])['export/catalog.json'])['entries'][0]
         self.assertEqual(full['originalPrompt'],original)
+        self.assertEqual(full['originalPromptSha256'],hashlib.sha256(original.encode()).hexdigest())
         self.assertEqual(full['localizedPrompts']['zh']['text'],'中文译文')
+
+    def test_japanese_original_fallback(self):
+        self.entry['originalLanguage']='ja'
+        self.entry['originalPrompt']='参照画像の人物を主題にしてください。'
+        self.entry['translations']={}
+        validate_entries([self.entry])
+        self.assertEqual(prompt_for(self.entry,'en'),(self.entry['originalPrompt'],'ja',True))
+        self.assertEqual(prompt_for(self.entry,'zh'),(self.entry['originalPrompt'],'ja',True))
+        self.entry['translations']['en']='Use the person in the reference image.'
+        self.assertEqual(prompt_for(self.entry,'en'),(self.entry['translations']['en'],'en',False))
+
+    def test_explicit_quoted_output_binding(self):
+        e=self.entry
+        e['promptSourceUrl']=e['sourceUrl']
+        e['mediaSourceUrl']='https://x.com/author/status/123456789'
+        e['mediaBinding']='author-quoted-output'
+        for m in e['media']:
+            m['sourceUrl']=e['mediaSourceUrl']
+            m['role']='output'
+        validate_entries([e])
+        outputs=build_outputs([e])
+        self.assertIn(e['mediaSourceUrl'],outputs['README.md'])
+        full=json.loads(outputs['export/catalog.json'])['entries'][0]
+        self.assertEqual(full['promptSourceUrl'],e['sourceUrl'])
+        self.assertEqual(full['mediaSourceUrl'],e['mediaSourceUrl'])
+        self.assertEqual({m['role'] for m in full['media']},{'output'})
+        e['mediaBinding']='direct-source'
+        with self.assertRaisesRegex(ValueError,'Separate output source'):
+            validate_entries([e])
+
+    def test_source_binding_fields_and_prompt_source(self):
+        self.entry['promptSourceUrl']=self.entry['sourceUrl']
+        self.entry.pop('mediaSourceUrl',None)
+        self.entry.pop('mediaBinding',None)
+        with self.assertRaisesRegex(ValueError,'together'):
+            validate_entries([self.entry])
+        self.entry['mediaSourceUrl']=self.entry['sourceUrl']
+        self.entry['mediaBinding']='direct-source'
+        self.entry['promptSourceUrl']='https://x.com/other/status/123456789'
+        with self.assertRaisesRegex(ValueError,'Prompt source'):
+            validate_entries([self.entry])
 
     def test_counts_links_hashes_and_determinism(self):
         outputs=build_outputs()

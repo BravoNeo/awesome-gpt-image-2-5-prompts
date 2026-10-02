@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "math",
+  "labels": {
+    "en": "Mathematics",
+    "zh": "数学"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105535672081957342"
+  ]
+}

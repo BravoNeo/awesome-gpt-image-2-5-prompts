@@ -1,0 +1,52 @@
+{
+  "id": "x-2105219509791678731",
+  "slug": "dusk-flash-film-portrait",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Dusk Flash Portrait with Grainy Film Texture",
+    "zh": "黄昏直闪胶片人像"
+  },
+  "description": {
+    "en": "A low-angle outdoor close-up with direct flash, a dark blue evening sky and visible film grain.",
+    "zh": "低机位户外近景，以正面直闪、深蓝暮色天空和明显胶片颗粒塑造人像。"
+  },
+  "author": {
+    "name": "yusra.",
+    "handle": "chatgptpaglu"
+  },
+  "sourceUrl": "https://x.com/chatgptpaglu/status/2105219509791678731",
+  "originalLanguage": "en",
+  "originalPrompt": "A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.",
+  "translations": {},
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic",
+      "film"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Direct flash",
+    "Evening sky",
+    "Low-angle portrait"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTc9-qbW8AAWlfy.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @chatgptpaglu",
+      "sourceUrl": "https://x.com/chatgptpaglu/status/2105219509791678731"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

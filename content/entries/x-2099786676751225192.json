@@ -1,0 +1,70 @@
+{
+  "id": "x-2099786676751225192",
+  "slug": "character-lock-screen-takeover",
+  "title": {
+    "en": "Character Lock-Screen Takeover",
+    "zh": "角色接管锁屏壁纸"
+  },
+  "description": {
+    "en": "Make a reference character interact playfully with lock-screen positions without drawing the interface into the artwork.",
+    "zh": "让参考人物仿佛接管锁屏，并与界面位置互动；图中不直接绘制文字和手机UI。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "wallpapers"
+    ],
+    "style": [
+      "graphic-design"
+    ],
+    "subject": [
+      "characters",
+      "digital-ui"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Supply the reference person or character image for the lock-screen wallpaper.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "さきすた AI artist",
+    "handle": "sakisuta_"
+  },
+  "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+  "promptSourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+  "mediaSourceUrl": "https://x.com/sakisuta_/status/2099786676751225192",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "ja",
+  "originalPrompt": "参照画像の人物を主題に、iPhoneのロック画面用壁紙を作成してください。\n\n人物がロック画面を乗っ取って、好き勝手に遊んでいるようにしてください。\niPhoneのロック画面のUI（時刻、日付、ライト・写真アイコン、通知）を大胆に活かした演出を加えること。\n\nロック画面に設定すると演出が完成するようにしてください。\n文字やiPhoneのUI要素そのものは画像内に入れないでください。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSK3ASrbIAALdCP.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSK3Dk3aoAAn-EJ.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSK3GI8bQAAL1Tc.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSK3I5caQAA1EpY.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2099786676751225192"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

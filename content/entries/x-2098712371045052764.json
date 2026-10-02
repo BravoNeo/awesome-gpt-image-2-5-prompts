@@ -1,0 +1,58 @@
+{
+  "id": "x-2098712371045052764",
+  "slug": "one-day-iphone-camera-roll",
+  "title": {
+    "en": "One Day in an iPhone Camera Roll",
+    "zh": "一天的iPhone相机胶卷"
+  },
+  "description": {
+    "en": "Use the reference person to create a single Photos-app view of casual pictures from their day.",
+    "zh": "依据参考人物，制作一张仿佛直接截取自照片应用的一日自然生活相机胶卷画面。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "photo-grids"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people",
+      "digital-ui"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Supply the reference person image whose day is represented in the camera roll.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "さきすた AI artist",
+    "handle": "sakisuta_"
+  },
+  "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764",
+  "promptSourceUrl": "https://x.com/sakisuta_/status/2098712371045052764",
+  "mediaSourceUrl": "https://x.com/sakisuta_/status/2098712371045052764",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "ja",
+  "originalPrompt": "参照画像の人物の1日ぶんのカメラロールを、iPhoneの写真アプリの画面をそのまま切り取った1枚の画像にする。 何気ない日常を撮影したようなリアルなカメラロールにする。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSAdMkHbQAAE49-.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSAdt1baIAA9fYa.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @sakisuta_",
+      "sourceUrl": "https://x.com/sakisuta_/status/2098712371045052764"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

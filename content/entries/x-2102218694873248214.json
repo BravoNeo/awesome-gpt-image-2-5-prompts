@@ -1,0 +1,69 @@
+{
+  "id": "x-2102218694873248214",
+  "slug": "red-chamber-thirteen-person-banquet",
+  "title": {
+    "en": "Thirteen-Person Red Chamber Banquet",
+    "zh": "红楼梦十三人长桌夜宴"
+  },
+  "description": {
+    "en": "Arrange thirteen classical Chinese characters around a horizontal banquet using a precise six-one-six group composition.",
+    "zh": "以左六人、中央一人、右六人的严格群像结构，描绘红楼梦人物的横向长桌夜宴。"
+  },
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "gongbi"
+    ],
+    "subject": [
+      "people",
+      "literature"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画\n\n说明：\n“《最后的晚餐》13人经典群像构图”仅借用其中央人物＋左右各6人＋横向长桌＋左右人物分组的构图关系。画面严格保持左6人、中央1人、右6人，共13人。贾宝玉位于画面正中央，林黛玉与薛宝钗分别紧邻贾宝玉两侧，其余人物按照提示词规定的顺序向画面两侧展开。13人全部清晰可见，不增减人物，不打乱左右顺序，不将人物分散到其他区域。人物沿长桌两侧形成完整横向群像。仅借用《最后的晚餐》的构图结构，故事、人物、服饰、场景与绘画语言均采用《红楼梦》的中国古典语境，不出现西方宗教人物或宗教元素。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSyUwfMboAAu3bd.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSyUwcvaYAA3JZ1.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSyUwcyaMAAZO7L.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102218694873248214"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

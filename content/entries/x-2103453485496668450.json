@@ -1,0 +1,58 @@
+{
+  "id": "x-2103453485496668450",
+  "slug": "photo-and-miniature-paper-art",
+  "title": {
+    "en": "Photo and Miniature Handmade-Paper Art",
+    "zh": "照片与微型手工纸艺术"
+  },
+  "description": {
+    "en": "A preserved photo sits above a tiny handmade interpretation with four sampled colors and generous empty paper.",
+    "zh": "上半部保留照片，下半部以四种取样色绘制微型手工纸艺术，并保留大量空白。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "art-editorial"
+    ],
+    "style": [
+      "minimalist",
+      "hand-drawn"
+    ],
+    "subject": [
+      "everyday-scenes"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload the primary photograph; retain its composition, subjects and visual details.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "𝗦𝗮𝗻𝗶𝗮",
+    "handle": "saniaspeaks_"
+  },
+  "sourceUrl": "https://x.com/saniaspeaks_/status/2103453485496668450",
+  "promptSourceUrl": "https://x.com/saniaspeaks_/status/2103453485496668450",
+  "mediaSourceUrl": "https://x.com/saniaspeaks_/status/2103453485496668450",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a sophisticated 3:4 vertical editorial art poster with GPT Image 2.5, using the uploaded photograph as the primary visual reference.\n\nDivide the composition into two perfectly balanced horizontal halves.\n\nUpper 50% — Original Photograph\nKeep the uploaded image almost completely untouched. Preserve the exact identity, facial features, pose, styling, clothing, objects, composition, lighting, colors, proportions, and natural photographic texture. The image should still look like the original photograph, enhanced only with subtle high-end editorial color grading.\n\nLower 50% — Artistic Interpretation\nTransform the key visual elements of the photograph into a tiny, centered handmade-paper artwork. Reduce the scene into a few recognizable shapes and imperfect hand-drawn lines, as if created for an independent contemporary art publication.\n\nUse:\n\n- warm off-white handmade paper\n- delicate imperfect ink-like outlines\n- simple flat acrylic-inspired shapes\n- organic uneven edges\n- subtle natural paper fibers and grain\n- maximum 4 colors sampled from the original photograph\n\nThe miniature artwork should occupy only 10–20% of the lower half, leaving most of the space intentionally empty. Keep it understated and poetic rather than detailed.\n\nAdd optional tiny editorial typography only if it naturally complements the composition. Typography should be minimal, elegant, and secondary to the artwork.\n\nVisual direction: contemporary art book, quiet luxury, gallery editorial, handmade print, refined minimalism, poetic negative space, sophisticated composition.\n\nDo not make it: cartoonish, childish, watercolor, colored-pencil, 3D, glossy, overly digital, highly detailed, colorful, busy, or commercial-looking.\n\nThe final result should feel like a limited-edition independent art-book cover where a real photograph and its handmade artistic memory coexist in one composition.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTD3x-TbsAEEUHz.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @saniaspeaks_",
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2103453485496668450"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTD3ynUbUAA0zkc.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @saniaspeaks_",
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2103453485496668450"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

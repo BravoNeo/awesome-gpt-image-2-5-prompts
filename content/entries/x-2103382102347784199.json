@@ -1,0 +1,52 @@
+{
+  "id": "x-2103382102347784199",
+  "slug": "macos-fighting-game-desktop",
+  "title": {
+    "en": "macOS Desktop with Fighting-Game Characters",
+    "zh": "格斗角色macOS桌面"
+  },
+  "description": {
+    "en": "A 16:9 desktop image pairs two columns of app icons with full-body fighting-game characters over a simple gradient.",
+    "zh": "16:9桌面图左侧安排两列应用图标，右侧呈现格斗角色全身图，背景为简洁渐变。"
+  },
+  "categories": {
+    "use": [
+      "wallpapers"
+    ],
+    "style": [
+      "graphic-design"
+    ],
+    "subject": [
+      "characters",
+      "gaming",
+      "digital-ui"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "大卫叔的AI旅程",
+    "handle": "aidavid125"
+  },
+  "sourceUrl": "https://x.com/aidavid125/status/2103382102347784199",
+  "promptSourceUrl": "https://x.com/aidavid125/status/2103382102347784199",
+  "mediaSourceUrl": "https://x.com/aidavid125/status/2103379427459834120",
+  "mediaBinding": "author-quoted-output",
+  "originalLanguage": "zh",
+  "originalPrompt": "生成一张macOS的桌面图，左边是两列常用APP的图标，右边是格斗天王中八神庵，草稚京，不知火舞，K， 山崎龍二， 雷之夏尔米， 卢卡尔·伯恩斯坦非常经典的全身图，背景是苹果电脑经典的渐变简洁背景，16：9",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTC0LGeakAEzFci.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @aidavid125",
+      "sourceUrl": "https://x.com/aidavid125/status/2103379427459834120"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "digital-ui",
+  "labels": {
+    "en": "Digital interfaces",
+    "zh": "数字界面"
+  },
+  "count": 3,
+  "entryIds": [
+    "x-2098712371045052764",
+    "x-2099786676751225192",
+    "x-2103382102347784199"
+  ]
+}

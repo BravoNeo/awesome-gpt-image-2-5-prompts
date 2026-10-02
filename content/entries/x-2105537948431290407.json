@@ -1,0 +1,53 @@
+{
+  "id": "x-2105537948431290407",
+  "slug": "casual-night-film-snapshot",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Casual Night Snapshot with Film Grain and Motion Blur",
+    "zh": "夜间随手拍胶片快照"
+  },
+  "description": {
+    "en": "Keep the reference subject’s facial and clothing features while creating a casual night snapshot with windblown hair and passing traffic.",
+    "zh": "保留参考人物的面部和衣着特征，以风吹头发、穿梭车流、胶片噪点与运动模糊营造夜间随手拍感。"
+  },
+  "author": {
+    "name": "Adam也叫吉米",
+    "handle": "Adam38363368936"
+  },
+  "sourceUrl": "https://x.com/Adam38363368936/status/2105537948431290407",
+  "originalLanguage": "zh",
+  "originalPrompt": "参考上传人物的面部衣着特征不发生变化。具有ins风的画面，胶片质感明显，有着轻微的噪点，同时带有运动模糊效果，给人一种平凡无奇、随手拍摄的快照既视感。画面中的主角双手抱胸，歪着头，头发随着风轻轻飘动，显得格外随性。背景是夜晚的场景，背后的车流穿梭不停，整体没有刻意的主体和构图。",
+  "translations": {},
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload the person reference; keep their facial and clothing features unchanged.",
+  "categories": {
+    "use": [
+      "image-editing",
+      "portraits"
+    ],
+    "style": [
+      "photorealistic",
+      "film"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Motion blur",
+    "Night traffic",
+    "Candid snapshot"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HThfl1qboAEaoYt.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Adam38363368936",
+      "sourceUrl": "https://x.com/Adam38363368936/status/2105537948431290407"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

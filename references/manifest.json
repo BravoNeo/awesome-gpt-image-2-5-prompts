@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "model": "GPT Image 2.5",
-  "totalArtworks": 5,
+  "totalArtworks": 50,
   "catalog": "export/catalog.json",
   "categories": [
     {
@@ -11,7 +11,7 @@
         "en": "Posters",
         "zh": "海报"
       },
-      "count": 2,
+      "count": 22,
       "path": "references/use/posters.json"
     },
     {
@@ -21,7 +21,7 @@
         "en": "Portraits",
         "zh": "人像"
       },
-      "count": 0,
+      "count": 10,
       "path": "references/use/portraits.json"
     },
     {
@@ -41,7 +41,7 @@
         "en": "Products",
         "zh": "产品"
       },
-      "count": 0,
+      "count": 4,
       "path": "references/use/products.json"
     },
     {
@@ -51,7 +51,7 @@
         "en": "Image editing",
         "zh": "图像编辑"
       },
-      "count": 1,
+      "count": 17,
       "path": "references/use/image-editing.json"
     },
     {
@@ -61,7 +61,7 @@
         "en": "Fashion editorial",
         "zh": "时装大片"
       },
-      "count": 1,
+      "count": 7,
       "path": "references/use/fashion-editorial.json"
     },
     {
@@ -71,8 +71,38 @@
         "en": "Art editorial",
         "zh": "艺术画页"
       },
-      "count": 1,
+      "count": 8,
       "path": "references/use/art-editorial.json"
+    },
+    {
+      "axis": "use",
+      "category": "photo-grids",
+      "labels": {
+        "en": "Photo grids",
+        "zh": "照片与多格布局"
+      },
+      "count": 4,
+      "path": "references/use/photo-grids.json"
+    },
+    {
+      "axis": "use",
+      "category": "wallpapers",
+      "labels": {
+        "en": "Wallpapers",
+        "zh": "壁纸"
+      },
+      "count": 2,
+      "path": "references/use/wallpapers.json"
+    },
+    {
+      "axis": "use",
+      "category": "infographics",
+      "labels": {
+        "en": "Infographics",
+        "zh": "信息图"
+      },
+      "count": 1,
+      "path": "references/use/infographics.json"
     },
     {
       "axis": "style",
@@ -81,7 +111,7 @@
         "en": "Colored pencil",
         "zh": "彩铅"
       },
-      "count": 1,
+      "count": 2,
       "path": "references/style/colored-pencil.json"
     },
     {
@@ -91,7 +121,7 @@
         "en": "Crayon",
         "zh": "蜡笔"
       },
-      "count": 2,
+      "count": 4,
       "path": "references/style/crayon.json"
     },
     {
@@ -111,7 +141,7 @@
         "en": "Photorealistic",
         "zh": "写实摄影"
       },
-      "count": 2,
+      "count": 19,
       "path": "references/style/photorealistic.json"
     },
     {
@@ -121,7 +151,7 @@
         "en": "Retro",
         "zh": "复古"
       },
-      "count": 1,
+      "count": 5,
       "path": "references/style/retro.json"
     },
     {
@@ -131,7 +161,7 @@
         "en": "Gouache",
         "zh": "水粉"
       },
-      "count": 1,
+      "count": 2,
       "path": "references/style/gouache.json"
     },
     {
@@ -141,8 +171,168 @@
         "en": "Minimalist",
         "zh": "极简"
       },
-      "count": 1,
+      "count": 10,
       "path": "references/style/minimalist.json"
+    },
+    {
+      "axis": "style",
+      "category": "film",
+      "labels": {
+        "en": "Film photography",
+        "zh": "胶片摄影"
+      },
+      "count": 7,
+      "path": "references/style/film.json"
+    },
+    {
+      "axis": "style",
+      "category": "watercolor",
+      "labels": {
+        "en": "Watercolor",
+        "zh": "水彩"
+      },
+      "count": 4,
+      "path": "references/style/watercolor.json"
+    },
+    {
+      "axis": "style",
+      "category": "hand-drawn",
+      "labels": {
+        "en": "Hand-drawn",
+        "zh": "手绘"
+      },
+      "count": 6,
+      "path": "references/style/hand-drawn.json"
+    },
+    {
+      "axis": "style",
+      "category": "naive-illustration",
+      "labels": {
+        "en": "Naive illustration",
+        "zh": "朴拙插画"
+      },
+      "count": 1,
+      "path": "references/style/naive-illustration.json"
+    },
+    {
+      "axis": "style",
+      "category": "comic",
+      "labels": {
+        "en": "Comic illustration",
+        "zh": "漫画插画"
+      },
+      "count": 2,
+      "path": "references/style/comic.json"
+    },
+    {
+      "axis": "style",
+      "category": "graphic-design",
+      "labels": {
+        "en": "Graphic design",
+        "zh": "平面设计"
+      },
+      "count": 10,
+      "path": "references/style/graphic-design.json"
+    },
+    {
+      "axis": "style",
+      "category": "pen-doodle",
+      "labels": {
+        "en": "Pen doodle",
+        "zh": "钢笔涂鸦"
+      },
+      "count": 1,
+      "path": "references/style/pen-doodle.json"
+    },
+    {
+      "axis": "style",
+      "category": "collage",
+      "labels": {
+        "en": "Collage",
+        "zh": "拼贴"
+      },
+      "count": 3,
+      "path": "references/style/collage.json"
+    },
+    {
+      "axis": "style",
+      "category": "halftone",
+      "labels": {
+        "en": "Halftone",
+        "zh": "半调网点"
+      },
+      "count": 2,
+      "path": "references/style/halftone.json"
+    },
+    {
+      "axis": "style",
+      "category": "surreal",
+      "labels": {
+        "en": "Surreal",
+        "zh": "超现实"
+      },
+      "count": 3,
+      "path": "references/style/surreal.json"
+    },
+    {
+      "axis": "style",
+      "category": "architectural-sketch",
+      "labels": {
+        "en": "Architectural sketch",
+        "zh": "建筑手绘"
+      },
+      "count": 3,
+      "path": "references/style/architectural-sketch.json"
+    },
+    {
+      "axis": "style",
+      "category": "monochrome",
+      "labels": {
+        "en": "Monochrome",
+        "zh": "单色"
+      },
+      "count": 1,
+      "path": "references/style/monochrome.json"
+    },
+    {
+      "axis": "style",
+      "category": "oil-painting",
+      "labels": {
+        "en": "Oil painting",
+        "zh": "油画"
+      },
+      "count": 2,
+      "path": "references/style/oil-painting.json"
+    },
+    {
+      "axis": "style",
+      "category": "gongbi",
+      "labels": {
+        "en": "Gongbi painting",
+        "zh": "工笔画"
+      },
+      "count": 1,
+      "path": "references/style/gongbi.json"
+    },
+    {
+      "axis": "style",
+      "category": "psychedelic",
+      "labels": {
+        "en": "Psychedelic",
+        "zh": "迷幻"
+      },
+      "count": 1,
+      "path": "references/style/psychedelic.json"
+    },
+    {
+      "axis": "style",
+      "category": "bauhaus",
+      "labels": {
+        "en": "Bauhaus",
+        "zh": "包豪斯"
+      },
+      "count": 1,
+      "path": "references/style/bauhaus.json"
     },
     {
       "axis": "subject",
@@ -151,7 +341,7 @@
         "en": "Architecture",
         "zh": "建筑"
       },
-      "count": 2,
+      "count": 8,
       "path": "references/subject/architecture.json"
     },
     {
@@ -161,7 +351,7 @@
         "en": "Travel",
         "zh": "旅行"
       },
-      "count": 2,
+      "count": 8,
       "path": "references/subject/travel.json"
     },
     {
@@ -181,7 +371,7 @@
         "en": "People",
         "zh": "人物"
       },
-      "count": 2,
+      "count": 31,
       "path": "references/subject/people.json"
     },
     {
@@ -191,7 +381,7 @@
         "en": "Fashion",
         "zh": "时装"
       },
-      "count": 1,
+      "count": 7,
       "path": "references/subject/fashion.json"
     },
     {
@@ -201,33 +391,195 @@
         "en": "Autumn",
         "zh": "秋日"
       },
-      "count": 1,
+      "count": 2,
       "path": "references/subject/autumn.json"
+    },
+    {
+      "axis": "subject",
+      "category": "vehicles",
+      "labels": {
+        "en": "Vehicles",
+        "zh": "车辆"
+      },
+      "count": 4,
+      "path": "references/subject/vehicles.json"
+    },
+    {
+      "axis": "subject",
+      "category": "everyday-scenes",
+      "labels": {
+        "en": "Everyday scenes",
+        "zh": "日常场景"
+      },
+      "count": 7,
+      "path": "references/subject/everyday-scenes.json"
+    },
+    {
+      "axis": "subject",
+      "category": "sports",
+      "labels": {
+        "en": "Sports",
+        "zh": "运动"
+      },
+      "count": 1,
+      "path": "references/subject/sports.json"
+    },
+    {
+      "axis": "subject",
+      "category": "music",
+      "labels": {
+        "en": "Music",
+        "zh": "音乐"
+      },
+      "count": 3,
+      "path": "references/subject/music.json"
+    },
+    {
+      "axis": "subject",
+      "category": "holidays",
+      "labels": {
+        "en": "Holidays",
+        "zh": "节庆"
+      },
+      "count": 1,
+      "path": "references/subject/holidays.json"
+    },
+    {
+      "axis": "subject",
+      "category": "math",
+      "labels": {
+        "en": "Mathematics",
+        "zh": "数学"
+      },
+      "count": 1,
+      "path": "references/subject/math.json"
+    },
+    {
+      "axis": "subject",
+      "category": "objects",
+      "labels": {
+        "en": "Objects",
+        "zh": "物件"
+      },
+      "count": 5,
+      "path": "references/subject/objects.json"
+    },
+    {
+      "axis": "subject",
+      "category": "characters",
+      "labels": {
+        "en": "Characters",
+        "zh": "角色"
+      },
+      "count": 5,
+      "path": "references/subject/characters.json"
+    },
+    {
+      "axis": "subject",
+      "category": "digital-ui",
+      "labels": {
+        "en": "Digital interfaces",
+        "zh": "数字界面"
+      },
+      "count": 3,
+      "path": "references/subject/digital-ui.json"
+    },
+    {
+      "axis": "subject",
+      "category": "literature",
+      "labels": {
+        "en": "Literature",
+        "zh": "文学"
+      },
+      "count": 1,
+      "path": "references/subject/literature.json"
+    },
+    {
+      "axis": "subject",
+      "category": "food",
+      "labels": {
+        "en": "Food",
+        "zh": "食物"
+      },
+      "count": 1,
+      "path": "references/subject/food.json"
+    },
+    {
+      "axis": "subject",
+      "category": "gaming",
+      "labels": {
+        "en": "Gaming",
+        "zh": "游戏"
+      },
+      "count": 1,
+      "path": "references/subject/gaming.json"
+    },
+    {
+      "axis": "subject",
+      "category": "technology",
+      "labels": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "count": 1,
+      "path": "references/subject/technology.json"
     }
   ],
   "sha256": {
-    "README.md": "6abb3099d856eecc6514a5c18e86334fc6a76285c766184b52c7608ef41c2798",
-    "README.zh-CN.md": "8f307de7ec55fb2268e8a302d1c2ff68adb5cc49544e2c21a379cc61fd1c3057",
-    "export/catalog.json": "5baed646d903e9cbaf6b13d186ed99eb7c8b4e427e4b1138ed71b32ad6748f45",
-    "references/style/colored-pencil.json": "dc1418bd75f51083d91c1a656fd2a02476060ab42904149e4028eaf35cf15d0e",
-    "references/style/crayon.json": "17a331bb288053577ee7e25bf446e6ce6d9931eeb6114b4663fca46bb80b2012",
-    "references/style/gouache.json": "9b16d27fc072819e277d9b33347321e172721d6eeb47daed29a1deb40ec62daa",
+    "README.md": "dd4db4298b5b8ec24d7e55d375716890275802b02737ea2c88efa3dd1a4bd104",
+    "README.zh-CN.md": "41cd19fbe9d9102b905f35a33be1e4f41dc5b5ef8d5956897b6cb28c47b2bb2d",
+    "export/catalog.json": "3911b360bc65b46dc35833f7f1c42021717c660d66eb45cb650786d7e43e3f29",
+    "references/style/architectural-sketch.json": "5e6ee8aa724f49e97010c44c27451f2bce3eb721e9367244509b0e3597a824de",
+    "references/style/bauhaus.json": "69a6cd80742a34b65268b9934f9de8347b7a50955610fc68faaa2e12c1874f0a",
+    "references/style/collage.json": "fe85374cafa3df6592f3138fc42900a06b401ce61d12cda2b4d38b54500938cf",
+    "references/style/colored-pencil.json": "15b13eb9f6cbb9051bc01bfd5f62f86f30f8d860a7e69cdb02732b2c55f404f3",
+    "references/style/comic.json": "a1fe6415af5e9a7700afa9b25c09235a09ba0079c1e71e7383cee03a0d3e5915",
+    "references/style/crayon.json": "41168b3712e7784b10d95740d567319fc8414a51ff86853ef3f7084962bfcf72",
+    "references/style/film.json": "d3499dcf58d999e22986be6a64a619c46bc0efde7bdb6ef783ca819e9344fe30",
+    "references/style/gongbi.json": "fe8504344650546f12898b43f040a99e0ff4725c968c98124a6d8d058cb4e3a7",
+    "references/style/gouache.json": "e9b02225e8efaf4a62538fb2912689b91728100c7ac6033f9b2f75710c1d7536",
+    "references/style/graphic-design.json": "2fde8d78bbde1d0adfb70fbc8dfb8e7640837aaffc7b9007a293d6a4d774a84a",
+    "references/style/halftone.json": "12b0aff8ff4ed6dd0797508c8bd7922c0fe1fc1b9d94df47341d86ca17fb6345",
+    "references/style/hand-drawn.json": "19e617469e20ce76bc8eac838dd7a0fe0ba5d0f70782313165394ed2e8611b52",
     "references/style/ink-wash.json": "2cc19553aecc684ef1a33a49b1838e5a859127638ee34db0e1d80a30d8d6006f",
-    "references/style/minimalist.json": "18a13e72dc6f91dc13562597a2018dc723270b405a3b953807b3a3bcde50314b",
-    "references/style/photorealistic.json": "3c3fdd38f7a7b5bdb5a41c3a6d0a38bf91d5ba7767f5203bb1175517622a76ef",
-    "references/style/retro.json": "8f1c65beb6e632ceda08e667e168f159810b2b8db8b9f7eaad2a4a6f12053a3e",
-    "references/subject/architecture.json": "c2d0db3d420d6edf9cefab93a249fe9a6b7685b53a57b660d3e749fcd8faaf61",
-    "references/subject/autumn.json": "52c918c0abdc2204f3941066ba3e57bfade2ed942a3cdf4a218d08ea6bc3c553",
-    "references/subject/fashion.json": "e9115af91d03c301a0c968fb3e7b37b7db2a7b05c5658e2de63e6472ae1200a8",
+    "references/style/minimalist.json": "cb32a85d7b1414eaf63a66544c3f7b84142954e42bbc5c05c3e26c1cf9009a84",
+    "references/style/monochrome.json": "6a691e293e686cf0a03dafe0ec917afa54de6ddaad4300ef3ada672d8cc5380c",
+    "references/style/naive-illustration.json": "be6d50d0fafe6069741c6be839f1e9032fd1283d508b5f2ac74240392870c500",
+    "references/style/oil-painting.json": "7b04bd16f227dd21284a44d912c9a0350d6f79b4e2ab7b77f2b0d4579ef57478",
+    "references/style/pen-doodle.json": "33af7d342f5c0e0554618d0f83911b3f3d34ee5fadff0d15d02e13791503c711",
+    "references/style/photorealistic.json": "ac68e30e6c5713f0cbeff2b1ae966bb5cdc403fa7a1f92334f0c9a50d82114b0",
+    "references/style/psychedelic.json": "9711021e5144d59e62c38718c6d3518c37db57329690d4a980ca5ef0ba7418b5",
+    "references/style/retro.json": "595e91d379a99cb497ecd9eaadee56ed8f56b24d0c89ca89dc5719e3b2a2debf",
+    "references/style/surreal.json": "0ef4ab86a7191aef268787e77aeb7361a0215be9c2bc5078c1d78b43a91aa35d",
+    "references/style/watercolor.json": "aaae45108cf15e8938a555da86d2321f31bbb945759748bd3eef317cfc36676d",
+    "references/subject/architecture.json": "78230ad8b8943eda738541b96212e80fd0b6e9c7cc40b2ae0c975454fd0e7f32",
+    "references/subject/autumn.json": "e19361c2a155445043a68c8611dff4923005291001a3205491593b2debc126a1",
+    "references/subject/characters.json": "aa84790c7706b6f6069b4e0bc11dc94158fe6f128a18dbe75fd634965d97f80a",
+    "references/subject/digital-ui.json": "81594f1529c923561e331acbfbfcfd3f5b133f30910a3cbf2bfe76bb91879d2e",
+    "references/subject/everyday-scenes.json": "9bb0a7094956b4430f03dfef1f27cef876b7804036127420f2efa3dcd9dc14fc",
+    "references/subject/fashion.json": "cb658425a6840434e17a67244584d939509bd63c8d161982de023161d4db5e6f",
+    "references/subject/food.json": "488f0188b5f9e6299b99cdd348b1b1d82b1252ef25c2d49605758c162a7131fd",
+    "references/subject/gaming.json": "8f9e8e4f41df2ddf0308d80f8e5700bde37b9073304a9b141928017b394c44b3",
+    "references/subject/holidays.json": "88fc12869b438ddfda9f019daea62543ac4302f4d415b0c59507fe5a4892dce2",
     "references/subject/landscape.json": "43981b8d6920fb17a214b67cdadef7bec5f96eb80a375879d47d8542520abefc",
-    "references/subject/people.json": "e724448c2ad12accbf6005bbb6550028c476615ced3dfc9be070514969adbf0f",
-    "references/subject/travel.json": "c0d2c114e75f59edb3be2762b211de2e533c4b3b3d69c7509a35db0086560f3a",
-    "references/use/art-editorial.json": "786df40e18ca53e287cd764e1c4d45efa647cfc2b7181505c05095adc3d3c80f",
-    "references/use/fashion-editorial.json": "cbbf13e798ae0281fdf0162d7c092f44f30ca31a26ea1e795c4280bce1d75e86",
-    "references/use/image-editing.json": "997e74955ce81d38cb449cccbd9acb99211833d167b3e833c2922542d3772478",
-    "references/use/portraits.json": "b0f24dccd96039c33959a5f1a3d9ebf677acfc2cf6735336637b19d07725e28b",
-    "references/use/posters.json": "0ea653e1bdd6f1d4ab852a09dd561e8f3ed2c9a59dffdd428793980e19316050",
-    "references/use/products.json": "9f7217dd7b23a2f99c23e301aea9bff3093f1130413e52efc6fa0f8ee2f46176",
-    "references/use/storyboards.json": "e44acc606c20f1157c503bba0e9368d6ad815a0f2417933b12c909eeb39f2fd4"
+    "references/subject/literature.json": "4e4361d2094124b7070a6927f4fce656f91e95b4ba3411b6dc7f3abcdc5f189f",
+    "references/subject/math.json": "d566db5e5390a090fd5db9128c7e1fab8e26d40d6feb4902c5bea7a6b735ad7d",
+    "references/subject/music.json": "e3569a670da7e070a95f939ece4aec231b3433bcd428c827b106f4222b382251",
+    "references/subject/objects.json": "248fef1f19ae4c7e15be203393321405df52380d46bd03773ccea267fae46892",
+    "references/subject/people.json": "5639f5d5a54eb77e8f755841dbff2e2f86d755a685b092a4ce5944d7f9bb72b7",
+    "references/subject/sports.json": "b40a09e8ba982656c470af67004d8f29357f9793fd8aa612e9c2d45a15cf11c7",
+    "references/subject/technology.json": "a5dcaba60f73da041782951e4d751283d0d190533e98f69f4f78b8b0b6628ccb",
+    "references/subject/travel.json": "28e110447099b54935f721f113b5260ebcb4ed36d75d972736494433dadbcf73",
+    "references/subject/vehicles.json": "f7102ba9134794ca70830d437ed6b1a641e56de7426358cf502a4ba1da49f2f3",
+    "references/use/art-editorial.json": "47c748f609dbc3bc40589bd35274fb5ac8dab7b3da229f9deaa2180381c5868d",
+    "references/use/fashion-editorial.json": "f9d1a559b4b655274ba26b7597eca775ef120619280907b97f5d92ed4cf2bbf4",
+    "references/use/image-editing.json": "cc1edf319328a3d0beb356231fa219ec8d1296196a0186f08d49964479298f09",
+    "references/use/infographics.json": "67b058b3c9b9ed17699a884fccfc8a5cc3696858be4854646afd74a2770bf44c",
+    "references/use/photo-grids.json": "e591fe940b985bbe109dc53ae35e331fbfa8401b11026f898dd176c402efadad",
+    "references/use/portraits.json": "7460bc17edf4b75abb2856fd2ed1e1b458122fb6873a73f5693a0b56484bc8cf",
+    "references/use/posters.json": "3058c6969a8c45d34bfadceeec3466251a0272f182a7d447f242f6b853f0fa95",
+    "references/use/products.json": "da36586c388846604149b547ba7354a287dcce9ccc5251182daad365406c0f08",
+    "references/use/storyboards.json": "e44acc606c20f1157c503bba0e9368d6ad815a0f2417933b12c909eeb39f2fd4",
+    "references/use/wallpapers.json": "386ea7de698217df7c2a253dd32d82b18d70dcfd77c3daaf4a3be3ed6af34464"
   }
 }

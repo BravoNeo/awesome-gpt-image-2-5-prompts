@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "psychedelic",
+  "labels": {
+    "en": "Psychedelic",
+    "zh": "迷幻"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2103241456475369627"
+  ]
+}

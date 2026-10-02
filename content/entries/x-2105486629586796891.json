@@ -1,0 +1,65 @@
+{
+  "id": "x-2105486629586796891",
+  "slug": "architectural-passport-travel-poster",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Architectural Passport Travel Poster",
+    "zh": "建筑护照式旅行海报"
+  },
+  "description": {
+    "en": "A collectible landmark print combining colored pencil, ink, maps, architectural studies and archival annotations.",
+    "zh": "结合彩铅、墨线、地图、建筑细部与档案注释，绘制可收藏的地标旅行海报。"
+  },
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2105486629586796891",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a highly detailed “Architectural Passport” travel poster for [CITY / LANDMARK], designed to look like a premium collectible art print that blends colored-pencil illustration, fine ink drawing, vintage architectural documentation, and subtle watercolor texture.\n\nPlace the landmark as the dramatic hero, drawn with intricate hand-rendered details, realistic perspective, delicate pencil hatching, visible paper grain, and carefully controlled pops of natural color. Surround it with a faint city map, street names, architectural measurements, tiny elevation sketches, construction lines, botanical details, directional arrows, and miniature diagrammatic studies.\n\nUse an elegant warm ivory paper background with mostly muted graphite, charcoal, terracotta, olive green, dusty blue, and warm beige tones. Keep the background extremely clean and editorial, allowing the landmark to visually emerge from the page.\n\nAdd sophisticated typography:\n[CITY]\n[LANDMARK NAME]\nsmall coordinates, founding/construction date, architectural style, neighborhood name, and tiny archival annotations.\n\nInclude one or two miniature architectural detail drawings beside the main structure, as if taken from an architect’s sketchbook. Add subtle imperfections: pencil smudges, uneven ink pressure, erased construction marks, paper fibers, faint halftone texture, and hand-drawn annotation marks.\n\nThe composition should feel like a cross between a vintage travel poster, an architectural magazine cover, a museum exhibition print, and a designer’s sketchbook.\n\nVisual hook: make the landmark extremely detailed and colorful while the surrounding city information remains almost ghost-like, creating a striking contrast between “the place” and “the blueprint of the place.”\n\nVertical 4:5 composition, premium editorial design, sophisticated negative space, ultra-detailed hand illustration, realistic architectural perspective, tactile paper texture, collectible poster aesthetic, visually striking at thumbnail size, no photorealistic rendering, no 3D CGI look.",
+  "translations": {},
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "categories": {
+    "use": [
+      "posters"
+    ],
+    "style": [
+      "colored-pencil",
+      "watercolor"
+    ],
+    "subject": [
+      "architecture",
+      "travel"
+    ]
+  },
+  "tags": [
+    "Architectural drawing",
+    "Travel poster",
+    "Ivory paper"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTgw7Dma8AA7PGY.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105486629586796891"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTgw7DkbIAAjFdX.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105486629586796891"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTgw7DiagAA9SNs.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105486629586796891"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

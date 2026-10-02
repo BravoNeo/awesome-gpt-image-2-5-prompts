@@ -1,0 +1,62 @@
+{
+  "id": "x-2099481521983995971",
+  "slug": "failed-photo-character-grid",
+  "title": {
+    "en": "Character Grid of Failed Photographs",
+    "zh": "角色失败照片九宫格"
+  },
+  "description": {
+    "en": "A concise prompt for a vertical 3×3 grid of imperfect character photographs.",
+    "zh": "用简短提示词制作竖版3×3角色失败照片九宫格。"
+  },
+  "categories": {
+    "use": [
+      "photo-grids"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "characters"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "竖版3×3失败照片× ｛角色｝",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSLbT6Oa0AAtANx.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSLbT6OacAE6WoV.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSLbT6NbMAAAFD9.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2099481521983995971"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

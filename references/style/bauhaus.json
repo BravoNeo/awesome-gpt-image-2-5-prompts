@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "bauhaus",
+  "labels": {
+    "en": "Bauhaus",
+    "zh": "包豪斯"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2102417129022898550"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "literature",
+  "labels": {
+    "en": "Literature",
+    "zh": "文学"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2102218694873248214"
+  ]
+}

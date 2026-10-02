@@ -8,7 +8,7 @@
 | `content/taxonomy.json` | Allowed category slugs and English/Chinese labels |
 | `schema/entry.schema.json` | JSON Schema 2020-12; additional fields rejected |
 | `README.md`, `README.zh-CN.md` | Browseable catalog with thumbnails, all media links and complete prompts |
-| `export/catalog.json` | Complete original fields plus resolved `localizedPrompts` |
+| `export/catalog.json` | Complete original fields, `originalPromptSha256` and resolved `localizedPrompts` |
 | `references/<axis>/<category>.json` | Category's unique artwork IDs and count |
 | `references/manifest.json` | Category files, counts, catalog path and SHA-256 output hashes |
 | `scripts/prepare_submission.py` | Approved issue to pending JSON artifact |
@@ -34,7 +34,11 @@ X/Twitter status URLs normalize by status ID, ignoring handles, tracking query s
 
 A source URL, ID or slug may appear only once. Media form an array with `input` or `output` roles. A four-image post is one artwork. Each category counts distinct entries; category totals across different categories are not additive.
 
-`modelClaimed` records the credited author's model designation and is fixed to `GPT Image 2.5` for this collection. GPT Image 2 and 1.5 entries are outside its scope. `originalPrompt` is preserved exactly. Translations are separate optional text. `localizedPrompts.<locale>` reports `text`, its actual `language`, and whether `fallback` was used. Missing title/description translations fall back to English.
+`modelClaimed` records the credited author's model designation and is fixed to `GPT Image 2.5` for this collection. GPT Image 2 and 1.5 entries are outside its scope. `originalPrompt` is preserved exactly, including typos and whitespace; `originalPromptSha256` in the export is its UTF-8 SHA-256. Original languages currently include English (`en`), Chinese (`zh`) and Japanese (`ja`). Translations are separate optional text. `localizedPrompts.<locale>` reports `text`, its actual `language`, and whether `fallback` was used. Missing title/description translations fall back to English.
+
+## Prompt and artwork sources
+
+`sourceUrl` identifies the original prompt post and determines the stable ID. Entries can additionally specify `promptSourceUrl`, `mediaSourceUrl` and `mediaBinding` as a group. `promptSourceUrl` must match `sourceUrl`. `direct-source` means the same post supplies the prompt and output images. `author-quoted-output` records an output artwork the author explicitly quoted from another post. Each output media item's `sourceUrl` must credit that bound artwork post. Quoted output images retain the `output` role; they are not inferred reference inputs. README shows the artwork source when it differs from the prompt post. Older entries without these optional fields use `sourceUrl` for both.
 
 ## Operations
 

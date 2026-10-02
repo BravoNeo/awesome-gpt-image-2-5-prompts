@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "characters",
+  "labels": {
+    "en": "Characters",
+    "zh": "角色"
+  },
+  "count": 5,
+  "entryIds": [
+    "x-2098634675057238254",
+    "x-2099481521983995971",
+    "x-2099786676751225192",
+    "x-2103241456475369627",
+    "x-2103382102347784199"
+  ]
+}

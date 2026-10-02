@@ -1,0 +1,64 @@
+{
+  "id": "x-2104455859447501166",
+  "slug": "photo-illustration-memory-card",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Photo and Naive Illustration Memory Card",
+    "zh": "照片与朴拙插画记忆卡片"
+  },
+  "description": {
+    "en": "Split a reference photograph into a photographic upper half and a small handmade illustration on aged ivory paper below.",
+    "zh": "以参考照片生成上下分区的记忆卡：上半部保留摄影质感，下半部在旧象牙纸上重现小幅手绘插画。"
+  },
+  "author": {
+    "name": "Harboris",
+    "handle": "harboriis"
+  },
+  "sourceUrl": "https://x.com/harboriis/status/2104455859447501166",
+  "originalLanguage": "en",
+  "originalPrompt": "Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.\nLayout\nSplit the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.\nScene Translation\nIn the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.\nIllustration Style\nUse restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.\nColor\nExtract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.\nTexture\nBlend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.\nTypography\nBelow the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.\nCleanup\nRemove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.\nNegative\nNo major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.\nVertical 3:4 split card · photo top / naive illustration bottom · aged paper texture",
+  "translations": {},
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload the photo that supplies the entire scene, subject count, viewpoint and layout.",
+  "categories": {
+    "use": [
+      "image-editing"
+    ],
+    "style": [
+      "naive-illustration",
+      "crayon"
+    ],
+    "subject": [
+      "everyday-scenes"
+    ]
+  },
+  "tags": [
+    "Memory card",
+    "Split composition",
+    "Aged paper"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTSHbQObIAA5M-e.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2104455859447501166"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTSHb5Xa4AA-Isa.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2104455859447501166"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTSHcezbEAAchPC.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2104455859447501166"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "x-2104249785658294448",
+  "slug": "nineties-rural-childhood-film-photo",
+  "title": {
+    "en": "1990s Rural Childhood Film Photograph",
+    "zh": "九十年代乡野童年胶片照"
+  },
+  "description": {
+    "en": "An ordinary family snapshot of rural childhood preserves the casual action and incidental texture of 135 film.",
+    "zh": "以普通家庭随手记录的乡野童年瞬间，保留自然玩耍、生活物件与135胶片的偶然影像感。"
+  },
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic",
+      "film"
+    ],
+    "subject": [
+      "people",
+      "everyday-scenes"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "90s中国家庭生活照 × 乡野童年生活 × 135胶片 × 【童年行为】\n\n说明：\n以90年代中国普通家庭记录孩子生活的照片为视觉语境，像家人随手拍下的一瞬间。人物自然玩耍、动作随意，不刻意摆拍；通过真实的生活环境、当时常见的生活物件和具体童年行为，唤起真实的童年记忆。保留135胶片家庭照片自然的影像特征与偶然性，重点表现“小时候真的发生过的一瞬间”，避免刻意复古、商业儿童写真和精心设计的怀旧摄影效果。竖版9:16。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTPMBCrbIAAUMZp.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTPMBCAawAAcw0M.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTPMBCBa8AAGFt1.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTPMBIWbcAAuHTt.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2104249785658294448"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

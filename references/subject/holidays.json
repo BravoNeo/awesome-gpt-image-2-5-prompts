@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "holidays",
+  "labels": {
+    "en": "Holidays",
+    "zh": "节庆"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105538964082069710"
+  ]
+}

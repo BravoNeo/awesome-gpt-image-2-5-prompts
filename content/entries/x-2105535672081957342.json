@@ -1,0 +1,59 @@
+{
+  "id": "x-2105535672081957342",
+  "slug": "calculation-paper-pen-doodle",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Black-Pen Figure on a Calculation Draft Sheet",
+    "zh": "计算草稿纸上的黑笔人物涂鸦"
+  },
+  "description": {
+    "en": "Turn the photo subject into loose black-pen lines among dense handwritten calculations on a rough draft sheet.",
+    "zh": "将照片人物化作草稿纸上的黑色签字笔乱线，与密集潦草计算形成随性、仿佛迷失其中的涂鸦。"
+  },
+  "author": {
+    "name": "Adam也叫吉米",
+    "handle": "Adam38363368936"
+  },
+  "sourceUrl": "https://x.com/Adam38363368936/status/2105535672081957342",
+  "originalLanguage": "zh",
+  "originalPrompt": "画面呈现出一种随性的简笔插画风，一张充满密密麻麻计算的草稿纸占据了大部分画面，计算的字迹凌乱且潦草。在这片凌乱之中，照片中的人以黑色签字笔画出，线条凌乱无序，它似乎迷失在这复杂的计算世界里，像是书写者写累后一时兴起的随手涂鸦。整体画面构图随意，光影上着重突出线条的对比，让图片中人物和草稿纸的凌乱感更加明显",
+  "translations": {},
+  "promptKind": "image-editing",
+  "inputRequirement": "Supply the photo containing the person to be drawn as a black-pen doodle.",
+  "categories": {
+    "use": [
+      "image-editing"
+    ],
+    "style": [
+      "pen-doodle",
+      "hand-drawn"
+    ],
+    "subject": [
+      "people",
+      "math"
+    ]
+  },
+  "tags": [
+    "Calculation sheet",
+    "Loose linework",
+    "Pen illustration"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HThddtIacAAGBKL.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Adam38363368936",
+      "sourceUrl": "https://x.com/Adam38363368936/status/2105535672081957342"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HThddtHa4AAS5q8.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Adam38363368936",
+      "sourceUrl": "https://x.com/Adam38363368936/status/2105535672081957342"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

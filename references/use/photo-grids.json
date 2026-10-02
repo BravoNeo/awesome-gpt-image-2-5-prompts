@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "photo-grids",
+  "labels": {
+    "en": "Photo grids",
+    "zh": "照片与多格布局"
+  },
+  "count": 4,
+  "entryIds": [
+    "x-2098612653644214288",
+    "x-2098634675057238254",
+    "x-2098712371045052764",
+    "x-2099481521983995971"
+  ]
+}

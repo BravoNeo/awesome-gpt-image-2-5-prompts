@@ -1,0 +1,65 @@
+{
+  "id": "x-2100067049288634730",
+  "slug": "halftone-architectural-travel-collage",
+  "title": {
+    "en": "Halftone Architectural Travel Collage",
+    "zh": "建筑照片与半调旅行拼贴"
+  },
+  "description": {
+    "en": "Preserve a structure photo above an archival reconstruction made from torn photo fragments, ASCII fields and architectural lines.",
+    "zh": "上半部保留建筑照片，下半部以撕纸照片、ASCII字符、半调网点与建筑线条重构档案式旅行拼贴。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "posters"
+    ],
+    "style": [
+      "collage",
+      "halftone"
+    ],
+    "subject": [
+      "architecture",
+      "travel"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload one structure photo for each poster; preserve its proportions and perspective.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730",
+  "promptSourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730",
+  "mediaSourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.\n\nFORMAT\n\n3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.\n\nDo not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.\n\nTOP HALF — THE REAL SHOT\n\nPreserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.\n\nKeep recognizable features such as:\n\n* façade\n* windows and arches\n* towers or domes\n* doors and structural details\n* roofline\n* surrounding landscape or street elements\n\nAdd only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.\n\nBOTTOM HALF — THE PRINTED RECONSTRUCTION\n\nRebuild the same structure as an experimental printed architectural collage using:\n\ntorn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.\n\nThe structure must remain immediately recognizable.\n\n* Torn-edge photographic fragments preserve the most important architectural details.\n* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.\n* Use thin technical construction lines to subtly trace the structure’s geometry.\n* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.\n* Keep the main silhouette strong and readable.\n* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.\n* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.\n* Never fully desaturate the structure.\n\nThe structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.\n\nLeave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.\n\nTYPOGRAPHY\n\nAdd one clean, readable fixed-width architectural title based on the structure:\n\n[STRUCTURE NAME]\n\nBelow it include:\n\n[CITY, COUNTRY]\nREC. STUDY 01\n\nAdd one short observational caption related to the architecture, such as:\n\n“A monumental study in geometry, time, and place.”\n\nTypography should feel like an old architectural archive mixed with an underground experimental design journal.\n\nA few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.\n\nMOOD\n\nEarly digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.\n\nThe structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.\n\nSophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.\n\nAVOID\n\nSolid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.\n\nPriority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSTv0vSbMAIlKIL.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSTv0vUbEAAVWQ2.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSTv0vXbwAE1hh4.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2100067049288634730"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "x-2102043626557878312",
+  "slug": "sunlit-impasto-peeking-subject",
+  "title": {
+    "en": "Sunlit Impasto Peeking Subject",
+    "zh": "暖阳厚涂探身插画"
+  },
+  "description": {
+    "en": "A healing illustration of a subject peeking from an opening, with saturated impasto and warm golden light.",
+    "zh": "主体从门框、窗边或墙后探出，以高饱和厚涂肌理与金色阳光呈现自然治愈气氛。"
+  },
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "oil-painting"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Adam也叫吉米",
+    "handle": "Adam38363368936"
+  },
+  "sourceUrl": "https://x.com/Adam38363368936/status/2102043626557878312",
+  "promptSourceUrl": "https://x.com/Adam38363368936/status/2102043626557878312",
+  "mediaSourceUrl": "https://x.com/Adam38363368936/status/2102043626557878312",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Adam38363368936",
+      "sourceUrl": "https://x.com/Adam38363368936/status/2102043626557878312"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSv1chua4AAzFlf.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Adam38363368936",
+      "sourceUrl": "https://x.com/Adam38363368936/status/2102043626557878312"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

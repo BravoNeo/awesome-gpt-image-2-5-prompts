@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "naive-illustration",
+  "labels": {
+    "en": "Naive illustration",
+    "zh": "朴拙插画"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2104455859447501166"
+  ]
+}

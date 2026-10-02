@@ -1,0 +1,54 @@
+{
+  "id": "x-2102417129022898550",
+  "slug": "mechanical-keyboard-encyclopedia-poster",
+  "title": {
+    "en": "Mechanical Keyboard Encyclopedia Poster",
+    "zh": "机械键盘百科信息海报"
+  },
+  "description": {
+    "en": "A modular Bauhaus-inspired keyboard infographic combines an exploded view, switch curves, layouts and terminology.",
+    "zh": "以包豪斯式模块网格结合键盘结构爆炸图、轴体曲线、配列与术语，构成机械键盘百科海报。"
+  },
+  "categories": {
+    "use": [
+      "infographics",
+      "posters",
+      "products"
+    ],
+    "style": [
+      "bauhaus",
+      "graphic-design"
+    ],
+    "subject": [
+      "objects",
+      "technology"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Mr.pinecone",
+    "handle": "Mrpinecone888"
+  },
+  "sourceUrl": "https://x.com/Mrpinecone888/status/2102417129022898550",
+  "promptSourceUrl": "https://x.com/Mrpinecone888/status/2102417129022898550",
+  "mediaSourceUrl": "https://x.com/Mrpinecone888/status/2102417129022898550",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "一张 3:4 竖版机械键盘百科信息海报，融合包豪斯功能主义、工业设计档案与现代数码实验室视觉。顶部以斜切构图展示一把紧凑型机械键盘，并在旁边拆解展示键帽、机械轴体、定位板、PCB 和卫星轴，工作室硬柔结合光形成清晰微阴影；标题“机械键盘”沿左侧网格排列，英文副标题“Mechanical Keyboard”，搭配“输入设备／机械开关”圆形分类标签、结构爆炸图与键盘尺寸比例尺。\n\n中部采用红、黄、蓝三种克制强调色和模块化几何卡片，完整呈现九类信息：60%、65%、75%、80%、96%、100%常见配列；线性轴、段落轴、点击轴触感曲线；触发行程与总行程；触发压力；键帽常见材质与高度；有线、2.4GHz、蓝牙连接方式；热插拔与焊接 PCB 区别；定位板、夹心结构与 Gasket 等常见内部结构；延迟、轮询率、全键无冲与使用场景。\n\n每个模块只保留一种主要图形，避免视觉堆叠。采用12列网格、48pt边距、8pt基线、统一2pt线性图标。背景为接近纯白的浅灰，文字为深灰，数据使用等宽字体。底部设置术语解释与参数来源栏，明确“不同品牌与型号存在差异”，禁止虚构具体型号性能或不存在的技术标准。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HS1JJ3NaMAAqRQR.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Mrpinecone888",
+      "sourceUrl": "https://x.com/Mrpinecone888/status/2102417129022898550"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

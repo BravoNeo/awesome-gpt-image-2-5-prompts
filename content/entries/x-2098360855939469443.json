@@ -1,0 +1,63 @@
+{
+  "id": "x-2098360855939469443",
+  "slug": "training-break-editorial-selfie",
+  "title": {
+    "en": "Training-Break Editorial Selfie",
+    "zh": "军训休憩随拍企划"
+  },
+  "description": {
+    "en": "A concise editorial concept combining a university training break, smartphone selfies and an emoji variable.",
+    "zh": "以军训休憩、大学生手机自拍与emoji变量组成简短视觉企划。"
+  },
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people",
+      "everyday-scenes"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "军训休憩逸趣 × Editorial视觉企划 × iPhone 原相机自拍× 女大学生 × ｛emoji ｝",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HR7gCg1acAAmZQg.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HR7gCg2akAED7Na.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HR7gCgxbwAAaGW6.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2098360855939469443"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

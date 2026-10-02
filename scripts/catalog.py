@@ -101,8 +101,18 @@ def validate_entries(entries, taxonomy=None):
         urls = [m['url'] for m in e['media']]
         if len(urls) != len(set(urls)):
             raise ValueError('Duplicate media URL within one artwork')
-        if any(canonical_source(m['sourceUrl']) != canonical_source(e['sourceUrl']) for m in e['media'] if m['role'] == 'output'):
-            raise ValueError('Output media must credit the original artwork source')
+        binding_fields = {'promptSourceUrl', 'mediaSourceUrl', 'mediaBinding'}
+        supplied = binding_fields & set(e)
+        if supplied and supplied != binding_fields:
+            raise ValueError('Provide promptSourceUrl, mediaSourceUrl and mediaBinding together')
+        prompt_source = canonical_source(e.get('promptSourceUrl', e['sourceUrl']))
+        media_source = canonical_source(e.get('mediaSourceUrl', e['sourceUrl']))
+        if prompt_source != canonical_source(e['sourceUrl']):
+            raise ValueError('Prompt source must match the entry source and stable ID')
+        if media_source != prompt_source and e.get('mediaBinding') != 'author-quoted-output':
+            raise ValueError('Separate output source requires author-quoted-output binding')
+        if any(canonical_source(m['sourceUrl']) != media_source for m in e['media'] if m['role'] == 'output'):
+            raise ValueError('Output media must credit the bound media source')
     return entries
 
 

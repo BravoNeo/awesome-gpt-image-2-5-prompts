@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "monochrome",
+  "labels": {
+    "en": "Monochrome",
+    "zh": "单色"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2103442969952952761"
+  ]
+}

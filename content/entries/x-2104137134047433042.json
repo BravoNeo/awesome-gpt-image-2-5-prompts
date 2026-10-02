@@ -1,0 +1,58 @@
+{
+  "id": "x-2104137134047433042",
+  "slug": "negative-space-architectural-poster",
+  "title": {
+    "en": "Architecture Drawn Through Negative Space",
+    "zh": "以负空间勾勒建筑"
+  },
+  "description": {
+    "en": "Leave the landmark silhouette almost empty while surrounding graphite lines and city fragments reveal its shape.",
+    "zh": "让地标剪影近乎留空，通过周围石墨线、城市碎片与测量线显现建筑形状。"
+  },
+  "categories": {
+    "use": [
+      "posters"
+    ],
+    "style": [
+      "architectural-sketch",
+      "minimalist"
+    ],
+    "subject": [
+      "architecture",
+      "travel"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2104137134047433042",
+  "promptSourceUrl": "https://x.com/Naiknelofar788/status/2104137134047433042",
+  "mediaSourceUrl": "https://x.com/Naiknelofar788/status/2104137134047433042",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create an exceptionally original minimalist architectural art poster featuring [LANDMARK].\n\nDo NOT directly draw, paint, or fill the landmark.\n\nInstead, create the landmark entirely through negative space.\n\nThe central silhouette of [LANDMARK] remains almost completely untouched — warm ivory paper showing through naturally. Around this empty silhouette, extremely delicate graphite lines describe the world that surrounds it: architectural measurements, tiny streets, distant rooftops, clouds, birds, shadows, perspective guides, fragments of maps and subtle environmental contours.\n\nThe surrounding drawing becomes denser near the edges of the landmark, making the untouched negative space gradually reveal the unmistakable silhouette of [LANDMARK].\n\nSome construction lines intentionally continue through the empty silhouette but become extremely faint, as if the artist started drawing the landmark and then erased it.\n\nAdd one unexpected detail: a single continuous pencil line travels around the landmark without ever drawing its actual outline. At one point, the line breaks and leaves a tiny handwritten coordinate or date.\n\nUse warm ivory paper, graphite pencil, extremely fine architectural linework, subtle eraser dust, paper fibers, faint halftone imperfections and soft natural shadows.\n\nColor palette: almost entirely monochrome graphite and ivory, with one extremely subtle accent inspired by [CITY/COUNTRY].\n\nSmall refined typography placed in generous negative space:\n\n[LANDMARK NAME]\n[CITY, COUNTRY]\n\n“drawn by everything around it.”\n\nThe composition must feel mysterious, intelligent and unexpectedly beautiful — like a contemporary museum artwork rather than a conventional travel poster.\n\nNo photorealistic background. No obvious illustration of the landmark. No decorative clutter. No excessive typography. No people.\n\n4:5 vertical, ultra-minimal, sophisticated editorial design, tactile handmade paper, elegant negative space, precise architectural details, smooth visual flow, premium contemporary gallery aesthetic.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTNlkQXa4AAcM6G.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104137134047433042"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTNlkQVbkAAY9A6.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104137134047433042"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

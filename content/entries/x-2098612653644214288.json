@@ -1,0 +1,64 @@
+{
+  "id": "x-2098612653644214288",
+  "slug": "spring-studio-fashion-triptych",
+  "title": {
+    "en": "Spring Studio Fashion in Three Poses",
+    "zh": "春日棚拍三种时装姿态"
+  },
+  "description": {
+    "en": "Keep one model and outfit consistent across three poses in a sage-green studio with flowers and golden window light.",
+    "zh": "在鼠尾草绿棚景、花卉与金色窗光中，让同一模特和穿搭呈现三种不同姿态。"
+  },
+  "categories": {
+    "use": [
+      "fashion-editorial",
+      "photo-grids"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people",
+      "fashion"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Nexora",
+    "handle": "frametheory058"
+  },
+  "sourceUrl": "https://x.com/frametheory058/status/2098612653644214288",
+  "promptSourceUrl": "https://x.com/frametheory058/status/2098612653644214288",
+  "mediaSourceUrl": "https://x.com/frametheory058/status/2098612653644214288",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Ultra-realistic 9:16 spring fashion studio photoshoot featuring the same cute young female model throughout, with natural realistic skin, dark-brown hair in a loose messy bun, soft minimal makeup and a warm subtle smile. She wears a cream floral camisole, oversized blush-pink knitted cardigan, relaxed light-blue wide-leg jeans and clean white sneakers.\n\nDreamy sage-green studio with warm golden sunlight creating large window and soft botanical shadows across the backdrop. Surround her naturally with pink and white flowers, a glass flower vase, stacked books, scattered petals and a soft cream bouclé cushion.\n\nCreate three distinctly different professional editorial shots while keeping her face, hairstyle, outfit, background and props perfectly consistent: one relaxed front-facing seated pose with her cheek resting on her hand, one elegant over-the-shoulder floor pose holding a small flower near her face, and one cozy seated pose with one knee raised and her head gently resting on her hands. Change framing and camera angle naturally between shots.\n\nPremium lifestyle-fashion editorial photography, 50–85mm full-frame lens, shallow depth of field, soft realistic skin texture, beautiful fabric detail, warm cinematic color grading, natural shadows, magazine-quality composition, photorealistic human appearance, no plastic skin, no AI look, no distortions.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HR_FD21a0AAyh8j.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @frametheory058",
+      "sourceUrl": "https://x.com/frametheory058/status/2098612653644214288"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HR_FEkSbEAAd6kn.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @frametheory058",
+      "sourceUrl": "https://x.com/frametheory058/status/2098612653644214288"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HR_FFLKasAAoA8R.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @frametheory058",
+      "sourceUrl": "https://x.com/frametheory058/status/2098612653644214288"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

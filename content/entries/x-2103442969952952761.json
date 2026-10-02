@@ -1,0 +1,54 @@
+{
+  "id": "x-2103442969952952761",
+  "slug": "madness-monochrome-fashion-poster",
+  "title": {
+    "en": "Madness Monochrome Fashion Poster",
+    "zh": "MADNESS黑白时装海报"
+  },
+  "description": {
+    "en": "A male model in a football jersey stands against distressed oversized typography, with horizontal blur crossing the eyes.",
+    "zh": "身穿足球球衣的男模站在磨损巨幅字形前，眼部横向运动模糊与黑白胶片纹理营造街头时装气氛。"
+  },
+  "categories": {
+    "use": [
+      "fashion-editorial",
+      "posters"
+    ],
+    "style": [
+      "monochrome",
+      "film",
+      "graphic-design"
+    ],
+    "subject": [
+      "people",
+      "fashion"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Harboris",
+    "handle": "harboriis"
+  },
+  "sourceUrl": "https://x.com/harboriis/status/2103442969952952761",
+  "promptSourceUrl": "https://x.com/harboriis/status/2103442969952952761",
+  "mediaSourceUrl": "https://x.com/harboriis/status/2103442969952952761",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a high-end monochrome fashion editorial poster featuring a young male model standing confidently in the center of the frame.\n\nSUBJECT AND POSE:\nA young man with thick, naturally curly dark hair, medium-length curls with strong volume. He has a clean youthful face with subtle facial hair and a relaxed, confident expression. He stands facing the camera with his body slightly angled, shoulders relaxed, both hands casually placed inside the front pockets of his loose-fitting pants. His posture feels effortless and confident.\n\nHe wears an oversized black vintage-inspired football jersey with white athletic stripes running along both shoulders and sleeves. The jersey has a large stylized script graphic reading \"Reckless 07\" across the chest, smaller \"07\" numbers on the upper chest and sleeves, a small crest emblem on the left chest, and subtle athletic branding details. Pair it with loose dark denim jeans.\n\nAdd a chunky digital wristwatch on his left wrist and a simple thin chain around his neck.\n\nFACE OBSCURATION:\nCreate a strong horizontal motion-blur/glitch effect passing directly across the model's eyes. The effect should look like several translucent horizontal photographic brush streaks or smeared film frames moving rapidly from left to right. Keep the rest of the face sharp and recognizable. Do not cover the entire face.\n\nCOMPOSITION:\nVertical fashion poster composition, approximately 4:5 aspect ratio.\n\nThe model occupies most of the center and lower-middle portion of the poster. Frame him from approximately the knees upward. Keep his entire hairstyle visible with enough negative space around the head.\n\nBehind him, create an oversized editorial typographic background with huge distressed white letters spelling \"MADNESS\". The typography should extend beyond the edges of the poster and sit behind the model, creating a layered magazine-cover effect.\n\nThe giant letters should have a weathered, scratched, cracked and slightly faded texture.\n\nGRAPHIC DESIGN:\nAdd small editorial typography around the composition.\n\nTop-right:\n\"NOT JUST\nA MOOD.\nIT'S WHO\nI AM.\"\n\nBottom-left:\n\"FEEL IT.\nLIVE IT.\nOWN IT.\"\n\nBottom-right:\nA handwritten-style signature reading \"Madness\" with a rough underline.\n\nUse small thin lines and subtle geometric graphic marks around the typography.\n\nCOLOR AND LIGHTING:\nStrict black-and-white monochrome photography.\n\nDeep black background, bright off-white typography, high contrast subject, strong shadows, slightly crushed blacks and bright highlights. No colorful elements.\n\nUse dramatic studio/editorial lighting with directional light from the front and slightly above, creating sculpted facial features and strong texture on the clothing.\n\nSTYLE:\nLuxury streetwear campaign mixed with underground football culture, vintage sports editorial, rebellious youth fashion magazine, gritty urban poster design.\n\nAdd heavy analog film grain, photocopy texture, distressed paper texture, scratches, dust particles, subtle cracks, rough halftone details, faded ink, imperfect printing, and subtle photographic noise.\n\nThe final image should feel like a scanned vintage fashion magazine poster that has been repeatedly photocopied and physically distressed.\n\nTYPOGRAPHY:\nUse bold condensed serif typography for the enormous background word \"MADNESS\".\n\nUse elegant handwritten script typography for \"Reckless 07\" across the jersey and the \"Madness\" signature.\n\nKeep all typography sharp, intentional, and professionally integrated into the composition.\n\nOVERALL MOOD:\nDark, rebellious, youthful, confident, raw, mysterious, underground and fashion-forward.\n\nHigh-end editorial photography, vintage football jersey campaign, gritty monochrome magazine cover, sophisticated graphic design, realistic photographic details, 4K quality, extremely detailed fabric texture, authentic film grain, professional poster composition.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTDuOloa8AA7J2Y.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2103442969952952761"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "x-2104395935438581848",
+  "slug": "morning-editorial-travel-scrapbook",
+  "title": {
+    "en": "Morning Editorial Travel Scrapbook",
+    "zh": "清晨旅行手账拼贴"
+  },
+  "description": {
+    "en": "Turn a sunset reference into a bright morning travel journal with Polaroid frames, torn paper and pressed flowers.",
+    "zh": "将日落参考照片转为明亮清晨旅行手账，结合拍立得框、撕纸、压花与精细拼贴。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "posters"
+    ],
+    "style": [
+      "collage",
+      "photorealistic"
+    ],
+    "subject": [
+      "people",
+      "travel"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload the source travel photograph; preserve the woman’s appearance, clothing and pose.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Aqsa",
+    "handle": "Aqsahere_"
+  },
+  "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848",
+  "promptSourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848",
+  "mediaSourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a high-end morning editorial scrapbook poster from the uploaded photo. Transform the sunset scene into a fresh early-morning atmosphere with soft golden morning sunlight, clear blue sky, fluffy white clouds, crisp green mountains, and bright wildflowers. Keep the woman’s appearance, outfit, pose, facial features, hair, pink bucket hat, pink T-shirt, dark jacket tied around her waist, and overall identity consistent. Design it as a sophisticated travel-journal collage with torn cream paper, Polaroid frames, subtle washi tape, film-strip details, pressed daisies, delicate botanical sketches, handwritten notes, and vintage paper textures. Use the main photo prominently in the center with several smaller snapshots showing different natural angles from the same scene. Add elegant editorial typography reading “MORNING Diaries”, with small phrases such as “clear skies · brighter days”, “same places, different mornings”, and “good views, good mood”. Keep the palette soft and refined: sky blue, fresh green, warm cream, pale pink, and subtle beige. Make it feel like a premium independent travel magazine mixed with a personal morning diary—artistic, airy, nostalgic, natural, and beautifully composed, not like an advertisement. Strict 3:4 vertical composition, realistic photography blended seamlessly with refined scrapbook elements.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTRQ6F6aYAATtnX.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Aqsahere_",
+      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTRQ7l2bkAAcv79.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Aqsahere_",
+      "sourceUrl": "https://x.com/Aqsahere_/status/2104395935438581848"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

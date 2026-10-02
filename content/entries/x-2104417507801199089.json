@@ -1,0 +1,53 @@
+{
+  "id": "x-2104417507801199089",
+  "slug": "bamboo-blind-morning-cover",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Bright Morning Cover with a Bamboo Blind",
+    "zh": "竹帘清晨明亮封面"
+  },
+  "description": {
+    "en": "A figure lifts a bamboo blind against white walls, revealing a jewel-blue sky with restrained lemon-yellow sunlight shapes.",
+    "zh": "女子轻卷竹帘，以大面积白墙、窗外宝石蓝天空和克制柠檬黄光块构成结构清晰的清晨封面。"
+  },
+  "author": {
+    "name": "李岳",
+    "handle": "liyue_ai"
+  },
+  "sourceUrl": "https://x.com/liyue_ai/status/2104417507801199089",
+  "originalLanguage": "zh",
+  "originalPrompt": "主题方向：东方禅意极简高传播封面\n风格分支：女性审美清亮型\n主体内容：一位女子站在极简竹帘旁，一只手轻轻将竹帘向上卷起\n情绪母题：打开、明朗、清晨新意\n场景与意象：大片白墙、竹帘、宝石蓝外部天空、柠檬黄色阳光色块、女子\n构图与空间：9:16竖版，竹帘形成一条纵向结构，女子位于下方三分之一，帘外宝石蓝色块形成视觉窗口，上方保留标题区\n色彩控制：珍珠白为主要背景，宝石蓝只用于帘外天空，柠檬黄用于阳光投影和极少局部点睛，竹帘保持浅竹木本色；避免蓝黄覆盖人物和墙面\n光线与质感：明亮上午硬柔结合自然光，竹帘投下清晰而简洁的几何光影\n画幅比例：9:16\n补充要求：画面一定要高明度、低灰度，蓝黄对比鲜明，结构极简，不做传统室内复杂陈设，画面留白处配上合适的文字",
+  "translations": {},
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "categories": {
+    "use": [
+      "posters"
+    ],
+    "style": [
+      "minimalist",
+      "graphic-design"
+    ],
+    "subject": [
+      "people",
+      "everyday-scenes"
+    ]
+  },
+  "tags": [
+    "Bamboo blind",
+    "Geometric shadows",
+    "Blue and yellow"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTRkiYbasAAI4oA.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @liyue_ai",
+      "sourceUrl": "https://x.com/liyue_ai/status/2104417507801199089"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

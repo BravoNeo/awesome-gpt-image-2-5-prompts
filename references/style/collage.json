@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "collage",
+  "labels": {
+    "en": "Collage",
+    "zh": "拼贴"
+  },
+  "count": 3,
+  "entryIds": [
+    "x-2099078060058550703",
+    "x-2100067049288634730",
+    "x-2104395935438581848"
+  ]
+}

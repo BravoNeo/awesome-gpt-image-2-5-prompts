@@ -1,0 +1,60 @@
+{
+  "id": "x-2099350017844867510",
+  "slug": "orange-panels-fashion-poster",
+  "title": {
+    "en": "Orange Panels Fashion Editorial",
+    "zh": "橙色竖面板时装海报"
+  },
+  "description": {
+    "en": "A wide-brimmed orange cowboy hat and matching blouse cut across three tall orange panels on a white background.",
+    "zh": "橙色宽檐牛仔帽与同色上衣穿过白底上的三块橙色竖面板，形成简洁时装构图。"
+  },
+  "categories": {
+    "use": [
+      "fashion-editorial",
+      "posters"
+    ],
+    "style": [
+      "photorealistic",
+      "minimalist",
+      "graphic-design"
+    ],
+    "subject": [
+      "people",
+      "fashion"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Harboris",
+    "handle": "harboriis"
+  },
+  "sourceUrl": "https://x.com/harboriis/status/2099350017844867510",
+  "promptSourceUrl": "https://x.com/harboriis/status/2099350017844867510",
+  "mediaSourceUrl": "https://x.com/harboriis/status/2099350017844867510",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a vertical 2:3 fashion editorial poster with a minimalist, modern aesthetic. Use a clean white background with three tall, rectangular orange panels arranged vertically across the center, with narrow white gaps between them. The middle panel is slightly taller than the two outer panels.\n\nFeature a realistic young woman with fair skin, delicate facial features, and light brown hair styled neatly under a large, wide-brimmed burnt-orange cowboy hat. She wears an elegant burnt-orange long-sleeve blouse with soft folds and a refined fashion-forward look.\n\nPosition the woman in a three-quarter profile, facing slightly toward the camera with a calm, confident expression. Her head and oversized hat extend across all three orange panels, while her body is primarily visible through the center panel. The orange panels should create a striking cutout effect, with parts of the portrait appearing to overlap the panel edges.\n\nUse warm studio lighting, soft natural skin texture, subtle shadows, crisp edges, high-end fashion photography, balanced negative space, and a premium contemporary magazine design. Use a monochromatic burnt-orange color palette against a pure white background.\n\nNo text, no logos, no typography, no borders, no extra objects. Focus entirely on the woman, the oversized hat, and the geometric orange panel composition.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HSJjtG4bYAAF5_2.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2099350017844867510"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HSJjtiSbUAAV0He.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @harboriis",
+      "sourceUrl": "https://x.com/harboriis/status/2099350017844867510"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

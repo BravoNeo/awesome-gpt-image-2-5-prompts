@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "halftone",
+  "labels": {
+    "en": "Halftone",
+    "zh": "半调网点"
+  },
+  "count": 2,
+  "entryIds": [
+    "x-2099078060058550703",
+    "x-2100067049288634730"
+  ]
+}

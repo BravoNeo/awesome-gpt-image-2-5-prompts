@@ -1,0 +1,58 @@
+{
+  "id": "x-2102804230948126802",
+  "slug": "classroom-milk-tea-straws",
+  "title": {
+    "en": "Classroom Milk Tea and Helpful Classmates",
+    "zh": "课室奶茶与递吸管群像"
+  },
+  "description": {
+    "en": "A university classroom snapshot where classmates respond to a sealed milk tea with overlapping gestures and eager offers of straws.",
+    "zh": "大学课室里，同学从不同方向为刚拿到封口奶茶的女生递来吸管，形成自然错落的抓拍群像。"
+  },
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic",
+      "film"
+    ],
+    "subject": [
+      "people",
+      "everyday-scenes"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "DeepBlue深藍",
+    "handle": "DeepBlueX0"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "大学课室 × 班花刚拿奶茶 × 众人递吸管 × 《西西里的美丽传说》群体互动构图 × iPhone抓拍 × CCD胶片感\n\n说明：\n班花刚拿到封口奶茶，尚未插入吸管；周围同学自然地从不同方向递来吸管，人物动作自然错落、彼此略有重叠。借用《西西里的美丽传说》经典点烟场面的“明确需求信号 → 周围人物即时回应”逻辑，通过普通大学课室与过度热情的服务行为形成反差。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HS6pS5PbkAAlCGu.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HS6pS5PbIAAiDUX.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @DeepBlueX0",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2102804230948126802"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

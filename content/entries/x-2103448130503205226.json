@@ -1,0 +1,66 @@
+{
+  "id": "x-2103448130503205226",
+  "slug": "timeless-editorial-travel-art",
+  "title": {
+    "en": "Timeless Editorial Travel Art",
+    "zh": "永恒视觉故事旅行画页"
+  },
+  "description": {
+    "en": "Combine a recognizable subject with ink outlines, small cultural details and restrained watercolor on ivory paper.",
+    "zh": "将可辨识主体与墨线、文化细节和克制水彩结合，在象牙纸上描绘具有叙事感的旅行画页。"
+  },
+  "categories": {
+    "use": [
+      "posters",
+      "art-editorial"
+    ],
+    "style": [
+      "watercolor",
+      "architectural-sketch"
+    ],
+    "subject": [
+      "people",
+      "architecture",
+      "travel"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226",
+  "promptSourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226",
+  "mediaSourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a sophisticated minimalist editorial art poster featuring [PERSON / LANDMARK / STRUCTURE] as the central subject, inspired by premium travel photography and refined hand-drawn illustration.\n\nPreserve the subject’s recognizable identity, proportions, silhouette, defining details, and visual character. Combine realistic elements with elegant artistic interpretation.\n\nUse a warm ivory paper background with a limited vintage color palette inspired by the subject’s location or personality. Add delicate ink outlines, architectural sketch lines, subtle hatching, halftone texture, faded print effects, and soft watercolor-like washes.\n\nCreate a sense of visual storytelling by incorporating subtle surrounding elements connected to the subject — such as [CITY / COUNTRY / CULTURE / PROFESSION / LANDMARK DETAILS / NATURE] — while maintaining generous negative space and a clean luxury-editorial composition.\n\nAdd small, tasteful typography:\n[NAME / LANDMARK]\n[CITY / COUNTRY]\n[SHORT DESCRIPTOR / YEAR / COORDINATES]\n\nStyle: museum-quality travel poster, contemporary editorial illustration, vintage printmaking, refined hand-drawn detail, understated luxury, sophisticated composition.\n\nNo unnecessary objects, no clutter, no distorted features, no exaggerated proportions, no generic stock-art appearance.\n\nFormat: 4:5 vertical, high-resolution, premium collectible poster aesthetic.\n\n[SUBJECT] reimagined as a timeless visual story.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTDy61rawAANZna.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTDy61taYAA3MJk.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTDy6-IaQAAHk_1.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2103448130503205226"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

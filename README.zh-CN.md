@@ -5,7 +5,7 @@
 
 收集 GPT Image 2.5 的创作提示词与作品，按用途、风格和主体浏览。每个作品都附有完整提示词、作者、原帖和图片链接。
 
-**5 个作品** · [Submit a prompt / 投稿](https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts/issues/new?template=submit-prompt.yml)
+**50 个作品** · [Submit a prompt / 投稿](https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts/issues/new?template=submit-prompt.yml)
 
 替换提示词中的方括号变量，再粘贴到你使用的 GPT Image 2.5 工具。图像编辑类作品需要参考图片。
 
@@ -15,38 +15,1491 @@
 
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
-| 海报 | 2 | [JSON](references/use/posters.json) |
-| 人像 | 0 | [JSON](references/use/portraits.json) |
+| 海报 | 22 | [JSON](references/use/posters.json) |
+| 人像 | 10 | [JSON](references/use/portraits.json) |
 | 分镜 | 0 | [JSON](references/use/storyboards.json) |
-| 产品 | 0 | [JSON](references/use/products.json) |
-| 图像编辑 | 1 | [JSON](references/use/image-editing.json) |
-| 时装大片 | 1 | [JSON](references/use/fashion-editorial.json) |
-| 艺术画页 | 1 | [JSON](references/use/art-editorial.json) |
+| 产品 | 4 | [JSON](references/use/products.json) |
+| 图像编辑 | 17 | [JSON](references/use/image-editing.json) |
+| 时装大片 | 7 | [JSON](references/use/fashion-editorial.json) |
+| 艺术画页 | 8 | [JSON](references/use/art-editorial.json) |
+| 照片与多格布局 | 4 | [JSON](references/use/photo-grids.json) |
+| 壁纸 | 2 | [JSON](references/use/wallpapers.json) |
+| 信息图 | 1 | [JSON](references/use/infographics.json) |
 
 ### 风格
 
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
-| 彩铅 | 1 | [JSON](references/style/colored-pencil.json) |
-| 蜡笔 | 2 | [JSON](references/style/crayon.json) |
+| 彩铅 | 2 | [JSON](references/style/colored-pencil.json) |
+| 蜡笔 | 4 | [JSON](references/style/crayon.json) |
 | 水墨 | 1 | [JSON](references/style/ink-wash.json) |
-| 写实摄影 | 2 | [JSON](references/style/photorealistic.json) |
-| 复古 | 1 | [JSON](references/style/retro.json) |
-| 水粉 | 1 | [JSON](references/style/gouache.json) |
-| 极简 | 1 | [JSON](references/style/minimalist.json) |
+| 写实摄影 | 19 | [JSON](references/style/photorealistic.json) |
+| 复古 | 5 | [JSON](references/style/retro.json) |
+| 水粉 | 2 | [JSON](references/style/gouache.json) |
+| 极简 | 10 | [JSON](references/style/minimalist.json) |
+| 胶片摄影 | 7 | [JSON](references/style/film.json) |
+| 水彩 | 4 | [JSON](references/style/watercolor.json) |
+| 手绘 | 6 | [JSON](references/style/hand-drawn.json) |
+| 朴拙插画 | 1 | [JSON](references/style/naive-illustration.json) |
+| 漫画插画 | 2 | [JSON](references/style/comic.json) |
+| 平面设计 | 10 | [JSON](references/style/graphic-design.json) |
+| 钢笔涂鸦 | 1 | [JSON](references/style/pen-doodle.json) |
+| 拼贴 | 3 | [JSON](references/style/collage.json) |
+| 半调网点 | 2 | [JSON](references/style/halftone.json) |
+| 超现实 | 3 | [JSON](references/style/surreal.json) |
+| 建筑手绘 | 3 | [JSON](references/style/architectural-sketch.json) |
+| 单色 | 1 | [JSON](references/style/monochrome.json) |
+| 油画 | 2 | [JSON](references/style/oil-painting.json) |
+| 工笔画 | 1 | [JSON](references/style/gongbi.json) |
+| 迷幻 | 1 | [JSON](references/style/psychedelic.json) |
+| 包豪斯 | 1 | [JSON](references/style/bauhaus.json) |
 
 ### 主体
 
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
-| 建筑 | 2 | [JSON](references/subject/architecture.json) |
-| 旅行 | 2 | [JSON](references/subject/travel.json) |
+| 建筑 | 8 | [JSON](references/subject/architecture.json) |
+| 旅行 | 8 | [JSON](references/subject/travel.json) |
 | 风景 | 1 | [JSON](references/subject/landscape.json) |
-| 人物 | 2 | [JSON](references/subject/people.json) |
-| 时装 | 1 | [JSON](references/subject/fashion.json) |
-| 秋日 | 1 | [JSON](references/subject/autumn.json) |
+| 人物 | 31 | [JSON](references/subject/people.json) |
+| 时装 | 7 | [JSON](references/subject/fashion.json) |
+| 秋日 | 2 | [JSON](references/subject/autumn.json) |
+| 车辆 | 4 | [JSON](references/subject/vehicles.json) |
+| 日常场景 | 7 | [JSON](references/subject/everyday-scenes.json) |
+| 运动 | 1 | [JSON](references/subject/sports.json) |
+| 音乐 | 3 | [JSON](references/subject/music.json) |
+| 节庆 | 1 | [JSON](references/subject/holidays.json) |
+| 数学 | 1 | [JSON](references/subject/math.json) |
+| 物件 | 5 | [JSON](references/subject/objects.json) |
+| 角色 | 5 | [JSON](references/subject/characters.json) |
+| 数字界面 | 3 | [JSON](references/subject/digital-ui.json) |
+| 文学 | 1 | [JSON](references/subject/literature.json) |
+| 食物 | 1 | [JSON](references/subject/food.json) |
+| 游戏 | 1 | [JSON](references/subject/gaming.json) |
+| 科技 | 1 | [JSON](references/subject/technology.json) |
 
 ## 作品与提示词
+
+<a id="training-break-editorial-selfie"></a>
+### 军训休憩随拍企划
+
+以军训休憩、大学生手机自拍与emoji变量组成简短视觉企划。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2098360855939469443)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HR7gCg1acAAmZQg.jpg)
+
+[output 1](https://pbs.twimg.com/media/HR7gCg1acAAmZQg.jpg) · [output 2](https://pbs.twimg.com/media/HR7gCg2akAED7Na.jpg) · [output 3](https://pbs.twimg.com/media/HR7gCgxbwAAaGW6.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+军训休憩逸趣 × Editorial视觉企划 × iPhone 原相机自拍× 女大学生 × ｛emoji ｝
+```
+
+</details>
+
+<a id="spring-studio-fashion-triptych"></a>
+### 春日棚拍三种时装姿态
+
+在鼠尾草绿棚景、花卉与金色窗光中，让同一模特和穿搭呈现三种不同姿态。
+
+作者：Nexora (@frametheory058) · [原帖](https://x.com/frametheory058/status/2098612653644214288)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @frametheory058](https://pbs.twimg.com/media/HR_FD21a0AAyh8j.jpg)
+
+[output 1](https://pbs.twimg.com/media/HR_FD21a0AAyh8j.jpg) · [output 2](https://pbs.twimg.com/media/HR_FEkSbEAAd6kn.jpg) · [output 3](https://pbs.twimg.com/media/HR_FFLKasAAoA8R.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Ultra-realistic 9:16 spring fashion studio photoshoot featuring the same cute young female model throughout, with natural realistic skin, dark-brown hair in a loose messy bun, soft minimal makeup and a warm subtle smile. She wears a cream floral camisole, oversized blush-pink knitted cardigan, relaxed light-blue wide-leg jeans and clean white sneakers.
+
+Dreamy sage-green studio with warm golden sunlight creating large window and soft botanical shadows across the backdrop. Surround her naturally with pink and white flowers, a glass flower vase, stacked books, scattered petals and a soft cream bouclé cushion.
+
+Create three distinctly different professional editorial shots while keeping her face, hairstyle, outfit, background and props perfectly consistent: one relaxed front-facing seated pose with her cheek resting on her hand, one elegant over-the-shoulder floor pose holding a small flower near her face, and one cozy seated pose with one knee raised and her head gently resting on her hands. Change framing and camera angle naturally between shots.
+
+Premium lifestyle-fashion editorial photography, 50–85mm full-frame lens, shallow depth of field, soft realistic skin texture, beautiful fabric detail, warm cinematic color grading, natural shadows, magazine-quality composition, photorealistic human appearance, no plastic skin, no AI look, no distortions.
+```
+
+</details>
+
+<a id="four-live-show-flyer-variations"></a>
+### 四款演出告知传单
+
+保持参考角色和画风一致，以四种服装、姿态与音乐气氛制作带虚构演出信息的告知传单。
+
+作者：Maki@Sunwood AI Labs. (@hAru\_mAki\_ch) · [原帖](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+类型：image-editing · Supply the character and art-style reference to preserve across all four flyers.
+
+![Original artwork 1 by @hAru\_mAki\_ch](https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg)
+
+[output 1](https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg)
+
+<details>
+<summary>提示词原文 (ja)</summary>
+
+```text
+このキャラクターと画風を維持して、プロのデザイナーが制作したような、いろいろなライブ衣装やポーズのライブ告知チラシを2×2の4分割で出して。
+
+衣装、ポーズ、音楽ジャンル、背景、照明、チラシのデザインは自由に発想し、4つそれぞれに違った魅力と意外性を持たせて。ライブの熱気や世界観が伝わるビジュアルと印象的なタイポグラフィを取り入れ、公演タイトルや日時・会場などの架空の告知情報も含めて、プロ級の仕上がりにして。
+
+4つすべて同じキャラクター、同じ画風を維持する。全体の比率は4:3で。
+```
+
+</details>
+
+<a id="one-day-iphone-camera-roll"></a>
+### 一天的iPhone相机胶卷
+
+依据参考人物，制作一张仿佛直接截取自照片应用的一日自然生活相机胶卷画面。
+
+作者：さきすた AI artist (@sakisuta\_) · [原帖](https://x.com/sakisuta_/status/2098712371045052764)
+
+类型：image-editing · Supply the reference person image whose day is represented in the camera roll.
+
+![Original artwork 1 by @sakisuta\_](https://pbs.twimg.com/media/HSAdMkHbQAAE49-.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSAdMkHbQAAE49-.jpg) · [output 2](https://pbs.twimg.com/media/HSAdt1baIAA9fYa.jpg)
+
+<details>
+<summary>提示词原文 (ja)</summary>
+
+```text
+参照画像の人物の1日ぶんのカメラロールを、iPhoneの写真アプリの画面をそのまま切り取った1枚の画像にする。 何気ない日常を撮影したようなリアルなカメラロールにする。
+```
+
+</details>
+
+<a id="portrait-halftone-travel-collage"></a>
+### 人像半调旅行拼贴
+
+忠实保留人像照片，与充满纸张肌理的印刷拼贴重构共同组成上下分区海报。
+
+作者：Saul Goodman (@Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2099078060058550703)
+
+类型：image-editing · Upload one portrait photograph per poster; preserve the person, pose and original scene.
+
+![Original artwork 1 by @Goodmanprotocol](https://pbs.twimg.com/media/HSFsURXbEAAXB0N.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSFsURXbEAAXB0N.jpg) · [output 2](https://pbs.twimg.com/media/HSFsVD-bMAAWvrV.jpg) · [output 3](https://pbs.twimg.com/media/HSFsWVoaYAA-EaE.jpg) · [output 4](https://pbs.twimg.com/media/HSFsXKmbAAAONOz.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+
+FORMAT
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, layered clothing, headphones/books/devices/personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+- Keep face, hands, hairstyle, headphones, layered clothing, and one signature item recognizable — identity must survive the breakdown.
+- Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+- Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+- Color: warm gray paper + black ink + the photo's own muted original colors + the single red accent. Never fully desaturate.
+- Figure fills roughly 60–88% of the frame width (scale to whatever reads best for this image) — but always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+- Add one readable fixed-width title pulled from the photo's theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure's edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it's surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+
+AVOID
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.
+```
+
+</details>
+
+<a id="orange-panels-fashion-poster"></a>
+### 橙色竖面板时装海报
+
+橙色宽檐牛仔帽与同色上衣穿过白底上的三块橙色竖面板，形成简洁时装构图。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2099350017844867510)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HSJjtG4bYAAF5_2.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSJjtG4bYAAF5_2.jpg) · [output 2](https://pbs.twimg.com/media/HSJjtiSbUAAV0He.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a vertical 2:3 fashion editorial poster with a minimalist, modern aesthetic. Use a clean white background with three tall, rectangular orange panels arranged vertically across the center, with narrow white gaps between them. The middle panel is slightly taller than the two outer panels.
+
+Feature a realistic young woman with fair skin, delicate facial features, and light brown hair styled neatly under a large, wide-brimmed burnt-orange cowboy hat. She wears an elegant burnt-orange long-sleeve blouse with soft folds and a refined fashion-forward look.
+
+Position the woman in a three-quarter profile, facing slightly toward the camera with a calm, confident expression. Her head and oversized hat extend across all three orange panels, while her body is primarily visible through the center panel. The orange panels should create a striking cutout effect, with parts of the portrait appearing to overlap the panel edges.
+
+Use warm studio lighting, soft natural skin texture, subtle shadows, crisp edges, high-end fashion photography, balanced negative space, and a premium contemporary magazine design. Use a monochromatic burnt-orange color palette against a pure white background.
+
+No text, no logos, no typography, no borders, no extra objects. Focus entirely on the woman, the oversized hat, and the geometric orange panel composition.
+```
+
+</details>
+
+<a id="failed-photo-character-grid"></a>
+### 角色失败照片九宫格
+
+用简短提示词制作竖版3×3角色失败照片九宫格。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2099481521983995971)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HSLbT6Oa0AAtANx.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSLbT6Oa0AAtANx.jpg) · [output 2](https://pbs.twimg.com/media/HSLbT6OacAE6WoV.jpg) · [output 3](https://pbs.twimg.com/media/HSLbT6NbMAAAFD9.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+竖版3×3失败照片× ｛角色｝
+```
+
+</details>
+
+<a id="character-lock-screen-takeover"></a>
+### 角色接管锁屏壁纸
+
+让参考人物仿佛接管锁屏，并与界面位置互动；图中不直接绘制文字和手机UI。
+
+作者：さきすた AI artist (@sakisuta\_) · [原帖](https://x.com/sakisuta_/status/2099786676751225192)
+
+类型：image-editing · Supply the reference person or character image for the lock-screen wallpaper.
+
+![Original artwork 1 by @sakisuta\_](https://pbs.twimg.com/media/HSK3ASrbIAALdCP.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSK3ASrbIAALdCP.jpg) · [output 2](https://pbs.twimg.com/media/HSK3Dk3aoAAn-EJ.jpg) · [output 3](https://pbs.twimg.com/media/HSK3GI8bQAAL1Tc.jpg) · [output 4](https://pbs.twimg.com/media/HSK3I5caQAA1EpY.jpg)
+
+<details>
+<summary>提示词原文 (ja)</summary>
+
+```text
+参照画像の人物を主題に、iPhoneのロック画面用壁紙を作成してください。
+
+人物がロック画面を乗っ取って、好き勝手に遊んでいるようにしてください。
+iPhoneのロック画面のUI（時刻、日付、ライト・写真アイコン、通知）を大胆に活かした演出を加えること。
+
+ロック画面に設定すると演出が完成するようにしてください。
+文字やiPhoneのUI要素そのものは画像内に入れないでください。
+```
+
+</details>
+
+<a id="halftone-architectural-travel-collage"></a>
+### 建筑照片与半调旅行拼贴
+
+上半部保留建筑照片，下半部以撕纸照片、ASCII字符、半调网点与建筑线条重构档案式旅行拼贴。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2100067049288634730)
+
+类型：image-editing · Upload one structure photo for each poster; preserve its proportions and perspective.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HSTv0vSbMAIlKIL.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSTv0vSbMAIlKIL.jpg) · [output 2](https://pbs.twimg.com/media/HSTv0vUbEAAVWQ2.jpg) · [output 3](https://pbs.twimg.com/media/HSTv0vXbwAE1hh4.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+
+Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+
+Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+
+Keep recognizable features such as:
+
+* façade
+* windows and arches
+* towers or domes
+* doors and structural details
+* roofline
+* surrounding landscape or street elements
+
+Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Rebuild the same structure as an experimental printed architectural collage using:
+
+torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+
+The structure must remain immediately recognizable.
+
+* Torn-edge photographic fragments preserve the most important architectural details.
+* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
+* Use thin technical construction lines to subtly trace the structure’s geometry.
+* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
+* Keep the main silhouette strong and readable.
+* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
+* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
+* Never fully desaturate the structure.
+
+The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+
+Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+
+TYPOGRAPHY
+
+Add one clean, readable fixed-width architectural title based on the structure:
+
+[STRUCTURE NAME]
+
+Below it include:
+
+[CITY, COUNTRY]
+REC. STUDY 01
+
+Add one short observational caption related to the architecture, such as:
+
+“A monumental study in geometry, time, and place.”
+
+Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+
+A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+
+MOOD
+
+Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+
+The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+
+Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+
+AVOID
+
+Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+
+Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
+```
+
+</details>
+
+<a id="sunset-parking-garage-car-portrait"></a>
+### 日落停车场汽车人像
+
+日落时分在露天停车场顶层，以改装跑车与紫粉色穿搭呈现自然手机时装人像。
+
+作者：𝗦𝗮𝗻𝗶𝗮 (@saniaspeaks\_) · [原帖](https://x.com/saniaspeaks_/status/2100794581327732765)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @saniaspeaks\_](https://pbs.twimg.com/media/HSeFhXdWsAAzwjJ.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSeFhXdWsAAzwjJ.jpg) · [output 2](https://pbs.twimg.com/media/HSeFh_NWMAAbxI-.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid sunset automotive lifestyle portrait of a young East Asian woman posing beside a customized modern sports coupe on the top level of an open-air parking garage.
+She has long, straight dark-brown hair with subtle lighter brown highlights, naturally parted in the center and falling over her shoulders. She has delicate youthful features, realistic clear skin, minimal natural makeup, and a calm confident expression while looking directly at the camera.
+She is wearing a fitted purple sleeveless cropped tank top, high-waisted bright pink cargo-style shorts with multiple pockets and strap details, and matching loose pink patterned thigh-high leg warmers or oversized leg sleeves. She finishes the outfit with clean white low-top sneakers and minimal jewelry.
+She stands directly in front of the car with a relaxed confident pose, both hands resting naturally on the front hood of the vehicle, shoulders relaxed, feet positioned casually apart. The pose should feel like an authentic spontaneous car-meet photograph rather than a professional advertisement.
+The car is a low, aggressively styled modern Japanese-inspired sports coupe finished in a distinctive metallic dusty-rose/pink color. It has a wide aerodynamic body kit, black front grille, sharp sculpted headlights with subtle purple illumination, large polished multi-spoke alloy wheels, dark tinted windows, a prominent rear wing, and realistic glossy reflections across the bodywork.
+The scene takes place on an elevated rooftop parking deck during sunset. A low concrete perimeter wall runs behind the car, with a distant flat city horizon visible above it. The sky transitions naturally from warm golden-orange near the horizon into soft pale blue-gray higher up, with the last sunlight reflecting across the car's metallic paint.
+Authentic RAW smartphone photography, realistic human skin texture, individual hair strands, accurate hands and fingers, natural body proportions, realistic clothing folds, detailed automotive surfaces, physically accurate reflections, subtle lens softness, slight smartphone exposure imperfections, natural shadows, realistic sunset lighting, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, no commercial car-ad look, candid street photography aesthetic, highly detailed, vertical 3:4 composition.
+```
+
+</details>
+
+<a id="sunlit-impasto-peeking-subject"></a>
+### 暖阳厚涂探身插画
+
+主体从门框、窗边或墙后探出，以高饱和厚涂肌理与金色阳光呈现自然治愈气氛。
+
+作者：Adam也叫吉米 (@Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2102043626557878312)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Adam38363368936](https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSv1KyGbYAA0IHG.jpg) · [output 2](https://pbs.twimg.com/media/HSv1chua4AAzFlf.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+厚涂油画风格插画，【主体】从【门框/窗边/墙后】探出身体，表情自然治愈。背景为【高饱和颜色】，带明显厚涂颜料肌理。阳光照在主体上，形成温暖金色光影，冷暖对比明显。笔触松弛自然，真实油画质感，简洁构图，治愈系艺术插画。比例【1:1】。
+```
+
+</details>
+
+<a id="red-chamber-thirteen-person-banquet"></a>
+### 红楼梦十三人长桌夜宴
+
+以左六人、中央一人、右六人的严格群像结构，描绘红楼梦人物的横向长桌夜宴。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102218694873248214)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg)
+
+[output 1](https://pbs.twimg.com/media/HSyUwcubAAAZxxH.jpg) · [output 2](https://pbs.twimg.com/media/HSyUwfMboAAu3bd.jpg) · [output 3](https://pbs.twimg.com/media/HSyUwcvaYAA3JZ1.jpg) · [output 4](https://pbs.twimg.com/media/HSyUwcyaMAAZO7L.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+《红楼梦·群芳夜宴》 × 《最后的晚餐》13人经典群像构图 × 仅借用横向群像结构 × 约1.9:1宽幅 × 画面左侧6人：妙玉、王熙凤、史湘云、探春、李纨、林黛玉 × 中央：贾宝玉 × 画面右侧6人：薛宝钗、迎春、惜春、平儿、袭人、晴雯 × 横向长桌宴席 × 清代宫廷工笔人物画
+
+说明：
+“《最后的晚餐》13人经典群像构图”仅借用其中央人物＋左右各6人＋横向长桌＋左右人物分组的构图关系。画面严格保持左6人、中央1人、右6人，共13人。贾宝玉位于画面正中央，林黛玉与薛宝钗分别紧邻贾宝玉两侧，其余人物按照提示词规定的顺序向画面两侧展开。13人全部清晰可见，不增减人物，不打乱左右顺序，不将人物分散到其他区域。人物沿长桌两侧形成完整横向群像。仅借用《最后的晚餐》的构图结构，故事、人物、服饰、场景与绘画语言均采用《红楼梦》的中国古典语境，不出现西方宗教人物或宗教元素。
+```
+
+</details>
+
+<a id="mechanical-keyboard-encyclopedia-poster"></a>
+### 机械键盘百科信息海报
+
+以包豪斯式模块网格结合键盘结构爆炸图、轴体曲线、配列与术语，构成机械键盘百科海报。
+
+作者：Mr.pinecone (@Mrpinecone888) · [原帖](https://x.com/Mrpinecone888/status/2102417129022898550)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Mrpinecone888](https://pbs.twimg.com/media/HS1JJ3NaMAAqRQR.jpg)
+
+[output 1](https://pbs.twimg.com/media/HS1JJ3NaMAAqRQR.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+一张 3:4 竖版机械键盘百科信息海报，融合包豪斯功能主义、工业设计档案与现代数码实验室视觉。顶部以斜切构图展示一把紧凑型机械键盘，并在旁边拆解展示键帽、机械轴体、定位板、PCB 和卫星轴，工作室硬柔结合光形成清晰微阴影；标题“机械键盘”沿左侧网格排列，英文副标题“Mechanical Keyboard”，搭配“输入设备／机械开关”圆形分类标签、结构爆炸图与键盘尺寸比例尺。
+
+中部采用红、黄、蓝三种克制强调色和模块化几何卡片，完整呈现九类信息：60%、65%、75%、80%、96%、100%常见配列；线性轴、段落轴、点击轴触感曲线；触发行程与总行程；触发压力；键帽常见材质与高度；有线、2.4GHz、蓝牙连接方式；热插拔与焊接 PCB 区别；定位板、夹心结构与 Gasket 等常见内部结构；延迟、轮询率、全键无冲与使用场景。
+
+每个模块只保留一种主要图形，避免视觉堆叠。采用12列网格、48pt边距、8pt基线、统一2pt线性图标。背景为接近纯白的浅灰，文字为深灰，数据使用等宽字体。底部设置术语解释与参数来源栏，明确“不同品牌与型号存在差异”，禁止虚构具体型号性能或不存在的技术标准。
+```
+
+</details>
+
+<a id="classroom-milk-tea-straws"></a>
+### 课室奶茶与递吸管群像
+
+大学课室里，同学从不同方向为刚拿到封口奶茶的女生递来吸管，形成自然错落的抓拍群像。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2102804230948126802)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HS6pS5PbkAAlCGu.jpg)
+
+[output 1](https://pbs.twimg.com/media/HS6pS5PbkAAlCGu.jpg) · [output 2](https://pbs.twimg.com/media/HS6pS5PbIAAiDUX.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+大学课室 × 班花刚拿奶茶 × 众人递吸管 × 《西西里的美丽传说》群体互动构图 × iPhone抓拍 × CCD胶片感
+
+说明：
+班花刚拿到封口奶茶，尚未插入吸管；周围同学自然地从不同方向递来吸管，人物动作自然错落、彼此略有重叠。借用《西西里的美丽传说》经典点烟场面的“明确需求信号 → 周围人物即时回应”逻辑，通过普通大学课室与过度热情的服务行为形成反差。
+```
+
+</details>
+
+<a id="photo-to-expressive-oil-gouache"></a>
+### 照片转表现性油彩水粉画
+
+将整幅参考照片转为具厚涂、调色刀痕迹与水粉层次的实体绘画，保留主体和场景结构。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2103015777360392379)
+
+类型：image-editing · Upload the complete original photograph; retain all subjects, objects, framing and aspect ratio.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HS9prDObkAAIyPK.jpg)
+
+[output 1](https://pbs.twimg.com/media/HS9prDObkAAIyPK.jpg) · [output 2](https://pbs.twimg.com/media/HS9prf4boAA7sZZ.jpg) · [output 3](https://pbs.twimg.com/media/HS9psJIbwAARZvP.jpg) · [output 4](https://pbs.twimg.com/media/HS9psn6bgAAAfHD.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Use the uploaded real photograph as the absolute source image. Transform the entire photograph into a sophisticated, highly detailed full fine-art painting while preserving the exact identity and visual structure of the original image.
+
+The result must clearly remain the same person, same face, same facial features, same facial proportions, same hairstyle, same pose, same body proportions, same clothing, same hand position, same expression, same camera angle, same framing, same background composition, and same overall scene. Do not redesign or reinterpret the subject's identity, anatomy, pose, or composition.
+
+IMPORTANT: This is a transformation of the uploaded real photograph into a painting, NOT a new image generation. Every visible element from the original photograph should be retained and converted into painted form.
+
+Transform the entire image into a bold contemporary expressive oil-and-gouache fine-art painting with an authentic handcrafted appearance. Replace the photographic surface completely with rich physical paint. Use thick visible brushstrokes, expressive impasto, palette-knife marks, layered pigments, dry-brush textures, painterly edges, subtle paint buildup, and visible canvas texture.
+
+Preserve the person's face with high accuracy. Facial identity must remain recognizable and consistent with the source photograph. Carefully retain the exact eyes, eye spacing, eyebrows, nose shape, lips, jawline, cheek structure, skin tone, facial proportions, hairstyle and expression. Render the face with refined painterly detail while allowing visible brushwork and natural paint texture.
+
+Transform the hair completely into expressive painted strokes while maintaining the original hairstyle, volume, direction, length, and shape. Use a mixture of fine individual brush marks and larger energetic strokes to create realistic yet artistic hair texture.
+
+Transform the clothing completely into painted fabric while preserving its exact design, colors, folds, seams, logos or symbols, proportions, and position from the original photograph. Use thick layered paint and expressive strokes to describe the fabric and folds without changing the clothing itself.
+
+Transform the hands and fingers into anatomically accurate painted forms while preserving their exact position, gesture, proportions, skin tone, and relationship to the face.
+
+Transform the entire background into the same scene rendered as physical artwork. Preserve the original objects, colors, shapes, perspective, lighting direction, and composition, but reinterpret their surfaces through expressive paint. Do not replace the background with a different environment.
+
+Use a rich contemporary palette with deep cobalt blue, vivid golden yellow, warm orange, red, turquoise, cream, earthy brown, and natural skin tones, matching the colors already present in the source image. Allow colors to overlap naturally through visible brushwork.
+
+The painting should feel like a hand-painted gallery artwork created with oil paint, gouache, and palette knives on textured canvas, combining realistic figurative painting with energetic modern expressionism.
+
+Surface and brushwork: thick impasto, tactile paint, visible bristle marks, palette-knife strokes, dry-brush details, layered translucent washes, broken color, rough painted edges, natural pigment variation, canvas grain, subtle imperfections, handcrafted physical artwork.
+
+Lighting: preserve the original photograph's lighting and shadows, translating them into painted highlights, midtones, and shadows rather than changing the lighting setup.
+
+Composition: preserve the exact original composition, framing, camera perspective, subject placement, proportions, and aspect ratio. Do not crop, zoom, rotate, extend, or rearrange the image.
+```
+
+</details>
+
+<a id="rainbow-grim-reaper-psychedelic-poster"></a>
+### 彩虹死神迷幻海报
+
+黑白墨绘骷髅从融化彩虹中现身，以粗粝复古黑光海报质感形成阴暗与明亮色带的对比。
+
+作者：LANDCÄSTER.EXE (@LANDCASTER\_92) · [原帖](https://x.com/LANDCASTER_92/status/2103241456475369627)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @LANDCASTER\_92](https://pbs.twimg.com/media/HTA29JiXgAEGPPM.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTA29JiXgAEGPPM.jpg) · [output 2](https://pbs.twimg.com/media/HTA29JhXEAA20cu.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+A surreal psychedelic poster illustration of a skeletal grim-reaper figure emerging through a towering rainbow arch, gripping two vertical streams of liquid color like curtains. The skull and body are rendered in stark black-and-white with heavy inked shadows and gritty stippled texture, creating a macabre contrast against intensely saturated rainbow bands of red, orange, yellow, green, blue, and violet. The rainbow melts and drips downward into glossy neon puddles across a dark rocky foreground, with colorful liquid splashes clinging to the skeleton’s hands and limbs. Pale lavender-gray sky, strange mountainous silhouettes, dreamlike cosmic atmosphere. Retro 1970s underground, blacklight psychedelic print aesthetic, hand-drawn linework, screen-print texture, high contrast, surreal horror fused with cheerful rainbow imagery, vertical composition, centered symmetrical framing, slightly distressed vintage print finish
+```
+
+</details>
+
+<a id="subject-features-to-fashion-design"></a>
+### 主体特征转译为时装
+
+提取主体材质、纹理、色彩与结构特征，转译为真实合理、可穿着的完整时装设计。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2103335668391031035)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HTCMosvakAAt25_.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTCMosvakAAt25_.jpg) · [output 2](https://pbs.twimg.com/media/HTCMos7asAAyIEH.jpg) · [output 3](https://pbs.twimg.com/media/HTCMosuakAAgTzr.jpg) · [output 4](https://pbs.twimg.com/media/HTCMosyaYAAQm2h.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+主体：XX × 核心特征提取 × 时装设计重构
+
+提取主体最具辨识度的材质、纹理、色彩、形态与结构特征，将其重新转化为完整的时装设计语言。通过合理的面料组织、服装结构与细节设计完成自然转译，使最终服装能够清晰体现主体特征，同时保持真实、合理、可穿着的服装形态。整体采用真实时装摄影质感，材质自然，纹理清晰，结构明确，光影真实，避免直接复制主体形态、简单拼贴、复杂堆叠、过度装饰与人为制造的视觉效果。
+```
+
+</details>
+
+<a id="minimal-architectural-sketch-poster"></a>
+### 极简建筑手绘海报
+
+用细墨线、建筑排线与几何点缀在象牙纸上描绘可辨识的地标轮廓。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2103337128868590047)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTCN9FZbkAAWNDr.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTCN9FZbkAAWNDr.jpg) · [output 2](https://pbs.twimg.com/media/HTCN90ZasAAJ71X.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+A sophisticated minimalist architectural art poster featuring [LANDMARK / STRUCTURE] as the central subject, illustrated in a refined hand-drawn architectural sketch style. Preserve the landmark’s recognizable silhouette, proportions, and defining architectural details, while transforming it into an elegant artistic composition.
+
+Use a limited monochromatic color palette inspired by the location, with soft vintage tones on a warm ivory/off-white paper background. Combine delicate ink lines, fine architectural hatching, subtle halftone texture, and lightly distressed print details.
+
+Surround the structure with a few abstract geometric shapes, soft translucent circles, subtle atmospheric elements, birds, or tiny contextual details that complement the landmark without overpowering it. Add a subtle sense of depth through overlapping layers and faded linework.
+
+Include small minimalist typography on one side: [CITY / COUNTRY], [LANDMARK NAME], and optional coordinates or a short location descriptor, arranged like a premium travel-art print.
+
+Clean negative space, editorial graphic design, museum-quality travel poster aesthetic, elegant composition, understated luxury, vintage screen-print texture, artistic architectural illustration, no people, no photorealistic background, no unnecessary objects, 4:5 vertical composition.
+
+[LANDMARK] reimagined as a collectible minimalist travel-art poster, combining architectural sketching, vintage printmaking, geometric abstract shapes, delicate linework, halftone texture, muted location-inspired colors, and elegant negative space. The landmark remains instantly recognizable but feels like a hand-crafted piece of modern graphic art. Add tiny birds, subtle environmental elements, coordinates, and minimal location typography. Premium editorial aesthetic, artistic, sophisticated, highly shareable, 4:5 vertical.
+```
+
+</details>
+
+<a id="expressive-automotive-motion-poster"></a>
+### 表现性汽车动态海报
+
+低机位四分之三视角的疾驶汽车，结合运动笔触、墨点和复古赛车印刷纹理。
+
+作者：Saul Goodman (@Goodmanprotocol) · [原帖](https://x.com/Goodmanprotocol/status/2103361503881838850)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Goodmanprotocol](https://pbs.twimg.com/media/HTCkGWpa0AAK9_q.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTCkGWpa0AAK9_q.jpg) · [output 2](https://pbs.twimg.com/media/HTCkHMOaAAADdFc.jpg) · [output 3](https://pbs.twimg.com/media/HTCkH3WbYAAPZhO.jpg) · [output 4](https://pbs.twimg.com/media/HTCkImGaEAAHCkS.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a premium 4:5 vertical automotive editorial poster featuring a [YEAR] [CAR] in [COLOR], captured from an aggressive low three-quarter perspective as it speeds through [SCENERY]. Emphasize the car’s authentic proportions, distinctive body lines, aerodynamic surfaces, wheels, headlights, grille, reflections, and mechanical details while maintaining a dynamic sense of forward motion.
+
+Build the artwork around expressive hand-painted brush strokes, sweeping diagonal marks, controlled ink splashes, dry-brush textures, screen-printed grain, subtle halftone patterns, bold graphic shadows, and layered atmospheric shapes. Add directional motion trails, subtle environmental blur, dust or road particles, and energetic background strokes that reinforce speed without obscuring the vehicle.
+
+Use a sophisticated high-contrast palette of [COLORS], with carefully balanced highlights, deep shadows, and selective accent tones. Keep the composition bold but refined, combining vintage motorsport graphics with contemporary automotive editorial design.
+
+Place the large, clean geometric sans-serif title “[TITLE]” prominently at the top, with the bold editorial headline “[HEADLINE]” integrated naturally into the artwork. Position the authentic [BRAND] logo cleanly at the bottom, maintaining accurate proportions and strong visual hierarchy.
+
+Crisp illustrated vehicle detailing, dramatic perspective, tactile print texture, refined typography, balanced negative space, premium poster composition, energetic retro racing aesthetic, sophisticated editorial finish, highly polished 4:5 vertical format.
+```
+
+</details>
+
+<a id="macos-fighting-game-desktop"></a>
+### 格斗角色macOS桌面
+
+16:9桌面图左侧安排两列应用图标，右侧呈现格斗角色全身图，背景为简洁渐变。
+
+作者：大卫叔的AI旅程 (@aidavid125) · [原帖](https://x.com/aidavid125/status/2103382102347784199)
+
+类型：text-to-image · No reference image required.
+
+图片原帖：[作者引用的输出作品](https://x.com/aidavid125/status/2103379427459834120)
+
+![Original artwork 1 by @aidavid125](https://pbs.twimg.com/media/HTC0LGeakAEzFci.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTC0LGeakAEzFci.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+生成一张macOS的桌面图，左边是两列常用APP的图标，右边是格斗天王中八神庵，草稚京，不知火舞，K， 山崎龍二， 雷之夏尔米， 卢卡尔·伯恩斯坦非常经典的全身图，背景是苹果电脑经典的渐变简洁背景，16：9
+```
+
+</details>
+
+<a id="feel-the-sound-headphone-poster"></a>
+### FEEL THE SOUND耳机广告海报
+
+以巨幅字形、橙色品牌环境与写实耳机，将声音转化为强烈的平面广告冲击。
+
+作者：ᴍᴜʀᴘʜʏ (@Diplomeme) · [原帖](https://x.com/Diplomeme/status/2103429083652821045)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Diplomeme](https://pbs.twimg.com/media/HTDhBJTawAEyS7L.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTDhBJTawAEyS7L.jpg) · [output 2](https://pbs.twimg.com/media/HTDhBJcbQAAFfJ4.jpg) · [output 3](https://pbs.twimg.com/media/HTDhCesa4AAytuQ.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+JBL — “FEEL THE SOUND.”
+FORMAT:
+4:5 vertical hyper-commercial JBL headphone campaign poster, ultra-high-resolution 8K, global OOH + Instagram + Meta advertising, BOLD TYPOGRAPHY–FIRST DESIGN, aggressive editorial graphic design, premium product photography, contemporary JBL advertising language
+⸻
+🧠 CORE IDEA
+FEEL THE SOUND.
+Make typography the dominant visual element, with JBL’s signature orange brand color controlling the entire visual environment.
+The poster should communicate powerful JBL audio through a physical graphic metaphor:
+SOUND → IMPACT → MOVEMENT
+The typography appears to react to the sound, creating a visual sense of bass, rhythm and energy.
+⸻
+🎬 MASTER COMPOSITION
+Create a highly graphic, typography-dominated composition.
+TOP 40% — TYPOGRAPHY DOMINATION
+Massive stacked headline:
+FEEL
+THE
+SOUND.
+Use extremely bold condensed sans-serif typography.
+The words should occupy almost the entire width of the poster.
+Aggressive scale.
+Some letters cropped by the edges.
+Typography should feel physically pushed by sound pressure.
+⸻
+🟠 BRAND-COLOR BACKGROUND
+Use JBL’s signature orange as the dominant full-frame background.
+Strong, saturated JBL orange.
+Build subtle tonal variations within the orange rather than introducing unrelated background colors.
+Use:
+* Deep orange shadows
+* Bright orange highlights
+* Slight darker orange graphic blocks
+* Black typography
+* White microcopy
+The entire poster should immediately feel like JBL even before the logo is seen.
+⸻
+🎧 PRODUCT + SUBJECT
+Place a realistic person wearing a JBL headphone prominently in the center/lower-middle section.
+The headphone must remain highly recognizable and physically accurate.
+Subject positioned directly within the typography composition.
+The person should feel energetic and immersed in the music.
+Natural expression.
+No exaggerated fashion pose.
+The headphone is the product hero.
+⸻
+💥 TYPOGRAPHIC VISUAL METAPHOR
+Create oversized graphic words around the product:
+BASS
+BEAT
+POWER
+RHYTHM
+ENERGY
+These words should appear as huge background typography.
+Some letters can stretch, overlap and partially disappear behind the subject.
+Use typography to create the sensation of sound physically moving through the poster.
+Add subtle directional typographic distortion around the headphone.
+No literal sound waves.
+No futuristic holograms.
+⸻
+✍️ TYPOGRAPHY SYSTEM
+Typography is the hero graphic element.
+PRIMARY HEADLINE
+FEEL THE SOUND.
+Extremely heavy bold grotesk / condensed sans-serif.
+Huge scale.
+Tight kerning.
+Strong black typography against JBL orange.
+SECONDARY COPY
+JBL
+PURE BASS. PURE ENERGY.
+MICROCOPY
+WIRELESS • IMMERSIVE • POWERFUL
+Small uppercase commercial typography.
+⸻
+📦 FEATURE STRIP
+Bottom section contains a highly structured commercial information bar:
+JBL PURE BASS SOUND
+WIRELESS FREEDOM
+IMMERSIVE AUDIO
+ALL-DAY PLAYTIME
+Use compact uppercase typography separated by thin black rules.
+Keep the information visually organized and highly legible.
+⸻
+📣 CTA
+Large bold CTA:
+TURN IT UP.
+Below:
+DISCOVER JBL AUDIO
+JBL logo positioned prominently but cleanly.
+⸻
+🎨 COLOR SYSTEM
+PRIMARY: JBL signature orange.
+SECONDARY: Deep black.
+ACCENT: White.
+Orange must dominate the entire background.
+Black provides the major typography contrast.
+White is reserved for small supporting information and selected graphic details.
+No unnecessary blue, purple, cyan or neon gradients.
+⸻
+💡 LIGHTING
+High-end commercial product photography.
+Strong directional studio lighting.
+Controlled highlights on the headphones.
+Natural skin texture.
+Subtle orange environmental bounce light.
+Deep controlled shadows.
+High contrast.
+The product must separate clearly from the orange background.
+⸻
+🔍 HYPER DETAILING
+Ultra-realistic headphone materials:
+* precise matte and gloss surfaces
+* realistic ear cushions
+* detailed controls
+* subtle reflections
+* accurate JBL branding
+* realistic skin pores
+* natural clothing texture
+Typography must remain razor sharp and professionally typeset.
+⸻
+📐 COMPOSITION FLOW
+1. MASSIVE “FEEL THE SOUND.” HEADLINE
+↓
+2. JBL ORANGE GRAPHIC FIELD
+↓
+3. PRODUCT + HUMAN HERO
+↓
+4. GIANT BASS / BEAT / POWER TYPOGRAPHY
+↓
+5. PRODUCT NAME / BRANDING
+↓
+6. FEATURE STRIP
+↓
+7. CTA + JBL LOGO
+The concept must be understood within one second.
+⸻
+🎥 CAMERA / RENDER
+Professional commercial photography.
+50mm lens.
+Slightly low-angle perspective to give the product presence.
+Ultra-realistic 8K product detail.
+Sharp commercial focus.
+Clean edges.
+Print-quality typography.
+Premium global advertising execution.
+⸻
+🚫 NEGATIVE DIRECTION
+No generic headphone advertisement.
+No blue background.
+No purple neon.
+No cyberpunk aesthetic.
+No holograms.
+No floating headphones.
+No random particles.
+No excessive lens flares.
+No fantasy environment.
+No excessive cinematic VFX.
+No tiny headline.
+No minimalist typography.
+No luxury-fashion-only aesthetic.
+No cluttered unreadable layout.
+No incorrect JBL logo.
+No distorted headphones.
+No fake product details.
+⸻
+🔥 FINAL FEEL
+JBL × BOLD TYPOGRAPHY × ORANGE BRAND WORLD × PRODUCT PHOTOGRAPHY × SOUND ENERGY
+BIG TYPE.
+JBL ORANGE.
+REAL PRODUCT.
+PHYSICAL SOUND.
+MAXIMUM COMMERCIAL IMPACT.
+```
+
+</details>
+
+<a id="madness-monochrome-fashion-poster"></a>
+### MADNESS黑白时装海报
+
+身穿足球球衣的男模站在磨损巨幅字形前，眼部横向运动模糊与黑白胶片纹理营造街头时装气氛。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2103442969952952761)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HTDuOloa8AA7J2Y.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTDuOloa8AA7J2Y.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a high-end monochrome fashion editorial poster featuring a young male model standing confidently in the center of the frame.
+
+SUBJECT AND POSE:
+A young man with thick, naturally curly dark hair, medium-length curls with strong volume. He has a clean youthful face with subtle facial hair and a relaxed, confident expression. He stands facing the camera with his body slightly angled, shoulders relaxed, both hands casually placed inside the front pockets of his loose-fitting pants. His posture feels effortless and confident.
+
+He wears an oversized black vintage-inspired football jersey with white athletic stripes running along both shoulders and sleeves. The jersey has a large stylized script graphic reading "Reckless 07" across the chest, smaller "07" numbers on the upper chest and sleeves, a small crest emblem on the left chest, and subtle athletic branding details. Pair it with loose dark denim jeans.
+
+Add a chunky digital wristwatch on his left wrist and a simple thin chain around his neck.
+
+FACE OBSCURATION:
+Create a strong horizontal motion-blur/glitch effect passing directly across the model's eyes. The effect should look like several translucent horizontal photographic brush streaks or smeared film frames moving rapidly from left to right. Keep the rest of the face sharp and recognizable. Do not cover the entire face.
+
+COMPOSITION:
+Vertical fashion poster composition, approximately 4:5 aspect ratio.
+
+The model occupies most of the center and lower-middle portion of the poster. Frame him from approximately the knees upward. Keep his entire hairstyle visible with enough negative space around the head.
+
+Behind him, create an oversized editorial typographic background with huge distressed white letters spelling "MADNESS". The typography should extend beyond the edges of the poster and sit behind the model, creating a layered magazine-cover effect.
+
+The giant letters should have a weathered, scratched, cracked and slightly faded texture.
+
+GRAPHIC DESIGN:
+Add small editorial typography around the composition.
+
+Top-right:
+"NOT JUST
+A MOOD.
+IT'S WHO
+I AM."
+
+Bottom-left:
+"FEEL IT.
+LIVE IT.
+OWN IT."
+
+Bottom-right:
+A handwritten-style signature reading "Madness" with a rough underline.
+
+Use small thin lines and subtle geometric graphic marks around the typography.
+
+COLOR AND LIGHTING:
+Strict black-and-white monochrome photography.
+
+Deep black background, bright off-white typography, high contrast subject, strong shadows, slightly crushed blacks and bright highlights. No colorful elements.
+
+Use dramatic studio/editorial lighting with directional light from the front and slightly above, creating sculpted facial features and strong texture on the clothing.
+
+STYLE:
+Luxury streetwear campaign mixed with underground football culture, vintage sports editorial, rebellious youth fashion magazine, gritty urban poster design.
+
+Add heavy analog film grain, photocopy texture, distressed paper texture, scratches, dust particles, subtle cracks, rough halftone details, faded ink, imperfect printing, and subtle photographic noise.
+
+The final image should feel like a scanned vintage fashion magazine poster that has been repeatedly photocopied and physically distressed.
+
+TYPOGRAPHY:
+Use bold condensed serif typography for the enormous background word "MADNESS".
+
+Use elegant handwritten script typography for "Reckless 07" across the jersey and the "Madness" signature.
+
+Keep all typography sharp, intentional, and professionally integrated into the composition.
+
+OVERALL MOOD:
+Dark, rebellious, youthful, confident, raw, mysterious, underground and fashion-forward.
+
+High-end editorial photography, vintage football jersey campaign, gritty monochrome magazine cover, sophisticated graphic design, realistic photographic details, 4K quality, extremely detailed fabric texture, authentic film grain, professional poster composition.
+```
+
+</details>
+
+<a id="timeless-editorial-travel-art"></a>
+### 永恒视觉故事旅行画页
+
+将可辨识主体与墨线、文化细节和克制水彩结合，在象牙纸上描绘具有叙事感的旅行画页。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2103448130503205226)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTDy61rawAANZna.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTDy61rawAANZna.jpg) · [output 2](https://pbs.twimg.com/media/HTDy61taYAA3MJk.jpg) · [output 3](https://pbs.twimg.com/media/HTDy6-IaQAAHk_1.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a sophisticated minimalist editorial art poster featuring [PERSON / LANDMARK / STRUCTURE] as the central subject, inspired by premium travel photography and refined hand-drawn illustration.
+
+Preserve the subject’s recognizable identity, proportions, silhouette, defining details, and visual character. Combine realistic elements with elegant artistic interpretation.
+
+Use a warm ivory paper background with a limited vintage color palette inspired by the subject’s location or personality. Add delicate ink outlines, architectural sketch lines, subtle hatching, halftone texture, faded print effects, and soft watercolor-like washes.
+
+Create a sense of visual storytelling by incorporating subtle surrounding elements connected to the subject — such as [CITY / COUNTRY / CULTURE / PROFESSION / LANDMARK DETAILS / NATURE] — while maintaining generous negative space and a clean luxury-editorial composition.
+
+Add small, tasteful typography:
+[NAME / LANDMARK]
+[CITY / COUNTRY]
+[SHORT DESCRIPTOR / YEAR / COORDINATES]
+
+Style: museum-quality travel poster, contemporary editorial illustration, vintage printmaking, refined hand-drawn detail, understated luxury, sophisticated composition.
+
+No unnecessary objects, no clutter, no distorted features, no exaggerated proportions, no generic stock-art appearance.
+
+Format: 4:5 vertical, high-resolution, premium collectible poster aesthetic.
+
+[SUBJECT] reimagined as a timeless visual story.
+```
+
+</details>
+
+<a id="photo-and-miniature-paper-art"></a>
+### 照片与微型手工纸艺术
+
+上半部保留照片，下半部以四种取样色绘制微型手工纸艺术，并保留大量空白。
+
+作者：𝗦𝗮𝗻𝗶𝗮 (@saniaspeaks\_) · [原帖](https://x.com/saniaspeaks_/status/2103453485496668450)
+
+类型：image-editing · Upload the primary photograph; retain its composition, subjects and visual details.
+
+![Original artwork 1 by @saniaspeaks\_](https://pbs.twimg.com/media/HTD3x-TbsAEEUHz.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTD3x-TbsAEEUHz.jpg) · [output 2](https://pbs.twimg.com/media/HTD3ynUbUAA0zkc.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a sophisticated 3:4 vertical editorial art poster with GPT Image 2.5, using the uploaded photograph as the primary visual reference.
+
+Divide the composition into two perfectly balanced horizontal halves.
+
+Upper 50% — Original Photograph
+Keep the uploaded image almost completely untouched. Preserve the exact identity, facial features, pose, styling, clothing, objects, composition, lighting, colors, proportions, and natural photographic texture. The image should still look like the original photograph, enhanced only with subtle high-end editorial color grading.
+
+Lower 50% — Artistic Interpretation
+Transform the key visual elements of the photograph into a tiny, centered handmade-paper artwork. Reduce the scene into a few recognizable shapes and imperfect hand-drawn lines, as if created for an independent contemporary art publication.
+
+Use:
+
+- warm off-white handmade paper
+- delicate imperfect ink-like outlines
+- simple flat acrylic-inspired shapes
+- organic uneven edges
+- subtle natural paper fibers and grain
+- maximum 4 colors sampled from the original photograph
+
+The miniature artwork should occupy only 10–20% of the lower half, leaving most of the space intentionally empty. Keep it understated and poetic rather than detailed.
+
+Add optional tiny editorial typography only if it naturally complements the composition. Typography should be minimal, elegant, and secondary to the artwork.
+
+Visual direction: contemporary art book, quiet luxury, gallery editorial, handmade print, refined minimalism, poetic negative space, sophisticated composition.
+
+Do not make it: cartoonish, childish, watercolor, colored-pencil, 3D, glossy, overly digital, highly detailed, colorful, busy, or commercial-looking.
+
+The final result should feel like a limited-edition independent art-book cover where a real photograph and its handmade artistic memory coexist in one composition.
+```
+
+</details>
+
+<a id="world-inside-a-shadow"></a>
+### 影子里的世界
+
+主体的长影中藏着微缩风景、建筑与记忆，以暖象牙纸和克制印刷质感形成超现实艺术画页。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2103693304538038645)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTHR5y0bQAAu1K6.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTHR5y0bQAAu1K6.jpg) · [output 2](https://pbs.twimg.com/media/HTHR5yya4AASS9N.jpg) · [output 3](https://pbs.twimg.com/media/HTHR5ysaoAAnX2j.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a breathtaking, surreal editorial artwork based on [PERSON / LANDMARK / OBJECT / CITY], built around the concept “THE WORLD INSIDE A SHADOW.”
+
+Show the main subject as a refined, almost museum-quality object or scene against a vast warm ivory paper background. The subject casts an unusually long, sharply defined shadow.
+
+But instead of being empty, the shadow contains an entire hidden world connected to the subject.
+
+Inside the shadow, reveal miniature scenes, architecture, landscapes, people, streets, memories, symbols, objects, and cultural details associated with [PERSON / LANDMARK / CITY / COUNTRY]. The shadow should feel like a secret parallel universe — as if the true story of the subject exists inside its silhouette.
+
+The actual subject remains elegant, minimal, realistic and recognizable, while the shadow becomes increasingly detailed, surreal and dreamlike toward its farthest edge.
+
+Create a seamless transition from realistic materials into delicate hand-drawn ink, architectural linework, tiny paper-cut elements, vintage engraving textures, subtle halftone dots and miniature painted details.
+
+Use extreme visual storytelling and micro-details that reward close inspection.
+
+Composition:
+
+sophisticated editorial art direction
+strong central silhouette
+enormous flowing shadow extending diagonally across the canvas
+generous negative space
+visual hierarchy from simple subject → complex hidden world
+no unnecessary objects
+no clutter
+
+Material language:
+fine art paper, ink, graphite, engraved textures, subtle embossing, handmade print imperfections, delicate paper fibers, restrained collage elements.
+
+Color palette:
+warm ivory, charcoal, faded black, muted stone, dusty beige, with one controlled signature color inspired by [COUNTRY / CITY / SUBJECT].
+
+Lighting:
+soft museum lighting, subtle natural shadow, cinematic but understated.
+
+Mood:
+mysterious, intelligent, poetic, luxurious, slightly surreal, timeless.
+
+Add extremely minimal typography:
+[NAME]
+small refined serif type placed away from the artwork, like a museum exhibition label.
+
+No generic fantasy aesthetic, no excessive glow, no neon, no random decorative objects, no cheesy symbolism, no overcrowding.
+
+4:5 vertical — premium contemporary art poster — museum exhibition quality — surreal editorial photography fused with handcrafted fine art — ultra-detailed — sophisticated and original.
+```
+
+</details>
+
+<a id="giant-comic-book-fantasy-portrait"></a>
+### 巨型漫画书幻想人像
+
+依据人像参考图描绘红色连帽衫人物，行走于巨型漫画书中央折页上，呈现电影感幻想场景。
+
+作者：Gopal Tiwari (@imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2104045915195724081)
+
+类型：image-editing · Upload the primary portrait reference; preserve the facial identity, proportions and defining features.
+
+![Original artwork 1 by @imGopalTiwari](https://pbs.twimg.com/media/HTMSmK8bYAAB_vP.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTMSmK8bYAAB_vP.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Hyper-realistic IMAX-level Netflix-style surreal cinematic comic-book fantasy portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a bright red oversized zip-up hoodie over a fitted plain white T-shirt, high-waisted blue jeans, and black-and-white high-top sneakers. She stands and walks confidently across the center fold of a giant open comic book, her left leg placed forward while the right leg remains slightly behind, knees naturally bent, torso upright, shoulders relaxed, left arm extending slightly outward for balance and right arm hanging loosely beside her body, with her weight shifting naturally onto the forward leg. Her face is turned directly toward the camera with a calm, confident expression, eyes focused straight ahead, relaxed eyelids, softly defined eyebrows, gently closed lips, relaxed jaw and a subtle fearless presence. Her hairstyle is long, straight-to-softly-wavy platinum-blonde hair with a center part, smooth volume at the crown, long face-framing sections falling evenly over both shoulders, slightly curved ends and a few fine strands catching the light, giving the hair a polished but natural movement as she walks. Fair luminous porcelain skin with a bright ivory to light beige tone and neutral-cool undertone, natural realistic texture with soft highlights. She is surrounded by a fantastical bedroom-artist studio filled with framed comic drawings, illustrated panels, scattered books, art supplies, sketches and comic pages, while the giant open comic beneath her creates the illusion that she has stepped directly into its world; multiple floating comic panels surround her at different depths and appear suspended in midair. Thin branching white-blue electrical cracks and glowing energy streaks run through the room, around the comic panels and across the giant pages, suggesting a portal-like transition between reality and the illustrated world. Strong cinematic light enters from the upper-left, creating a bright atmospheric beam through the room and illuminating her hair, face, red hoodie and floating panels, while the surrounding corners remain darker and atmospheric. Rich comic-inspired colour grading with vivid red, cyan-blue, white and muted charcoal tones, warm skin highlights balanced against cool electric-blue energy, deep textured shadows, crisp colour separation, controlled contrast, luminous highlights, restrained skin saturation, subtle atmospheric haze, fine film grain and a polished live-action-meets-graphic-novel cinematic finish.  
+Negative prompt: changed identity, distorted face, deformed hands or feet, bad anatomy, unnatural walking pose, extra limbs, flat hair, dull colours, plastic skin, text, watermark.
+```
+
+</details>
+
+<a id="negative-space-architectural-poster"></a>
+### 以负空间勾勒建筑
+
+让地标剪影近乎留空，通过周围石墨线、城市碎片与测量线显现建筑形状。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2104137134047433042)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTNlkQXa4AAcM6G.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTNlkQXa4AAcM6G.jpg) · [output 2](https://pbs.twimg.com/media/HTNlkQVbkAAY9A6.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create an exceptionally original minimalist architectural art poster featuring [LANDMARK].
+
+Do NOT directly draw, paint, or fill the landmark.
+
+Instead, create the landmark entirely through negative space.
+
+The central silhouette of [LANDMARK] remains almost completely untouched — warm ivory paper showing through naturally. Around this empty silhouette, extremely delicate graphite lines describe the world that surrounds it: architectural measurements, tiny streets, distant rooftops, clouds, birds, shadows, perspective guides, fragments of maps and subtle environmental contours.
+
+The surrounding drawing becomes denser near the edges of the landmark, making the untouched negative space gradually reveal the unmistakable silhouette of [LANDMARK].
+
+Some construction lines intentionally continue through the empty silhouette but become extremely faint, as if the artist started drawing the landmark and then erased it.
+
+Add one unexpected detail: a single continuous pencil line travels around the landmark without ever drawing its actual outline. At one point, the line breaks and leaves a tiny handwritten coordinate or date.
+
+Use warm ivory paper, graphite pencil, extremely fine architectural linework, subtle eraser dust, paper fibers, faint halftone imperfections and soft natural shadows.
+
+Color palette: almost entirely monochrome graphite and ivory, with one extremely subtle accent inspired by [CITY/COUNTRY].
+
+Small refined typography placed in generous negative space:
+
+[LANDMARK NAME]
+[CITY, COUNTRY]
+
+“drawn by everything around it.”
+
+The composition must feel mysterious, intelligent and unexpectedly beautiful — like a contemporary museum artwork rather than a conventional travel poster.
+
+No photorealistic background. No obvious illustration of the landmark. No decorative clutter. No excessive typography. No people.
+
+4:5 vertical, ultra-minimal, sophisticated editorial design, tactile handmade paper, elegant negative space, precise architectural details, smooth visual flow, premium contemporary gallery aesthetic.
+```
+
+</details>
+
+<a id="motocross-wheelie-comic-poster"></a>
+### 低机位越野摩托翘头插画
+
+从极低正面机位描绘越野摩托翘头动作，以巨大的前轮、粗黑线条和鲜明红橙色呈现漫画海报张力。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2104185048652255275)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HTORDWca4AAjQnO.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTORDWca4AAjQnO.jpg) · [output 2](https://pbs.twimg.com/media/HTORFrdaYAA_wa4.jpg) · [output 3](https://pbs.twimg.com/media/HTORG2AaEAAGAry.jpg) · [output 4](https://pbs.twimg.com/media/HTORH3nbAAAGRmX.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a high-impact vertical editorial illustration of a motocross rider performing an aggressive wheelie directly toward the camera on a dirt bike. Use an extremely low front-facing camera angle, making the large front knobby tire dominate the lower-right foreground while the rider appears powerful and imposing above it.
+
+The rider wears a full motocross helmet with a dark tinted visor, protective motocross jersey, padded riding pants, gloves, and rugged motocross boots. Show realistic protective gear with layered fabric, stitching, armor panels, folds, scratches, and worn textures. 
+
+The motorcycle should have detailed handlebars, handguards, front suspension forks, spokes, brake components, engine parts, frame, mudguards, and thick off-road tires.
+
+Use a bold graphic comic-book illustration style with heavy black ink outlines, rough hand-drawn linework, crosshatching, imperfect ink edges, expressive contour lines, subtle paper grain, and screen-print-like texture. Use a limited high-contrast palette of vivid red-orange, black, cream, muted yellow, and warm gray.
+
+The background is a flat intense red-orange field with subtle geometric color variation, distressed paint texture, scattered black dirt particles, and small debris around the motorcycle. Add a dusty ground surface beneath the bike with splashes of dirt and gritty texture.
+Dynamic action composition, dramatic perspective, exaggerated scale, crisp illustrated details, strong shadows, vintage motocross poster aesthetic, modern editorial graphic design, energetic and rebellious mood.
+
+No text, no letters, no numbers, no logos, no usernames, no watermark, no signature, no typography anywhere in the image.
+
+Vertical 4:5 composition.
+```
+
+</details>
+
+<a id="lakeside-bench-lifestyle-portrait"></a>
+### 湖畔长椅生活方式人像
+
+以参考人物为主体，结合静谧湖景、木质长椅与自然小型相机质感呈现轻松生活照。
+
+作者：Meem (@mehvishs25) · [原帖](https://x.com/mehvishs25/status/2104222515447177333)
+
+类型：image-editing · Upload the woman’s identity and appearance reference; preserve her natural facial features.
+
+![Original artwork 1 by @mehvishs25](https://pbs.twimg.com/media/HTOzODGaAAAAdrl.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTOzODGaAAAAdrl.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Use the uploaded reference image as the exact identity and appearance reference for the woman. Preserve her facial identity completely — exact facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairstyle, and natural proportions. Do not beautify, reshape, age, or alter her face. She must clearly look like the same person from the reference.
+
+Create an ultra-realistic luxury lifestyle photograph of the same young woman relaxing beside a tranquil lake in an elegant, beautifully landscaped park.
+
+COMPOSITION & POSE
+
+She is seated diagonally on a refined dark wooden park bench, with her body turned slightly toward the lake rather than directly toward the camera. One leg is crossed naturally over the other, creating a long, elegant silhouette without exaggeration. Her shoulders are relaxed and her posture is confident but effortless.
+
+One arm rests casually along the back of the bench while her other hand holds a takeaway coffee cup near her lap. She is looking toward the lake, slightly away from the camera, as if caught naturally during a quiet afternoon moment.
+
+Place a sophisticated black luxury handbag beside her on the bench.
+
+The camera is positioned at approximately eye level in a subtle three-quarter view, capturing her from approximately mid-thigh upward while still showing enough of her crossed legs, footwear, bench, and surrounding environment.
+
+APPEARANCE
+
+Hair pulled into a sleek, polished ponytail with a clean center parting.
+
+Makeup is refined and understated:
+
+- thin elegant winged eyeliner
+- softly defined lashes
+- naturally shaped brows
+- subtle warm complexion
+- shaded brown lip pencil defining the natural lip contour
+- hydrated, tanned skin with realistic pores and subtle imperfections
+- no plastic-looking skin or excessive beauty retouching
+
+Her skin should have a healthy natural glow while retaining authentic photographic texture.
+
+OUTFIT
+
+She wears a matte oversized dark-chocolate leather jacket with pronounced shoulders and a structured waist belt, creating a sophisticated feminine silhouette.
+
+Underneath is a fitted black mini dress featuring a subtle high translucent collar.
+
+She wears sheer transparent black luxury monogram-pattern tights, with an elegant repeating designer-inspired pattern, realistic textile construction, delicate transparency, and visible fine fabric texture. The tights must look physically real rather than digitally printed onto the legs.
+
+Classic black leather pointed-toe stilettos complete the outfit.
+
+Accessories:
+
+- elegant gold earrings
+- minimal refined gold jewelry
+- no excessive accessories
+
+ENVIRONMENT
+
+A sophisticated luxury park surrounding a calm lake.
+
+In the background:
+
+- still reflective water
+- mature green trees
+- manicured landscaping
+- subtle architectural elements
+- distant soft-focus pathways
+- elegant natural scenery
+
+Keep the background realistic and understated, with natural depth rather than an artificial fantasy environment.
+
+PHOTOGRAPHY & LIGHTING
+
+Ultra-realistic candid luxury lifestyle photography captured on a Canon PowerShot G7 X, with the distinctive look of a compact-camera photograph combined with a bright direct on-camera flash.
+
+Cloudy daylight provides soft ambient illumination while the camera flash creates a clean, bright editorial pop on her face and clothing.
+
+The lighting should produce:
+
+- extremely realistic skin rendering
+- subtle natural shadows
+- bright but controlled flash highlights
+- realistic pores
+- slight moisture/glow on the skin
+- authentic fine facial texture
+- natural tonal variation
+
+Use slightly reduced overall exposure while maintaining the characteristic bright direct-flash aesthetic.
+
+Color grading should resemble an expensive Instagram luxury-fashion photograph: clean, sophisticated, slightly warm, crisp but not oversharpened, natural colors, subtle contrast, realistic highlights, and authentic compact-camera character.
+```
+
+</details>
+
+<a id="nineties-rural-childhood-film-photo"></a>
+### 九十年代乡野童年胶片照
+
+以普通家庭随手记录的乡野童年瞬间，保留自然玩耍、生活物件与135胶片的偶然影像感。
+
+作者：DeepBlue深藍 (@DeepBlueX0) · [原帖](https://x.com/DeepBlueX0/status/2104249785658294448)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @DeepBlueX0](https://pbs.twimg.com/media/HTPMBCrbIAAUMZp.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTPMBCrbIAAUMZp.jpg) · [output 2](https://pbs.twimg.com/media/HTPMBCAawAAcw0M.jpg) · [output 3](https://pbs.twimg.com/media/HTPMBCBa8AAGFt1.jpg) · [output 4](https://pbs.twimg.com/media/HTPMBIWbcAAuHTt.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+90s中国家庭生活照 × 乡野童年生活 × 135胶片 × 【童年行为】
+
+说明：
+以90年代中国普通家庭记录孩子生活的照片为视觉语境，像家人随手拍下的一瞬间。人物自然玩耍、动作随意，不刻意摆拍；通过真实的生活环境、当时常见的生活物件和具体童年行为，唤起真实的童年记忆。保留135胶片家庭照片自然的影像特征与偶然性，重点表现“小时候真的发生过的一瞬间”，避免刻意复古、商业儿童写真和精心设计的怀旧摄影效果。竖版9:16。
+```
+
+</details>
+
+<a id="morning-editorial-travel-scrapbook"></a>
+### 清晨旅行手账拼贴
+
+将日落参考照片转为明亮清晨旅行手账，结合拍立得框、撕纸、压花与精细拼贴。
+
+作者：Aqsa (@Aqsahere\_) · [原帖](https://x.com/Aqsahere_/status/2104395935438581848)
+
+类型：image-editing · Upload the source travel photograph; preserve the woman’s appearance, clothing and pose.
+
+![Original artwork 1 by @Aqsahere\_](https://pbs.twimg.com/media/HTRQ6F6aYAATtnX.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTRQ6F6aYAATtnX.jpg) · [output 2](https://pbs.twimg.com/media/HTRQ7l2bkAAcv79.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a high-end morning editorial scrapbook poster from the uploaded photo. Transform the sunset scene into a fresh early-morning atmosphere with soft golden morning sunlight, clear blue sky, fluffy white clouds, crisp green mountains, and bright wildflowers. Keep the woman’s appearance, outfit, pose, facial features, hair, pink bucket hat, pink T-shirt, dark jacket tied around her waist, and overall identity consistent. Design it as a sophisticated travel-journal collage with torn cream paper, Polaroid frames, subtle washi tape, film-strip details, pressed daisies, delicate botanical sketches, handwritten notes, and vintage paper textures. Use the main photo prominently in the center with several smaller snapshots showing different natural angles from the same scene. Add elegant editorial typography reading “MORNING Diaries”, with small phrases such as “clear skies · brighter days”, “same places, different mornings”, and “good views, good mood”. Keep the palette soft and refined: sky blue, fresh green, warm cream, pale pink, and subtle beige. Make it feel like a premium independent travel magazine mixed with a personal morning diary—artistic, airy, nostalgic, natural, and beautifully composed, not like an advertisement. Strict 3:4 vertical composition, realistic photography blended seamlessly with refined scrapbook elements.
+```
+
+</details>
+
+<a id="bamboo-blind-morning-cover"></a>
+### 竹帘清晨明亮封面
+
+女子轻卷竹帘，以大面积白墙、窗外宝石蓝天空和克制柠檬黄光块构成结构清晰的清晨封面。
+
+作者：李岳 (@liyue\_ai) · [原帖](https://x.com/liyue_ai/status/2104417507801199089)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @liyue\_ai](https://pbs.twimg.com/media/HTRkiYbasAAI4oA.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTRkiYbasAAI4oA.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+主题方向：东方禅意极简高传播封面
+风格分支：女性审美清亮型
+主体内容：一位女子站在极简竹帘旁，一只手轻轻将竹帘向上卷起
+情绪母题：打开、明朗、清晨新意
+场景与意象：大片白墙、竹帘、宝石蓝外部天空、柠檬黄色阳光色块、女子
+构图与空间：9:16竖版，竹帘形成一条纵向结构，女子位于下方三分之一，帘外宝石蓝色块形成视觉窗口，上方保留标题区
+色彩控制：珍珠白为主要背景，宝石蓝只用于帘外天空，柠檬黄用于阳光投影和极少局部点睛，竹帘保持浅竹木本色；避免蓝黄覆盖人物和墙面
+光线与质感：明亮上午硬柔结合自然光，竹帘投下清晰而简洁的几何光影
+画幅比例：9:16
+补充要求：画面一定要高明度、低灰度，蓝黄对比鲜明，结构极简，不做传统室内复杂陈设，画面留白处配上合适的文字
+```
+
+</details>
+
+<a id="photo-to-storybook-world"></a>
+### 照片流入绘本世界
+
+让食物或物件照片中的元素自然延伸，过渡为米白纹理纸上的精细手绘世界。
+
+作者：Shore Lyn (@Shorelyn\_) · [原帖](https://x.com/Shorelyn_/status/2104421880363118667)
+
+类型：image-editing · Upload the food or object photograph to supply the main subject and its composition.
+
+![Original artwork 1 by @Shorelyn\_](https://pbs.twimg.com/media/HTRog-2bQAE6K1B.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTRog-2bQAE6K1B.jpg) · [output 2](https://pbs.twimg.com/media/HTRog-lbQAAwn71.jpg) · [output 3](https://pbs.twimg.com/media/HTRog-PbQAEtvXs.jpg) · [output 4](https://pbs.twimg.com/media/HTRog_5aAAErZVt.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Use the uploaded image as the primary reference and transform it into a vertical 3:4 surreal editorial artwork that seamlessly combines photorealistic food/object photography with a whimsical hand-drawn storybook illustration.
+
+Preserve the main subject, composition, colors, textures, and recognizable details of the original photograph. Keep the upper portion highly photorealistic and naturally lit, with realistic materials, shadows, reflections, depth of field, and authentic photographic detail.
+
+Create a seamless visual transition from the photographed subject into an imaginative illustrated world below. Identify the most visually meaningful element in the photograph—such as a liquid, food ingredient, object, pattern, trail, shadow, or texture—and organically extend it downward into the illustration, transforming it into a river, pathway, landscape, trail, or other creative scene.
+
+The illustrated section should appear on a warm off-white textured paper background, using delicate black ink/pencil linework, subtle watercolor and gouache textures, imperfect handmade details, soft muted colors, and a charming vintage storybook aesthetic. Add small environmental details appropriate to the subject, such as tiny people, plants, rocks, objects, or landscape elements.
+
+Include a short handwritten phrase that naturally relates to the concept and the transformation, positioned subtly within the illustrated area. The typography should look genuinely handwritten, imperfect, minimal, and artistic.
+
+The photograph and illustration must feel like one continuous visual story, not two separate images. Avoid a hard horizontal split, borders, frames, arrows, labels, or obvious digital compositing. The photographed element should physically appear to flow, fall, extend, or transform into the illustrated world.
+
+Aesthetic: poetic, whimsical, clever, minimalist, premium editorial magazine art, surreal but believable, tactile paper texture, natural imperfections, sophisticated visual storytelling.
+
+Composition: vertical 3:4, balanced negative space, strong focal point, seamless transition, high detail, realistic photography + delicate hand-drawn illustration, no unnecessary elements.
+```
+
+</details>
+
+<a id="photo-illustration-memory-card"></a>
+### 照片与朴拙插画记忆卡片
+
+以参考照片生成上下分区的记忆卡：上半部保留摄影质感，下半部在旧象牙纸上重现小幅手绘插画。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2104455859447501166)
+
+类型：image-editing · Upload the photo that supplies the entire scene, subject count, viewpoint and layout.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HTSHbQObIAA5M-e.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTSHbQObIAA5M-e.jpg) · [output 2](https://pbs.twimg.com/media/HTSHb5Xa4AA-Isa.jpg) · [output 3](https://pbs.twimg.com/media/HTSHcezbEAAchPC.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Use the uploaded photo as the only content source. Create a vertical 3:4 “real photo + minimal illustration” memory card based entirely on that image. Preserve the main subjects, subject count, pose, viewpoint, spatial relationships, and overall scene logic. Do not redesign the source or add unrelated content.
+Layout
+Split the card into two horizontal sections, about 50% top and 50% bottom. The top half keeps the uploaded photo with photographic texture. Crop naturally to fit, but do not stretch, mirror, rearrange, or alter the main subjects. Keep natural lighting, real materials, and the original color mood, with subtle editorial grading. The lower half uses a warm ivory handmade-paper background and shows a centered horizontal illustration of the same scene. The illustration occupies about 63-67% of the lower width, with generous blank space around it.
+Scene Translation
+In the lower illustration, preserve the most recognizable subjects, major structures, important objects, viewpoint, depth, relative scale, and key positions from the source. Remove tiny clutter, fine photographic texture, reflections, and complex shadows. Simplify the scene into slightly awkward geometric color blocks and thin hand-drawn lines. People and animals, when present, remain identifiable through silhouette, pose, hair or fur shape, clothing color, and placement, but facial detail may be reduced. Outlines may wobble, break, shift, or misalign slightly while the scene stays recognizable.
+Illustration Style
+Use restrained naive editorial drawing with soft geometric simplification and handmade quality. Combine thin sketchy linework with flat shapes. The lower scene should feel calm, clean, slightly imperfect, and visually reduced rather than technically precise. Avoid realistic rendering.
+Color
+Extract 4-6 representative colors from the uploaded photo and reinterpret them as a soft low-saturation palette. Use muted tones derived from the source, with flat fills and enough contrast to separate major subjects and scene layers. No complex gradients, glossy highlights, or heavy 3D modeling.
+Texture
+Blend crayon, pastel, screen-print, and old-book illustration qualities. Keep paper show-through, fine grain, slight pigment unevenness, worn edges, and subtle off-register shifts. The result should feel like an independent editorial illustration printed on aged paper: warm, quiet, nostalgic, and collectible.
+Typography
+Below the illustration, you may include exactly two short English lines related to the scene, mood, place, or moment. Use a small vintage serif font, left-aligned. If clean readable text cannot be rendered, leave the area blank. No other readable text.
+Cleanup
+Remove phone UI, subtitles, screenshot traces, and interface elements when present. Do not invent missing scenery or decorative props.
+Negative
+No major layout change, no added or missing primary subjects, no photoreal painting, no polished watercolor, no anime, no manga, no vector clip-art, no oil paint, no impasto, no 3D, no logo, no watermark, no black border, no UI, no unrelated decoration.
+Vertical 3:4 split card · photo top / naive illustration bottom · aged paper texture
+```
+
+</details>
 
 <a id="travel"></a>
 ### 手绘彩铅旅行海报
@@ -122,6 +1575,57 @@ Text Treatment
 Text is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.
 Overall Presentation
 Contemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.
+```
+
+</details>
+
+<a id="red-rally-sedan-editorial-poster"></a>
+### 深红拉力赛车极简海报
+
+红色复古赛车以完整侧面构图置于深红棚拍背景，与巨幅白色字形形成层叠视觉。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2104879575096537148)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HTYIy_GagAAX9I0.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTYIy_GagAAX9I0.jpg) · [output 2](https://pbs.twimg.com/media/HTYIzhHaMAAjiAB.jpg) · [output 3](https://pbs.twimg.com/media/HTYI0DobYAIu48A.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a premium minimalist automotive editorial poster in a vertical 3:4 composition.
+
+A classic boxy red rally racing sedan is shown in a clean full side profile, centered horizontally across the lower-middle portion of the frame. The car has a low, wide racing stance, box-shaped vintage body, glossy deep red paint, black wide fender extensions, black multi-spoke racing wheels, low-profile tires, front racing bumper, auxiliary round headlights, side exhaust details, roll cage visible through the windows, racing bucket seats, and a large black rear racing spoiler.
+
+The car should look like a professionally prepared vintage touring or rally race car, with realistic mechanical details, sharp body lines, subtle reflections, realistic rubber and metal textures, and high-end studio lighting.
+
+The car features a white and black geometric racing livery across the doors and lower body. Include a bold black racing number/logo style graphic on the door, with small technical racing text and decals. Keep the graphics clean, symmetrical, and authentic to motorsport design.
+
+Background: a completely flat, intense crimson-red studio backdrop with a subtle tonal gradient and very soft floor transition. Behind the car, place enormous bold condensed uppercase white typography reading “RENAULT”, positioned vertically centered in the upper and middle background. The typography should be partially hidden by the car, creating a strong layered poster composition. Use a heavy condensed sans-serif racing/editorial font.
+
+Composition:
+• Vertical 3:4 poster
+• Large empty red negative space above the car
+• Huge “RENAULT” text occupying most of the background width
+• Car centered around the lower-middle section
+• Full vehicle visible from front bumper to rear spoiler
+• Perfect clean side profile
+• Minimal visual clutter
+• Strong horizontal balance
+• Premium automotive advertising aesthetic
+
+Lighting: soft controlled studio lighting from above and slightly from the front, producing realistic highlights along the red bodywork and subtle shadows underneath the vehicle. Add a soft contact shadow beneath the tires without making the scene dramatic.
+
+Style: high-end automotive campaign photography, minimalist Swiss-inspired editorial poster design, vintage motorsport aesthetic, modern luxury advertising, photorealistic vehicle rendering, extremely clean composition, sharp details, realistic materials, subtle film grain.
+
+Color palette: intense crimson red background, bright white typography and livery, deep black wheels and aerodynamic parts, small neutral gray mechanical details.
+
+No people, no road, no city, no scenery, no extra vehicles, no unnecessary objects, no excessive reflections, no distorted wheels, no perspective distortion, no cropped car, no messy typography.
+
+Ultra-realistic, crisp, professional automotive photography, high detail, 8K quality.
 ```
 
 </details>
@@ -250,6 +1754,286 @@ The result should feel serene, intimate, expensive, tactile, collectible, and ti
 Avoid photorealism, saturated autumn colors, rustic styling, excessive foliage, harsh contrast, heavy shadows, excessive accessories, busy backgrounds, collage layouts, hard frames, logos, text, watermarks, or artificial 3D rendering.
 
 FORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist composition.
+```
+
+</details>
+
+<a id="zen-ginkgo-autumn-cover"></a>
+### 银杏秋日东方禅意封面
+
+古风女子在明亮白墙旁接住银杏落叶，以清晰树影、克制秋枝和大面积留白构成轻盈秋日封面。
+
+作者：李岳 (@liyue\_ai) · [原帖](https://x.com/liyue_ai/status/2105172484677091829)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @liyue\_ai](https://pbs.twimg.com/media/HTcTNUhaIAEiESl.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTcTNUhaIAEiESl.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+主题方向： 东方禅意极简秋日封面海报
+风格分支： 女性审美明亮秋日型
+主体内容： 一位古风女子缓慢经过一面明亮白墙，抬起一只手轻轻接住从树梢飘落的一片银杏叶
+情绪母题： 清朗、从容、治愈、秋日明媚感
+场景与意象： 奶油白墙面、金黄色银杏枝叶、少量橙红秋柿、飘落银杏叶、女子、清晰树影
+构图与空间： 9:16 竖版，白墙占画面约三分之二作为主要负空间，人物位于下方偏左，秋枝从右上方斜向进入，巨大树影铺展在右侧墙面，左上方保留完整标题区
+色彩控制： 奶油白作为高明度墙面与空间基底，银杏金黄用于主要秋叶，少量柿子橙红作为第二视觉点，人物服装保持浅米白与珍珠白，树影使用自然中性灰；避免整图土黄化、橙化或套暖色滤镜
+光线与质感： 晴朗秋日下午侧光，明亮通透，树影轮廓清晰，墙面保留细腻浅纸感与自然纹理，边缘干净，不使用雾化和旧纸颗粒
+画幅比例： 9:16
+补充要求： 秋叶数量克制，枝头柿子只保留少量点睛；人物比例自然纤细、姿态轻盈，手掌向上自然接叶；整体高明度、鲜活而不俗，保留大面积呼吸感与女性向高传播封面感；留白处可配置东方书法标题与少量现代宋体小字
+```
+
+</details>
+
+<a id="dusk-flash-film-portrait"></a>
+### 黄昏直闪胶片人像
+
+低机位户外近景，以正面直闪、深蓝暮色天空和明显胶片颗粒塑造人像。
+
+作者：yusra. (@chatgptpaglu) · [原帖](https://x.com/chatgptpaglu/status/2105219509791678731)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @chatgptpaglu](https://pbs.twimg.com/media/HTc9-qbW8AAWlfy.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTc9-qbW8AAWlfy.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
+```
+
+</details>
+
+<a id="cafe-portrait-through-foreground"></a>
+### 前景虚化中的咖啡馆人像
+
+借两位虚化前景人物的间隙构图，以暖色卷发与浅景深塑造自然咖啡馆人像。
+
+作者：Meem (@mehvishs25) · [原帖](https://x.com/mehvishs25/status/2105280094994587829)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @mehvishs25](https://pbs.twimg.com/media/HTd1FVXbsAASrYh.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTd1FVXbsAASrYh.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Candid cinematic portrait of a woman with a warm, playful, knowing smile, seated at a café table and looking directly at the camera through a gap between two out-of-focus people in the foreground. She has voluminous, tousled, shoulder-length curly hair in honey-brown and caramel tones with sun-lightened highlights, messy shaggy curtain bangs falling across her forehead and eyes, strands catching the light like a glowing halo. Her skin is sun-kissed and warm, with natural texture, minimal makeup, a soft muted-rose lip, and a slight smirk that reads as relaxed and flirtatious. She wears a black oversized knit cardigan or soft black jacket, layered with delicate thin gold necklaces of different lengths.
+On the wooden table in front of her sits a white-lidded brown paper takeaway coffee cup, and beside it a small glass of amber tea. In the extreme foreground, blurred shoulders and heads frame the shot: on the left, a person in a striped beanie and white t-shirt, on the right, a person in a dark brown top with dark curly hair, both heavily out of focus.
+Setting: a sunlit café interior beside a large window, with a blurred street scene, a soft peach and white building, and a pale sky visible outside.
+Lighting: Strong golden-hour sunlight pouring in from the side and behind, creating a glowing rim light through her hair, warm orange highlights across her face, and deep chocolate-brown shadows. Sun-drenched, hazy, slightly overexposed highlights with a soft bloom.
+Style / Mood: Warm, nostalgic, effortless, and intimate. Candid lifestyle photography with a "captured in the moment" feel. Analog film aesthetic, Kodak Portra 400 / Kodak Gold 200 look, visible film grain, lifted warm blacks, rich amber, honey, and brown color palette, gentle halation and lens glow.
+Camera details: 85mm f/1.4 lens, very shallow depth of field, sharp focus on her eyes and face, layered foreground bokeh (over-the-shoulder framing), vertical 4:5 composition, eye-level shot, slight vignette.
+```
+
+</details>
+
+<a id="architectural-passport-travel-poster"></a>
+### 建筑护照式旅行海报
+
+结合彩铅、墨线、地图、建筑细部与档案注释，绘制可收藏的地标旅行海报。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2105486629586796891)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTgw7Dma8AA7PGY.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTgw7Dma8AA7PGY.jpg) · [output 2](https://pbs.twimg.com/media/HTgw7DkbIAAjFdX.jpg) · [output 3](https://pbs.twimg.com/media/HTgw7DiagAA9SNs.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create a highly detailed “Architectural Passport” travel poster for [CITY / LANDMARK], designed to look like a premium collectible art print that blends colored-pencil illustration, fine ink drawing, vintage architectural documentation, and subtle watercolor texture.
+
+Place the landmark as the dramatic hero, drawn with intricate hand-rendered details, realistic perspective, delicate pencil hatching, visible paper grain, and carefully controlled pops of natural color. Surround it with a faint city map, street names, architectural measurements, tiny elevation sketches, construction lines, botanical details, directional arrows, and miniature diagrammatic studies.
+
+Use an elegant warm ivory paper background with mostly muted graphite, charcoal, terracotta, olive green, dusty blue, and warm beige tones. Keep the background extremely clean and editorial, allowing the landmark to visually emerge from the page.
+
+Add sophisticated typography:
+[CITY]
+[LANDMARK NAME]
+small coordinates, founding/construction date, architectural style, neighborhood name, and tiny archival annotations.
+
+Include one or two miniature architectural detail drawings beside the main structure, as if taken from an architect’s sketchbook. Add subtle imperfections: pencil smudges, uneven ink pressure, erased construction marks, paper fibers, faint halftone texture, and hand-drawn annotation marks.
+
+The composition should feel like a cross between a vintage travel poster, an architectural magazine cover, a museum exhibition print, and a designer’s sketchbook.
+
+Visual hook: make the landmark extremely detailed and colorful while the surrounding city information remains almost ghost-like, creating a striking contrast between “the place” and “the blueprint of the place.”
+
+Vertical 4:5 composition, premium editorial design, sophisticated negative space, ultra-detailed hand illustration, realistic architectural perspective, tactile paper texture, collectible poster aesthetic, visually striking at thumbnail size, no photorealistic rendering, no 3D CGI look.
+```
+
+</details>
+
+<a id="calculation-paper-pen-doodle"></a>
+### 计算草稿纸上的黑笔人物涂鸦
+
+将照片人物化作草稿纸上的黑色签字笔乱线，与密集潦草计算形成随性、仿佛迷失其中的涂鸦。
+
+作者：Adam也叫吉米 (@Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2105535672081957342)
+
+类型：image-editing · Supply the photo containing the person to be drawn as a black-pen doodle.
+
+![Original artwork 1 by @Adam38363368936](https://pbs.twimg.com/media/HThddtIacAAGBKL.jpg)
+
+[output 1](https://pbs.twimg.com/media/HThddtIacAAGBKL.jpg) · [output 2](https://pbs.twimg.com/media/HThddtHa4AAS5q8.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+画面呈现出一种随性的简笔插画风，一张充满密密麻麻计算的草稿纸占据了大部分画面，计算的字迹凌乱且潦草。在这片凌乱之中，照片中的人以黑色签字笔画出，线条凌乱无序，它似乎迷失在这复杂的计算世界里，像是书写者写累后一时兴起的随手涂鸦。整体画面构图随意，光影上着重突出线条的对比，让图片中人物和草稿纸的凌乱感更加明显
+```
+
+</details>
+
+<a id="casual-night-film-snapshot"></a>
+### 夜间随手拍胶片快照
+
+保留参考人物的面部和衣着特征，以风吹头发、穿梭车流、胶片噪点与运动模糊营造夜间随手拍感。
+
+作者：Adam也叫吉米 (@Adam38363368936) · [原帖](https://x.com/Adam38363368936/status/2105537948431290407)
+
+类型：image-editing · Upload the person reference; keep their facial and clothing features unchanged.
+
+![Original artwork 1 by @Adam38363368936](https://pbs.twimg.com/media/HThfl1qboAEaoYt.jpg)
+
+[output 1](https://pbs.twimg.com/media/HThfl1qboAEaoYt.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+参考上传人物的面部衣着特征不发生变化。具有ins风的画面，胶片质感明显，有着轻微的噪点，同时带有运动模糊效果，给人一种平凡无奇、随手拍摄的快照既视感。画面中的主角双手抱胸，歪着头，头发随着风轻轻飘动，显得格外随性。背景是夜晚的场景，背后的车流穿梭不停，整体没有刻意的主体和构图。
+```
+
+</details>
+
+<a id="national-day-red-silk-cover"></a>
+### 朱红长帛国庆极简封面
+
+古风女子立于象牙白高台旁，望向迎风朱红长帛，以晴空蓝、少量金桂和留白呈现清朗节庆封面。
+
+作者：李岳 (@liyue\_ai) · [原帖](https://x.com/liyue_ai/status/2105538964082069710)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @liyue\_ai](https://pbs.twimg.com/media/HThghmDaIAEwXKB.jpg)
+
+[output 1](https://pbs.twimg.com/media/HThghmDaIAEwXKB.jpg)
+
+<details>
+<summary>提示词 (zh)</summary>
+
+```text
+主题方向： 东方禅意极简国庆封面海报
+风格分支： 国庆女性审美明亮高传播型
+主体内容： 一位古风女子站在白色高台边，抬手望向被风轻轻吹起的一幅朱红长帛
+情绪母题： 明朗、喜悦、向上、山河清朗
+场景与意象： 象牙白高台、朱红长帛、晴空蓝天空、少量金桂枝叶、女子、极淡远山
+构图与空间： 9:16 竖版，女子位于画面下方偏右，朱红长帛从右上方斜向进入并形成明显视觉动线，天空与白色墙面占据约三分之二画幅，上方偏左保留完整标题区，远山只作为极淡空间层次
+色彩控制： 象牙白作为高明度空间基底，晴空蓝用于天空和少量远景空气层，朱红只用于迎风长帛和极少局部点睛，桂花金用于少量枝叶与细节，人物服装保持月白或浅杏白；形成红、蓝、白之间鲜明但干净的节庆对比，避免全图泛红、泛金或套暖色滤镜
+光线与质感： 国庆晴日上午明亮自然光，空气清透，轮廓清晰，白色高台有干净高光，长帛保留轻薄透光与自然褶皱，现代东方平面海报感，轻微纸面质感即可
+画幅比例： 9:16
+补充要求： 节庆感要鲜明但不要传统宣传画感；不要烟花、彩带、人群、复杂建筑和大面积红色背景；女子比例纤细自然，姿态舒展；整体高明度、低灰度、轻盈通透，有明显女性审美和小红书高传播封面感；留白处配置少量东方书法标题和现代宋体小字
+```
+
+</details>
+
+<a id="crayon-people-photo-edit"></a>
+### 仅将照片中的人物变成蜡笔涂鸦
+
+将人物重绘为手工蜡笔角色，保留照片背景、姿态和物件，形成鲜明的混合媒介对比。
+
+作者：Harboris (@harboriis) · [原帖](https://x.com/harboriis/status/2105546366433013911)
+
+类型：image-editing · Upload the photograph whose people should be redrawn; keep its background and objects unchanged.
+
+![Original artwork 1 by @harboriis](https://pbs.twimg.com/media/HThnPtcaEAAnKnc.jpg)
+
+[output 1](https://pbs.twimg.com/media/HThnPtcaEAAnKnc.jpg) · [output 2](https://pbs.twimg.com/media/HThnQR7bEAAeAo9.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Transform only the people in the uploaded photo into cute hand-drawn crayon doodle characters, while everything else in the photograph stays untouched and fully photographic. FORMAT: Vertical 3:4. Keep the original framing, camera angle, lens perspective, lighting and colors. BACKGROUND LOCK: Walls, sky, buildings, car interiors, graffiti, signs, text, furniture, water, ground and every object stay 100% photographic and unchanged. No doodle strokes, outlines or paper texture anywhere outside the people. CHARACTER: Replace each person with a chibi doodle version of themselves in the exact same position, scale, angle and pose. Oversized round head about one third of the body height, short simplified torso and limbs, small mitten-like hands. Keep head tilt, body direction, gestures, hand positions and interactions exactly as photographed. Never turn a person toward the camera. FACE: Minimal and cute. Tiny solid dot eyes or small curved closed-eye lines, short thick dash eyebrows that carry the original expression, a tiny hooked nose line, a small simple mouth matching the original expression, and round scribbled rosy-pink blush circles on both cheeks. Draw eyes only where they are visible; if sunglasses cover them, show only the sunglasses. IDENTITY DETAILS: Keep the exact hairstyle, hair color and volume, drawn as dense scribbled crayon strokes, with curls as loose looping scribbles. Keep every clothing color, garment shape, collar, sleeve and printed graphic. Redraw all accessories in bold simplified detail: sunglasses with glossy black lenses and white highlight streaks, chains, pendants, earrings, rings, headphones, earphone cables, bags and straps. Show visible stubble, beard or chest hair as light scribbles. DRAWING TECHNIQUE: Hand-drawn oil pastel and wax crayon on textured paper. Bold, uneven black crayon outlines, dense directional hatching fills in rich colors matched to the photo, visible paper grain, slightly wobbly imperfect shapes, small uncolored flecks inside the fills, and simple crayon fold lines on clothing. INTEGRATION: The doodle sits exactly where the real person was, as, with with correct correct scale, depth, overlap and contact with seats, walls, cars and the ground. Objects held in the hand, such as phones or cups, stay photographic. FINAL LOOK: A real, untouched photograph where only the people have been redrawn by hand as adorable crayon doodles, a clear mixed-media contrast between realistic photography and handmade drawing.
+
+NEGATIVE PROMPT
+Full-image illustration, doodled or stylized background, altered background, cartoon scenery, realistic human face, realistic anatomy, anime, manga, 3D render, Pixar style, vector art, smooth digital shading, thin clean lines, changed pose, rotated body, invented facial features, extra people, missing accessories, altered text or signage, color shift, added objects
+```
+
+</details>
+
+<a id="quiet-inner-world-portrait"></a>
+### 内心世界：窗边电影感人像
+
+窗边自然人像，以旧书、茶杯、暖光和玻璃中的微弱倒影呈现安静的内心世界。
+
+作者：simeon-sanai (@Naiknelofar788) · [原帖](https://x.com/Naiknelofar788/status/2105563599527964741)
+
+类型：text-to-image · No reference image required.
+
+![Original artwork 1 by @Naiknelofar788](https://pbs.twimg.com/media/HTh264fbEAA6Zrg.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTh264fbEAA6Zrg.jpg) · [output 2](https://pbs.twimg.com/media/HTh27c2akAACMJD.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Create an exceptionally artistic cinematic portrait of a person, designed as a visual representation of their quiet inner world.
+
+Show the person standing beside a large old window in a softly lit vintage room. Their face and identity remain natural, realistic, and highly detailed. They are not posing directly for the camera; instead, capture a subtle candid moment as they look slightly away, as if lost in thought.
+
+The room should feel like a collection of memories: an open old book, a half-filled teacup, handwritten notes, dried flowers, a small vintage clock, scattered photographs, and delicate curtains moving slightly in the breeze.
+
+Create a beautiful contrast between warm sunlight entering through the window and soft cool shadows surrounding the subject. Let tiny dust particles float through the light, creating a dreamy atmospheric glow.
+
+Use muted earthy tones, warm ivory, faded brown, dusty beige, soft sage, and subtle golden highlights. Natural skin texture, realistic eyes, delicate hair strands, soft fabric details, cinematic depth of field.
+
+Add subtle visual storytelling: reflections in the window should contain faint, almost imperceptible fragments of landscapes, clouds, trees, and distant mountains, as though the person's memories are quietly appearing in the glass.
+
+Composition should feel like a frame from an intimate arthouse film — elegant, peaceful, nostalgic, sophisticated, emotionally expressive without being dramatic.
+
+Editorial photography + cinematic realism + fine-art portraiture + nostalgic film grain + soft natural light + subtle analog texture.
+
+No excessive makeup, no artificial beauty retouching, no exaggerated pose, no fantasy costume, no plastic skin, no text, no watermark.
+```
+
+</details>
+
+<a id="pink-watercolor-fashion-portrait"></a>
+### 粉色水彩时装人像
+
+以人物参考图绘制粉色外套时装插画，结合吉他形乐器、透明水彩层次和细墨线细节。
+
+作者：Gopal Tiwari (@imGopalTiwari) · [原帖](https://x.com/imGopalTiwari/status/2105563629454348547)
+
+类型：image-editing · Upload the primary portrait reference; preserve its facial identity, proportions and defining features.
+
+![Original artwork 1 by @imGopalTiwari](https://pbs.twimg.com/media/HTh28H2bcAAGBT8.jpg)
+
+[output 1](https://pbs.twimg.com/media/HTh28H2bcAAGBT8.jpg)
+
+<details>
+<summary>提示词原文 (en)</summary>
+
+```text
+Hyper-realistic IMAX-level Netflix-style watercolor fashion illustration, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a dusty-pink cropped jacket over a ribbed pink fitted top with a dark inner layer at the neckline, distressed blue short jeans and layered bracelets, standing upright with a relaxed slight lean, her torso facing mostly toward the viewer, left arm hanging naturally beside her thigh while her right arm bends forward and her right hand grips the neck of a guitar-like instrument crossing horizontally in front of her waist; her shoulders stay relaxed and her stance feels casual and confident. Her face tilts slightly upward and toward the camera with a bright gentle smile, softly raised cheeks, relaxed eyes looking directly forward, naturally lifted brows, relaxed jaw and softly closed lips, giving her a cheerful, warm and carefree expression. Her medium-length dark-brown hair is worn loose with a slightly messy natural texture, soft waves and uneven flowing strands around the shoulders, a loose center-to-slight-side part, wispy strands crossing the forehead and several fine flyaways extending outward to create an airy hand-painted movement. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, rendered with delicate watercolor texture and soft translucent blush on the cheeks. Keep the background mostly white textured watercolor paper with a large irregular pale peach-pink watercolor wash behind the figure, with softly feathered edges and a few scattered paint splashes. Use gentle diffuse illustrated lighting with soft highlights along the face, hair and jacket and very subtle shadow washes beneath the chin, hair and clothing folds. Colour grade with a soft pastel palette of blush pink, dusty rose, muted blue, warm beige and clean ivory, low contrast, delicate saturation, creamy highlights and very light grey shadows. Apply a refined watercolor-and-fine-ink filter with visible paper grain, translucent layered pigment, soft pigment bleeding, delicate brush edges, subtle ink outlines and natural colour variation while keeping the face and important details clean and expressive.  
+Negative prompt: changed identity, distorted anatomy, extra fingers, malformed hands, broken instrument, harsh digital rendering, photorealistic skin, 3D CGI, muddy colours, text, watermark.
 ```
 
 </details>

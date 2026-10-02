@@ -1,0 +1,51 @@
+{
+  "id": "x-2104222515447177333",
+  "slug": "lakeside-bench-lifestyle-portrait",
+  "title": {
+    "en": "Lakeside Bench Lifestyle Portrait",
+    "zh": "湖畔长椅生活方式人像"
+  },
+  "description": {
+    "en": "Place the reference subject beside a quiet lake with natural compact-camera detail and relaxed park-bench composition.",
+    "zh": "以参考人物为主体，结合静谧湖景、木质长椅与自然小型相机质感呈现轻松生活照。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "portraits"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Upload the woman’s identity and appearance reference; preserve her natural facial features.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Meem",
+    "handle": "mehvishs25"
+  },
+  "sourceUrl": "https://x.com/mehvishs25/status/2104222515447177333",
+  "promptSourceUrl": "https://x.com/mehvishs25/status/2104222515447177333",
+  "mediaSourceUrl": "https://x.com/mehvishs25/status/2104222515447177333",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Use the uploaded reference image as the exact identity and appearance reference for the woman. Preserve her facial identity completely — exact facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairstyle, and natural proportions. Do not beautify, reshape, age, or alter her face. She must clearly look like the same person from the reference.\n\nCreate an ultra-realistic luxury lifestyle photograph of the same young woman relaxing beside a tranquil lake in an elegant, beautifully landscaped park.\n\nCOMPOSITION & POSE\n\nShe is seated diagonally on a refined dark wooden park bench, with her body turned slightly toward the lake rather than directly toward the camera. One leg is crossed naturally over the other, creating a long, elegant silhouette without exaggeration. Her shoulders are relaxed and her posture is confident but effortless.\n\nOne arm rests casually along the back of the bench while her other hand holds a takeaway coffee cup near her lap. She is looking toward the lake, slightly away from the camera, as if caught naturally during a quiet afternoon moment.\n\nPlace a sophisticated black luxury handbag beside her on the bench.\n\nThe camera is positioned at approximately eye level in a subtle three-quarter view, capturing her from approximately mid-thigh upward while still showing enough of her crossed legs, footwear, bench, and surrounding environment.\n\nAPPEARANCE\n\nHair pulled into a sleek, polished ponytail with a clean center parting.\n\nMakeup is refined and understated:\n\n- thin elegant winged eyeliner\n- softly defined lashes\n- naturally shaped brows\n- subtle warm complexion\n- shaded brown lip pencil defining the natural lip contour\n- hydrated, tanned skin with realistic pores and subtle imperfections\n- no plastic-looking skin or excessive beauty retouching\n\nHer skin should have a healthy natural glow while retaining authentic photographic texture.\n\nOUTFIT\n\nShe wears a matte oversized dark-chocolate leather jacket with pronounced shoulders and a structured waist belt, creating a sophisticated feminine silhouette.\n\nUnderneath is a fitted black mini dress featuring a subtle high translucent collar.\n\nShe wears sheer transparent black luxury monogram-pattern tights, with an elegant repeating designer-inspired pattern, realistic textile construction, delicate transparency, and visible fine fabric texture. The tights must look physically real rather than digitally printed onto the legs.\n\nClassic black leather pointed-toe stilettos complete the outfit.\n\nAccessories:\n\n- elegant gold earrings\n- minimal refined gold jewelry\n- no excessive accessories\n\nENVIRONMENT\n\nA sophisticated luxury park surrounding a calm lake.\n\nIn the background:\n\n- still reflective water\n- mature green trees\n- manicured landscaping\n- subtle architectural elements\n- distant soft-focus pathways\n- elegant natural scenery\n\nKeep the background realistic and understated, with natural depth rather than an artificial fantasy environment.\n\nPHOTOGRAPHY & LIGHTING\n\nUltra-realistic candid luxury lifestyle photography captured on a Canon PowerShot G7 X, with the distinctive look of a compact-camera photograph combined with a bright direct on-camera flash.\n\nCloudy daylight provides soft ambient illumination while the camera flash creates a clean, bright editorial pop on her face and clothing.\n\nThe lighting should produce:\n\n- extremely realistic skin rendering\n- subtle natural shadows\n- bright but controlled flash highlights\n- realistic pores\n- slight moisture/glow on the skin\n- authentic fine facial texture\n- natural tonal variation\n\nUse slightly reduced overall exposure while maintaining the characteristic bright direct-flash aesthetic.\n\nColor grading should resemble an expensive Instagram luxury-fashion photograph: clean, sophisticated, slightly warm, crisp but not oversharpened, natural colors, subtle contrast, realistic highlights, and authentic compact-camera character.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTOzODGaAAAAdrl.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @mehvishs25",
+      "sourceUrl": "https://x.com/mehvishs25/status/2104222515447177333"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

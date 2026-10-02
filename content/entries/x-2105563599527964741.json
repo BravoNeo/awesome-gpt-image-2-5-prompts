@@ -1,0 +1,58 @@
+{
+  "id": "x-2105563599527964741",
+  "slug": "quiet-inner-world-portrait",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Quiet Inner World: Cinematic Window Portrait",
+    "zh": "内心世界：窗边电影感人像"
+  },
+  "description": {
+    "en": "A candid window portrait with vintage objects, warm light and faint memory-like reflections in the glass.",
+    "zh": "窗边自然人像，以旧书、茶杯、暖光和玻璃中的微弱倒影呈现安静的内心世界。"
+  },
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2105563599527964741",
+  "originalLanguage": "en",
+  "originalPrompt": "Create an exceptionally artistic cinematic portrait of a person, designed as a visual representation of their quiet inner world.\n\nShow the person standing beside a large old window in a softly lit vintage room. Their face and identity remain natural, realistic, and highly detailed. They are not posing directly for the camera; instead, capture a subtle candid moment as they look slightly away, as if lost in thought.\n\nThe room should feel like a collection of memories: an open old book, a half-filled teacup, handwritten notes, dried flowers, a small vintage clock, scattered photographs, and delicate curtains moving slightly in the breeze.\n\nCreate a beautiful contrast between warm sunlight entering through the window and soft cool shadows surrounding the subject. Let tiny dust particles float through the light, creating a dreamy atmospheric glow.\n\nUse muted earthy tones, warm ivory, faded brown, dusty beige, soft sage, and subtle golden highlights. Natural skin texture, realistic eyes, delicate hair strands, soft fabric details, cinematic depth of field.\n\nAdd subtle visual storytelling: reflections in the window should contain faint, almost imperceptible fragments of landscapes, clouds, trees, and distant mountains, as though the person's memories are quietly appearing in the glass.\n\nComposition should feel like a frame from an intimate arthouse film — elegant, peaceful, nostalgic, sophisticated, emotionally expressive without being dramatic.\n\nEditorial photography + cinematic realism + fine-art portraiture + nostalgic film grain + soft natural light + subtle analog texture.\n\nNo excessive makeup, no artificial beauty retouching, no exaggerated pose, no fantasy costume, no plastic skin, no text, no watermark.",
+  "translations": {},
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic",
+      "film"
+    ],
+    "subject": [
+      "people"
+    ]
+  },
+  "tags": [
+    "Window light",
+    "Fine-art portrait",
+    "Vintage room"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTh264fbEAA6Zrg.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105563599527964741"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTh27c2akAACMJD.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105563599527964741"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

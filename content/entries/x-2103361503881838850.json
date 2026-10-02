@@ -1,0 +1,70 @@
+{
+  "id": "x-2103361503881838850",
+  "slug": "expressive-automotive-motion-poster",
+  "title": {
+    "en": "Expressive Automotive Motion Poster",
+    "zh": "表现性汽车动态海报"
+  },
+  "description": {
+    "en": "An accelerating car in a low three-quarter view combines painted motion strokes, ink splashes and vintage racing texture.",
+    "zh": "低机位四分之三视角的疾驶汽车，结合运动笔触、墨点和复古赛车印刷纹理。"
+  },
+  "categories": {
+    "use": [
+      "posters",
+      "products"
+    ],
+    "style": [
+      "hand-drawn",
+      "retro"
+    ],
+    "subject": [
+      "vehicles"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Saul Goodman",
+    "handle": "Goodmanprotocol"
+  },
+  "sourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850",
+  "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850",
+  "mediaSourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a premium 4:5 vertical automotive editorial poster featuring a [YEAR] [CAR] in [COLOR], captured from an aggressive low three-quarter perspective as it speeds through [SCENERY]. Emphasize the car’s authentic proportions, distinctive body lines, aerodynamic surfaces, wheels, headlights, grille, reflections, and mechanical details while maintaining a dynamic sense of forward motion.\n\nBuild the artwork around expressive hand-painted brush strokes, sweeping diagonal marks, controlled ink splashes, dry-brush textures, screen-printed grain, subtle halftone patterns, bold graphic shadows, and layered atmospheric shapes. Add directional motion trails, subtle environmental blur, dust or road particles, and energetic background strokes that reinforce speed without obscuring the vehicle.\n\nUse a sophisticated high-contrast palette of [COLORS], with carefully balanced highlights, deep shadows, and selective accent tones. Keep the composition bold but refined, combining vintage motorsport graphics with contemporary automotive editorial design.\n\nPlace the large, clean geometric sans-serif title “[TITLE]” prominently at the top, with the bold editorial headline “[HEADLINE]” integrated naturally into the artwork. Position the authentic [BRAND] logo cleanly at the bottom, maintaining accurate proportions and strong visual hierarchy.\n\nCrisp illustrated vehicle detailing, dramatic perspective, tactile print texture, refined typography, balanced negative space, premium poster composition, energetic retro racing aesthetic, sophisticated editorial finish, highly polished 4:5 vertical format.",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTCkGWpa0AAK9_q.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCkHMOaAAADdFc.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCkH3WbYAAPZhO.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTCkImGaEAAHCkS.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2103361503881838850"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

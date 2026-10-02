@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "infographics",
+  "labels": {
+    "en": "Infographics",
+    "zh": "信息图"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2102417129022898550"
+  ]
+}

@@ -1,28 +1,216 @@
 {
   "use": {
-    "posters": {"en": "Posters", "zh": "海报"},
-    "portraits": {"en": "Portraits", "zh": "人像"},
-    "storyboards": {"en": "Storyboards", "zh": "分镜"},
-    "products": {"en": "Products", "zh": "产品"},
-    "image-editing": {"en": "Image editing", "zh": "图像编辑"},
-    "fashion-editorial": {"en": "Fashion editorial", "zh": "时装大片"},
-    "art-editorial": {"en": "Art editorial", "zh": "艺术画页"}
+    "posters": {
+      "en": "Posters",
+      "zh": "海报"
+    },
+    "portraits": {
+      "en": "Portraits",
+      "zh": "人像"
+    },
+    "storyboards": {
+      "en": "Storyboards",
+      "zh": "分镜"
+    },
+    "products": {
+      "en": "Products",
+      "zh": "产品"
+    },
+    "image-editing": {
+      "en": "Image editing",
+      "zh": "图像编辑"
+    },
+    "fashion-editorial": {
+      "en": "Fashion editorial",
+      "zh": "时装大片"
+    },
+    "art-editorial": {
+      "en": "Art editorial",
+      "zh": "艺术画页"
+    },
+    "photo-grids": {
+      "en": "Photo grids",
+      "zh": "照片与多格布局"
+    },
+    "wallpapers": {
+      "en": "Wallpapers",
+      "zh": "壁纸"
+    },
+    "infographics": {
+      "en": "Infographics",
+      "zh": "信息图"
+    }
   },
   "style": {
-    "colored-pencil": {"en": "Colored pencil", "zh": "彩铅"},
-    "crayon": {"en": "Crayon", "zh": "蜡笔"},
-    "ink-wash": {"en": "Ink wash", "zh": "水墨"},
-    "photorealistic": {"en": "Photorealistic", "zh": "写实摄影"},
-    "retro": {"en": "Retro", "zh": "复古"},
-    "gouache": {"en": "Gouache", "zh": "水粉"},
-    "minimalist": {"en": "Minimalist", "zh": "极简"}
+    "colored-pencil": {
+      "en": "Colored pencil",
+      "zh": "彩铅"
+    },
+    "crayon": {
+      "en": "Crayon",
+      "zh": "蜡笔"
+    },
+    "ink-wash": {
+      "en": "Ink wash",
+      "zh": "水墨"
+    },
+    "photorealistic": {
+      "en": "Photorealistic",
+      "zh": "写实摄影"
+    },
+    "retro": {
+      "en": "Retro",
+      "zh": "复古"
+    },
+    "gouache": {
+      "en": "Gouache",
+      "zh": "水粉"
+    },
+    "minimalist": {
+      "en": "Minimalist",
+      "zh": "极简"
+    },
+    "film": {
+      "en": "Film photography",
+      "zh": "胶片摄影"
+    },
+    "watercolor": {
+      "en": "Watercolor",
+      "zh": "水彩"
+    },
+    "hand-drawn": {
+      "en": "Hand-drawn",
+      "zh": "手绘"
+    },
+    "naive-illustration": {
+      "en": "Naive illustration",
+      "zh": "朴拙插画"
+    },
+    "comic": {
+      "en": "Comic illustration",
+      "zh": "漫画插画"
+    },
+    "graphic-design": {
+      "en": "Graphic design",
+      "zh": "平面设计"
+    },
+    "pen-doodle": {
+      "en": "Pen doodle",
+      "zh": "钢笔涂鸦"
+    },
+    "collage": {
+      "en": "Collage",
+      "zh": "拼贴"
+    },
+    "halftone": {
+      "en": "Halftone",
+      "zh": "半调网点"
+    },
+    "surreal": {
+      "en": "Surreal",
+      "zh": "超现实"
+    },
+    "architectural-sketch": {
+      "en": "Architectural sketch",
+      "zh": "建筑手绘"
+    },
+    "monochrome": {
+      "en": "Monochrome",
+      "zh": "单色"
+    },
+    "oil-painting": {
+      "en": "Oil painting",
+      "zh": "油画"
+    },
+    "gongbi": {
+      "en": "Gongbi painting",
+      "zh": "工笔画"
+    },
+    "psychedelic": {
+      "en": "Psychedelic",
+      "zh": "迷幻"
+    },
+    "bauhaus": {
+      "en": "Bauhaus",
+      "zh": "包豪斯"
+    }
   },
   "subject": {
-    "architecture": {"en": "Architecture", "zh": "建筑"},
-    "travel": {"en": "Travel", "zh": "旅行"},
-    "landscape": {"en": "Landscape", "zh": "风景"},
-    "people": {"en": "People", "zh": "人物"},
-    "fashion": {"en": "Fashion", "zh": "时装"},
-    "autumn": {"en": "Autumn", "zh": "秋日"}
+    "architecture": {
+      "en": "Architecture",
+      "zh": "建筑"
+    },
+    "travel": {
+      "en": "Travel",
+      "zh": "旅行"
+    },
+    "landscape": {
+      "en": "Landscape",
+      "zh": "风景"
+    },
+    "people": {
+      "en": "People",
+      "zh": "人物"
+    },
+    "fashion": {
+      "en": "Fashion",
+      "zh": "时装"
+    },
+    "autumn": {
+      "en": "Autumn",
+      "zh": "秋日"
+    },
+    "vehicles": {
+      "en": "Vehicles",
+      "zh": "车辆"
+    },
+    "everyday-scenes": {
+      "en": "Everyday scenes",
+      "zh": "日常场景"
+    },
+    "sports": {
+      "en": "Sports",
+      "zh": "运动"
+    },
+    "music": {
+      "en": "Music",
+      "zh": "音乐"
+    },
+    "holidays": {
+      "en": "Holidays",
+      "zh": "节庆"
+    },
+    "math": {
+      "en": "Mathematics",
+      "zh": "数学"
+    },
+    "objects": {
+      "en": "Objects",
+      "zh": "物件"
+    },
+    "characters": {
+      "en": "Characters",
+      "zh": "角色"
+    },
+    "digital-ui": {
+      "en": "Digital interfaces",
+      "zh": "数字界面"
+    },
+    "literature": {
+      "en": "Literature",
+      "zh": "文学"
+    },
+    "food": {
+      "en": "Food",
+      "zh": "食物"
+    },
+    "gaming": {
+      "en": "Gaming",
+      "zh": "游戏"
+    },
+    "technology": {
+      "en": "Technology",
+      "zh": "科技"
+    }
   }
 }

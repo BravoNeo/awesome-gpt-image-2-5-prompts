@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "watercolor",
+  "labels": {
+    "en": "Watercolor",
+    "zh": "水彩"
+  },
+  "count": 4,
+  "entryIds": [
+    "x-2103448130503205226",
+    "x-2104421880363118667",
+    "x-2105486629586796891",
+    "x-2105563629454348547"
+  ]
+}

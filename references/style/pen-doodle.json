@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "pen-doodle",
+  "labels": {
+    "en": "Pen doodle",
+    "zh": "钢笔涂鸦"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105535672081957342"
+  ]
+}

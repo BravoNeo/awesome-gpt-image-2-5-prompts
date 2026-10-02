@@ -47,6 +47,8 @@ def render_readme(entries, taxonomy, locale):
         lines += [f'<a id="{e["slug"]}"></a>', '### ' + text(localized(e['title'], locale)), '', text(localized(e['description'], locale)), '',
                   ('作者：' if zh else 'By ') + text(e['author']['name']) + ((' (@' + text(e['author']['handle']) + ')') if e['author'].get('handle') else '') + ' · [' + ('原帖' if zh else 'Original post') + '](' + e['sourceUrl'] + ')', '',
                   ('类型：' if zh else 'Kind: ') + e['promptKind'] + ' · ' + text(e['inputRequirement']), '']
+        if e.get('mediaSourceUrl') and e['mediaSourceUrl'] != e['sourceUrl']:
+            lines += [('图片原帖：' if zh else 'Artwork source: ') + '[' + ('作者引用的输出作品' if zh else 'Author-quoted output artwork') + '](' + e['mediaSourceUrl'] + ')', '']
         output = next(m for m in e['media'] if m['role'] == 'output')
         lines += [f'![{text(output["alt"])}]({output["url"]})', '', ' · '.join(f'[{m["role"]} {i + 1}]({m["url"]})' for i,m in enumerate(e['media'])), '',
                   '<details>', '<summary>' + (('提示词原文 (' if fallback else '提示词 (') if zh else ('Original prompt (' if fallback else 'Prompt (')) + language + ')</summary>', '', fenced(prompt), '', '</details>', '']
@@ -67,6 +69,7 @@ def build_outputs(entries=None):
     full = []
     for entry in entries:
         item = dict(entry)
+        item['originalPromptSha256'] = hashlib.sha256(entry['originalPrompt'].encode()).hexdigest()
         item['localizedPrompts'] = {locale: dict(zip(['text','language','fallback'], prompt_for(entry, locale))) for locale in ['en','zh']}
         full.append(item)
     outputs['export/catalog.json'] = dump({'schemaVersion':1, 'model':'GPT Image 2.5', 'count':len(entries), 'entries':full})

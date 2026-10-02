@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "gongbi",
+  "labels": {
+    "en": "Gongbi painting",
+    "zh": "工笔画"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2102218694873248214"
+  ]
+}

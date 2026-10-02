@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "wallpapers",
+  "labels": {
+    "en": "Wallpapers",
+    "zh": "壁纸"
+  },
+  "count": 2,
+  "entryIds": [
+    "x-2099786676751225192",
+    "x-2103382102347784199"
+  ]
+}

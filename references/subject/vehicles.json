@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "vehicles",
+  "labels": {
+    "en": "Vehicles",
+    "zh": "车辆"
+  },
+  "count": 4,
+  "entryIds": [
+    "x-2100794581327732765",
+    "x-2103361503881838850",
+    "x-2104185048652255275",
+    "x-2104879575096537148"
+  ]
+}

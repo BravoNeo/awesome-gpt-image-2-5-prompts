@@ -1,0 +1,53 @@
+{
+  "id": "x-2098634675057238254",
+  "slug": "four-live-show-flyer-variations",
+  "title": {
+    "en": "Four Live-Show Flyer Variations",
+    "zh": "四款演出告知传单"
+  },
+  "description": {
+    "en": "Keep a reference character and art style consistent across four inventive concert flyers with fictional event details.",
+    "zh": "保持参考角色和画风一致，以四种服装、姿态与音乐气氛制作带虚构演出信息的告知传单。"
+  },
+  "categories": {
+    "use": [
+      "image-editing",
+      "posters",
+      "photo-grids"
+    ],
+    "style": [
+      "graphic-design"
+    ],
+    "subject": [
+      "characters",
+      "music"
+    ]
+  },
+  "promptKind": "image-editing",
+  "inputRequirement": "Supply the character and art-style reference to preserve across all four flyers.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "Maki@Sunwood AI Labs.",
+    "handle": "hAru_mAki_ch"
+  },
+  "sourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+  "promptSourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+  "mediaSourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "ja",
+  "originalPrompt": "このキャラクターと画風を維持して、プロのデザイナーが制作したような、いろいろなライブ衣装やポーズのライブ告知チラシを2×2の4分割で出して。\n\n衣装、ポーズ、音楽ジャンル、背景、照明、チラシのデザインは自由に発想し、4つそれぞれに違った魅力と意外性を持たせて。ライブの熱気や世界観が伝わるビジュアルと印象的なタイポグラフィを取り入れ、公演タイトルや日時・会場などの架空の告知情報も含めて、プロ級の仕上がりにして。\n\n4つすべて同じキャラクター、同じ画風を維持する。全体の比率は4:3で。",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @hAru_mAki_ch",
+      "sourceUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "x-2103241456475369627",
+  "slug": "rainbow-grim-reaper-psychedelic-poster",
+  "title": {
+    "en": "Rainbow Grim-Reaper Psychedelic Poster",
+    "zh": "彩虹死神迷幻海报"
+  },
+  "description": {
+    "en": "A stark inked skeleton emerges through melting rainbow bands in a gritty, vintage blacklight-poster composition.",
+    "zh": "黑白墨绘骷髅从融化彩虹中现身，以粗粝复古黑光海报质感形成阴暗与明亮色带的对比。"
+  },
+  "categories": {
+    "use": [
+      "posters"
+    ],
+    "style": [
+      "psychedelic",
+      "retro"
+    ],
+    "subject": [
+      "characters"
+    ]
+  },
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "modelClaimed": "GPT Image 2.5",
+  "author": {
+    "name": "LANDCÄSTER.EXE",
+    "handle": "LANDCASTER_92"
+  },
+  "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627",
+  "promptSourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627",
+  "mediaSourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "A surreal psychedelic poster illustration of a skeletal grim-reaper figure emerging through a towering rainbow arch, gripping two vertical streams of liquid color like curtains. The skull and body are rendered in stark black-and-white with heavy inked shadows and gritty stippled texture, creating a macabre contrast against intensely saturated rainbow bands of red, orange, yellow, green, blue, and violet. The rainbow melts and drips downward into glossy neon puddles across a dark rocky foreground, with colorful liquid splashes clinging to the skeleton’s hands and limbs. Pale lavender-gray sky, strange mountainous silhouettes, dreamlike cosmic atmosphere. Retro 1970s underground, blacklight psychedelic print aesthetic, hand-drawn linework, screen-print texture, high contrast, surreal horror fused with cheerful rainbow imagery, vertical composition, centered symmetrical framing, slightly distressed vintage print finish",
+  "translations": {},
+  "tags": [],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTA29JiXgAEGPPM.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @LANDCASTER_92",
+      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTA29JhXEAA20cu.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @LANDCASTER_92",
+      "sourceUrl": "https://x.com/LANDCASTER_92/status/2103241456475369627"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

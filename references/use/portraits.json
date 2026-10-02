@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "portraits",
+  "labels": {
+    "en": "Portraits",
+    "zh": "人像"
+  },
+  "count": 0,
+  "entryIds": []
+}

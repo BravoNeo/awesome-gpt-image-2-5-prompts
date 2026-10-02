@@ -1,0 +1,72 @@
+{
+  "id": "x-2104795155782148399",
+  "slug": "travel",
+  "modelClaimed": "GPT Image 2.5",
+  "title": {
+    "en": "Handcrafted Colored-Pencil Travel Poster",
+    "zh": "手绘彩铅旅行海报"
+  },
+  "description": {
+    "en": "Handcrafted destination poster styled with layered wax crayons and colored pencil strokes on warm ivory paper.",
+    "zh": "在暖象牙色纸上，用彩铅与蜡笔描绘目的地的建筑、文化符号和旅行记忆。"
+  },
+  "author": {
+    "name": "simeon-sanai",
+    "handle": "Naiknelofar788"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a sophisticated handcrafted travel-art poster of [LANDMARK / CITY / COUNTRY], illustrated entirely with colored pencils and wax crayons on warm ivory paper.\n\nDepict [LANDMARK / CITY / COUNTRY] as if it has been drawn from memory by an exceptionally talented artist — recognizable architecture and proportions, but expressed through energetic imperfect pencil strokes, layered wax-crayon marks, loose cross-hatching, scribbled shading, overlapping colors, and visible hand pressure.\n\nInstead of filling the landmark with flat color, let hundreds of expressive pencil strokes build its form. Allow certain strokes to extend beyond the architectural edges, creating a sense of movement and imagination. Add tiny hand-drawn visual memories around and within the composition: local patterns, plants, birds, windows, streets, clouds, cultural motifs, landscape elements and subtle symbols associated with the place.\n\nUse a limited but vibrant destination-inspired palette: [COLORS]. Keep some areas intentionally unfinished, allowing the ivory paper to remain visible.\n\nAdd small imperfect handwritten-style typography:\n[COUNTRY / CITY]\n[LANDMARK NAME]\n[COORDINATES OR SHORT PHRASE]\n\nThe result should feel like a rare artist’s sketchbook page transformed into a premium contemporary travel poster — playful, tactile, nostalgic, artistic and highly detailed.\n\nVisible colored-pencil grain, wax-crayon texture, imperfect outlines, layered strokes, subtle paper fibers, hand-drawn imperfections, sophisticated composition, strong negative space, no photorealism, no 3D rendering, no glossy digital effects, no people, 4:5 vertical.\n\nAn even more unique variation: “Pencil Explosion”\n\nThe landmark stays recognizable in the center, but its colors and pencil strokes progressively break apart into tiny illustrated memories of the city — almost like the drawing is coming alive.\n\nThat would preserve the exact crayon/pencil aesthetic of your reference while giving it a much more original concept.",
+  "translations": {},
+  "promptKind": "text-to-image",
+  "inputRequirement": "No reference image required.",
+  "categories": {
+    "use": [
+      "posters"
+    ],
+    "style": [
+      "colored-pencil",
+      "crayon"
+    ],
+    "subject": [
+      "architecture",
+      "travel"
+    ]
+  },
+  "tags": [
+    "Travel Poster",
+    "Pencil & Crayon",
+    "Handcrafted",
+    "Sketches"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HTW8AAPbcAArLrk.jpg",
+      "role": "output",
+      "alt": "Original artwork 1 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTW8AAQbYAEZAZ0.jpg",
+      "role": "output",
+      "alt": "Original artwork 2 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTW8AAQbIAAOiJ8.jpg",
+      "role": "output",
+      "alt": "Original artwork 3 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HTW8AAXagAABa7A.jpg",
+      "role": "output",
+      "alt": "Original artwork 4 by @Naiknelofar788",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+  }
+}

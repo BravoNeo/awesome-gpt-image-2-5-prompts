@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "storyboards",
+  "labels": {
+    "en": "Storyboards",
+    "zh": "分镜"
+  },
+  "count": 0,
+  "entryIds": []
+}

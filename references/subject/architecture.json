@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "subject",
+  "category": "architecture",
+  "labels": {
+    "en": "Architecture",
+    "zh": "建筑"
+  },
+  "count": 2,
+  "entryIds": [
+    "x-2104795155782148399",
+    "x-2105146737359024184"
+  ]
+}

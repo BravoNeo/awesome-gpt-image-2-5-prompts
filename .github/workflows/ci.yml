@@ -1,0 +1,25 @@
+name: Validate catalog
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.11'
+      - run: python3 scripts/catalog.py
+      - run: python3 -m unittest discover -s tests -v
+      # PRs carry their generated files. On main the content workflow refreshes them.
+      - if: github.event_name == 'pull_request'
+        run: python3 scripts/generate.py --check
+      - run: |
+          python3 scripts/generate.py
+          python3 scripts/generate.py --check

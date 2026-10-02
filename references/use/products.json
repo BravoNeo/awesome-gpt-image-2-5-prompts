@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "products",
+  "labels": {
+    "en": "Products",
+    "zh": "产品"
+  },
+  "count": 0,
+  "entryIds": []
+}

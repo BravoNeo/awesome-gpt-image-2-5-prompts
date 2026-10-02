@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "use",
+  "category": "art-editorial",
+  "labels": {
+    "en": "Art editorial",
+    "zh": "艺术画页"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105170431577870682"
+  ]
+}

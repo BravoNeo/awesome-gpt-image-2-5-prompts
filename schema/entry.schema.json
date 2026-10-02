@@ -1,0 +1,260 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts/blob/main/schema/entry.schema.json",
+  "title": "GPT Image 2.5 prompt artwork",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(x-[0-9]+|web-[a-f0-9]{16})$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 100
+    },
+    "modelClaimed": {
+      "type": "string",
+      "enum": [
+        "GPT Image 2.5"
+      ]
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "author": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "handle": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri",
+      "maxLength": 2048,
+      "pattern": "^https://[^\\s]+$"
+    },
+    "originalLanguage": {
+      "type": "string",
+      "enum": [
+        "en",
+        "zh"
+      ]
+    },
+    "originalPrompt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 30000
+    },
+    "translations": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 30000
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 30000
+        }
+      },
+      "required": [],
+      "additionalProperties": false
+    },
+    "promptKind": {
+      "type": "string",
+      "enum": [
+        "text-to-image",
+        "image-editing"
+      ]
+    },
+    "inputRequirement": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2000
+    },
+    "categories": {
+      "type": "object",
+      "properties": {
+        "use": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          }
+        },
+        "style": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          }
+        },
+        "subject": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 10,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          }
+        }
+      },
+      "required": [
+        "use",
+        "style",
+        "subject"
+      ],
+      "additionalProperties": false
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 20,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 500
+      }
+    },
+    "media": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "maxLength": 2048,
+            "pattern": "^https://[^\\s]+$"
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "input",
+              "output"
+            ]
+          },
+          "alt": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri",
+            "maxLength": 2048,
+            "pattern": "^https://[^\\s]+$"
+          }
+        },
+        "required": [
+          "url",
+          "role",
+          "alt",
+          "sourceUrl"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "rights": {
+      "type": "object",
+      "properties": {
+        "basis": {
+          "type": "string",
+          "enum": [
+            "third-party-source",
+            "submitter-permission"
+          ]
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 2000
+        }
+      },
+      "required": [
+        "basis",
+        "note"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "id",
+    "slug",
+    "modelClaimed",
+    "title",
+    "description",
+    "author",
+    "sourceUrl",
+    "originalLanguage",
+    "originalPrompt",
+    "translations",
+    "promptKind",
+    "inputRequirement",
+    "categories",
+    "tags",
+    "media",
+    "rights"
+  ],
+  "additionalProperties": false
+}

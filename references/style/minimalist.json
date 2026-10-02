@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "axis": "style",
+  "category": "minimalist",
+  "labels": {
+    "en": "Minimalist",
+    "zh": "极简"
+  },
+  "count": 1,
+  "entryIds": [
+    "x-2105170431577870682"
+  ]
+}

@@ -1,0 +1,129 @@
+name: Submit a GPT Image 2.5 prompt
+description: Contribute an artwork, original prompt and source links / 投稿作品与提示词
+title: '[Prompt] '
+labels:
+- submission
+body:
+- type: markdown
+  attributes:
+    value: Share a GPT Image 2.5 artwork with its complete prompt and original author
+      credit. Keep all images from the same post in one submission. 图片请提供公开链接；同一作品的多图放在一份投稿内。
+- type: input
+  id: title-en
+  attributes:
+    label: Title (English)
+  validations:
+    required: true
+- type: input
+  id: title-zh
+  attributes:
+    label: Title (Chinese, optional)
+  validations:
+    required: false
+- type: textarea
+  id: description-en
+  attributes:
+    label: Description (English)
+  validations:
+    required: true
+- type: textarea
+  id: description-zh
+  attributes:
+    label: Description (Chinese, optional)
+  validations:
+    required: false
+- type: textarea
+  id: prompt
+  attributes:
+    label: Original prompt
+    description: Paste the complete author original text, preserving paragraphs.
+  validations:
+    required: true
+- type: dropdown
+  id: language
+  attributes:
+    label: Original language
+    options:
+    - en
+    - zh
+  validations:
+    required: true
+- type: textarea
+  id: translations
+  attributes:
+    label: Translations JSON (optional)
+    description: 'Optional translations keyed by en or zh. Example: {"zh": "完整译文"}'
+  validations:
+    required: false
+- type: input
+  id: author
+  attributes:
+    label: Author name
+  validations:
+    required: true
+- type: input
+  id: handle
+  attributes:
+    label: Author handle (optional)
+  validations:
+    required: false
+- type: input
+  id: source
+  attributes:
+    label: Original post URL
+    description: Use the original public HTTPS post URL.
+  validations:
+    required: true
+- type: dropdown
+  id: model
+  attributes:
+    label: Model
+    options:
+    - GPT Image 2.5
+  validations:
+    required: true
+- type: dropdown
+  id: kind
+  attributes:
+    label: Prompt kind
+    options:
+    - text-to-image
+    - image-editing
+  validations:
+    required: true
+- type: textarea
+  id: reference
+  attributes:
+    label: Reference input requirement
+    description: Say whether a reference image is needed and what it should contain.
+  validations:
+    required: true
+- type: textarea
+  id: media
+  attributes:
+    label: Media JSON
+    description: 'One array for all images from this artwork. Use input or output
+      roles. Include at least one output. Example: [{"url":"https://example.com/image.jpg","role":"output","alt":"Description","sourceUrl":"https://example.com/original-post"}]'
+  validations:
+    required: true
+- type: textarea
+  id: categories
+  attributes:
+    label: Categories JSON
+    description: 'Choose existing slugs from content/taxonomy.json. Example: {"use":["posters"],"style":["crayon"],"subject":["travel"]}'
+  validations:
+    required: true
+- type: textarea
+  id: tags
+  attributes:
+    label: Tags JSON (optional)
+    description: 'Example: ["Travel poster", "Warm paper"]'
+  validations:
+    required: false
+- type: checkboxes
+  id: permission
+  attributes:
+    label: Contribution permission
+    options:
+    - label: I have permission to contribute this prompt and these media links.
+      required: true

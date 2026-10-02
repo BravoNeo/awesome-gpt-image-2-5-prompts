@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guide / 投稿指南
+    url: https://github.com/BravoNeo/awesome-gpt-image-2-5-prompts/blob/main/CONTRIBUTING.md
+    about: JSON format, categories and author attribution

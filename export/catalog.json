@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "model": "GPT Image 2.5",
+  "count": 5,
+  "entries": [
+    {
+      "id": "x-2104795155782148399",
+      "slug": "travel",
+      "modelClaimed": "GPT Image 2.5",
+      "title": {
+        "en": "Handcrafted Colored-Pencil Travel Poster",
+        "zh": "手绘彩铅旅行海报"
+      },
+      "description": {
+        "en": "Handcrafted destination poster styled with layered wax crayons and colored pencil strokes on warm ivory paper.",
+        "zh": "在暖象牙色纸上，用彩铅与蜡笔描绘目的地的建筑、文化符号和旅行记忆。"
+      },
+      "author": {
+        "name": "simeon-sanai",
+        "handle": "Naiknelofar788"
+      },
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399",
+      "originalLanguage": "en",
+      "originalPrompt": "Create a sophisticated handcrafted travel-art poster of [LANDMARK / CITY / COUNTRY], illustrated entirely with colored pencils and wax crayons on warm ivory paper.\n\nDepict [LANDMARK / CITY / COUNTRY] as if it has been drawn from memory by an exceptionally talented artist — recognizable architecture and proportions, but expressed through energetic imperfect pencil strokes, layered wax-crayon marks, loose cross-hatching, scribbled shading, overlapping colors, and visible hand pressure.\n\nInstead of filling the landmark with flat color, let hundreds of expressive pencil strokes build its form. Allow certain strokes to extend beyond the architectural edges, creating a sense of movement and imagination. Add tiny hand-drawn visual memories around and within the composition: local patterns, plants, birds, windows, streets, clouds, cultural motifs, landscape elements and subtle symbols associated with the place.\n\nUse a limited but vibrant destination-inspired palette: [COLORS]. Keep some areas intentionally unfinished, allowing the ivory paper to remain visible.\n\nAdd small imperfect handwritten-style typography:\n[COUNTRY / CITY]\n[LANDMARK NAME]\n[COORDINATES OR SHORT PHRASE]\n\nThe result should feel like a rare artist’s sketchbook page transformed into a premium contemporary travel poster — playful, tactile, nostalgic, artistic and highly detailed.\n\nVisible colored-pencil grain, wax-crayon texture, imperfect outlines, layered strokes, subtle paper fibers, hand-drawn imperfections, sophisticated composition, strong negative space, no photorealism, no 3D rendering, no glossy digital effects, no people, 4:5 vertical.\n\nAn even more unique variation: “Pencil Explosion”\n\nThe landmark stays recognizable in the center, but its colors and pencil strokes progressively break apart into tiny illustrated memories of the city — almost like the drawing is coming alive.\n\nThat would preserve the exact crayon/pencil aesthetic of your reference while giving it a much more original concept.",
+      "translations": {},
+      "promptKind": "text-to-image",
+      "inputRequirement": "No reference image required.",
+      "categories": {
+        "use": [
+          "posters"
+        ],
+        "style": [
+          "colored-pencil",
+          "crayon"
+        ],
+        "subject": [
+          "architecture",
+          "travel"
+        ]
+      },
+      "tags": [
+        "Travel Poster",
+        "Pencil & Crayon",
+        "Handcrafted",
+        "Sketches"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HTW8AAPbcAArLrk.jpg",
+          "role": "output",
+          "alt": "Original artwork 1 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTW8AAQbYAEZAZ0.jpg",
+          "role": "output",
+          "alt": "Original artwork 2 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTW8AAQbIAAOiJ8.jpg",
+          "role": "output",
+          "alt": "Original artwork 3 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTW8AAXagAABa7A.jpg",
+          "role": "output",
+          "alt": "Original artwork 4 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2104795155782148399"
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+      },
+      "localizedPrompts": {
+        "en": {
+          "text": "Create a sophisticated handcrafted travel-art poster of [LANDMARK / CITY / COUNTRY], illustrated entirely with colored pencils and wax crayons on warm ivory paper.\n\nDepict [LANDMARK / CITY / COUNTRY] as if it has been drawn from memory by an exceptionally talented artist — recognizable architecture and proportions, but expressed through energetic imperfect pencil strokes, layered wax-crayon marks, loose cross-hatching, scribbled shading, overlapping colors, and visible hand pressure.\n\nInstead of filling the landmark with flat color, let hundreds of expressive pencil strokes build its form. Allow certain strokes to extend beyond the architectural edges, creating a sense of movement and imagination. Add tiny hand-drawn visual memories around and within the composition: local patterns, plants, birds, windows, streets, clouds, cultural motifs, landscape elements and subtle symbols associated with the place.\n\nUse a limited but vibrant destination-inspired palette: [COLORS]. Keep some areas intentionally unfinished, allowing the ivory paper to remain visible.\n\nAdd small imperfect handwritten-style typography:\n[COUNTRY / CITY]\n[LANDMARK NAME]\n[COORDINATES OR SHORT PHRASE]\n\nThe result should feel like a rare artist’s sketchbook page transformed into a premium contemporary travel poster — playful, tactile, nostalgic, artistic and highly detailed.\n\nVisible colored-pencil grain, wax-crayon texture, imperfect outlines, layered strokes, subtle paper fibers, hand-drawn imperfections, sophisticated composition, strong negative space, no photorealism, no 3D rendering, no glossy digital effects, no people, 4:5 vertical.\n\nAn even more unique variation: “Pencil Explosion”\n\nThe landmark stays recognizable in the center, but its colors and pencil strokes progressively break apart into tiny illustrated memories of the city — almost like the drawing is coming alive.\n\nThat would preserve the exact crayon/pencil aesthetic of your reference while giving it a much more original concept.",
+          "language": "en",
+          "fallback": false
+        },
+        "zh": {
+          "text": "Create a sophisticated handcrafted travel-art poster of [LANDMARK / CITY / COUNTRY], illustrated entirely with colored pencils and wax crayons on warm ivory paper.\n\nDepict [LANDMARK / CITY / COUNTRY] as if it has been drawn from memory by an exceptionally talented artist — recognizable architecture and proportions, but expressed through energetic imperfect pencil strokes, layered wax-crayon marks, loose cross-hatching, scribbled shading, overlapping colors, and visible hand pressure.\n\nInstead of filling the landmark with flat color, let hundreds of expressive pencil strokes build its form. Allow certain strokes to extend beyond the architectural edges, creating a sense of movement and imagination. Add tiny hand-drawn visual memories around and within the composition: local patterns, plants, birds, windows, streets, clouds, cultural motifs, landscape elements and subtle symbols associated with the place.\n\nUse a limited but vibrant destination-inspired palette: [COLORS]. Keep some areas intentionally unfinished, allowing the ivory paper to remain visible.\n\nAdd small imperfect handwritten-style typography:\n[COUNTRY / CITY]\n[LANDMARK NAME]\n[COORDINATES OR SHORT PHRASE]\n\nThe result should feel like a rare artist’s sketchbook page transformed into a premium contemporary travel poster — playful, tactile, nostalgic, artistic and highly detailed.\n\nVisible colored-pencil grain, wax-crayon texture, imperfect outlines, layered strokes, subtle paper fibers, hand-drawn imperfections, sophisticated composition, strong negative space, no photorealism, no 3D rendering, no glossy digital effects, no people, 4:5 vertical.\n\nAn even more unique variation: “Pencil Explosion”\n\nThe landmark stays recognizable in the center, but its colors and pencil strokes progressively break apart into tiny illustrated memories of the city — almost like the drawing is coming alive.\n\nThat would preserve the exact crayon/pencil aesthetic of your reference while giving it a much more original concept.",
+          "language": "en",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "id": "x-2104799948072161492",
+      "slug": "ink-wash-edit",
+      "modelClaimed": "GPT Image 2.5",
+      "title": {
+        "en": "Split-Frame Photo to Minimalist Ink Wash Reconstruction",
+        "zh": "照片与极简水墨的分屏重构"
+      },
+      "description": {
+        "en": "Two-region 3:4 vertical composition: upper half preserves the original photo, lower half reconstructs it into minimalist Eastern ink wash.",
+        "zh": "保留上半部照片的主体与透视，将下半部同一场景转化为留白丰富的东方水墨。"
+      },
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis"
+      },
+      "sourceUrl": "https://x.com/harboriis/status/2104799948072161492",
+      "originalLanguage": "en",
+      "originalPrompt": "Split-Frame Ink Wash Reconstruction\n3:4 vertical composition · photo / ink wash split · contemporary Eastern aesthetic\nThe image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\nUpper Region — Original Photo Shoot Area\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\nLower Region — Minimalist Ink Wash Reconstruction Area\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%–45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\nText Treatment\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\nOverall Presentation\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.",
+      "translations": {},
+      "promptKind": "image-editing",
+      "inputRequirement": "Supply a reference photo.",
+      "categories": {
+        "use": [
+          "image-editing"
+        ],
+        "style": [
+          "ink-wash"
+        ],
+        "subject": [
+          "landscape"
+        ]
+      },
+      "tags": [
+        "Image Editing",
+        "Ink Wash",
+        "Split-Frame",
+        "Reference Required"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HTXAXcTbAAEk9hy?format=webp&name=large",
+          "role": "output",
+          "alt": "Original artwork 1 by @harboriis",
+          "sourceUrl": "https://x.com/harboriis/status/2104799948072161492"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTXAYONa0AAAutA.jpg",
+          "role": "output",
+          "alt": "Original artwork 2 by @harboriis",
+          "sourceUrl": "https://x.com/harboriis/status/2104799948072161492"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTXAY2vbQAEsswK.jpg",
+          "role": "output",
+          "alt": "Original artwork 3 by @harboriis",
+          "sourceUrl": "https://x.com/harboriis/status/2104799948072161492"
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+      },
+      "localizedPrompts": {
+        "en": {
+          "text": "Split-Frame Ink Wash Reconstruction\n3:4 vertical composition · photo / ink wash split · contemporary Eastern aesthetic\nThe image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\nUpper Region — Original Photo Shoot Area\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\nLower Region — Minimalist Ink Wash Reconstruction Area\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%–45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\nText Treatment\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\nOverall Presentation\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.",
+          "language": "en",
+          "fallback": false
+        },
+        "zh": {
+          "text": "Split-Frame Ink Wash Reconstruction\n3:4 vertical composition · photo / ink wash split · contemporary Eastern aesthetic\nThe image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\nUpper Region — Original Photo Shoot Area\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\nLower Region — Minimalist Ink Wash Reconstruction Area\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%–45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\nText Treatment\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\nOverall Presentation\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition.",
+          "language": "en",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "id": "x-2104927737014329524",
+      "slug": "italian-fashion",
+      "modelClaimed": "GPT Image 2.5",
+      "title": {
+        "en": "1960s Italian Street Fashion Editorial with Vespa & Sidecar",
+        "zh": "意大利复古街头时装大片"
+      },
+      "description": {
+        "en": "Photorealistic European café street editorial featuring an extravagant icy-blue ruffled dress and yellow sidecar scooter.",
+        "zh": "蓝色高级定制礼服、黄色边车与欧洲咖啡馆，结合直闪与暖色环境光。"
+      },
+      "author": {
+        "name": "Meem",
+        "handle": "mehvishs25"
+      },
+      "sourceUrl": "https://x.com/mehvishs25/status/2104927737014329524",
+      "originalLanguage": "en",
+      "originalPrompt": "Create a photorealistic high-fashion street photograph set on a charming European café street, styled like a surreal yet believable 1960s Italian fashion editorial.\n\nA young adult woman is seated gracefully along the edge of a vintage powder-blue Vespa-inspired scooter. Attached to the scooter is an unusually large, highly polished canary-yellow sidecar, creating a bold pop of color and an eccentric fashion-editorial focal point.\n\nShe wears an extravagant icy-blue couture midi dress constructed from layers of sculptural 3D ruffles, delicate shredded tulle, feather-like fabric petals, translucent organza strips, and subtle dark decorative accents. The silhouette is intentionally oversized and cloud-like, with a dramatic neckline and exaggerated architectural shoulders. The outfit should feel luxurious, theatrical, and unmistakably haute couture rather than costume-like.\n\nHer styling is distinctly retro-glamorous: sleek jet-black hair pulled into a perfectly smooth low bun with a precise center part, porcelain-toned skin, sharply defined brows, dramatic black winged eyeliner, and intensely vivid matte-red lipstick. Oversized white cat-eye sunglasses with deep black lenses complete the look.\n\nAccessories include a structured emerald-green handbag and striking yellow pointed-toe stiletto pumps featuring refined black detailing.\n\nHer pose is elegant and controlled, with a sophisticated, slightly aloof expression. Capture her entire figure naturally within the frame, emphasizing the dramatic proportions of the couture silhouette and the unusual scooter-sidecar combination.\n\nThe setting is an authentic old European café with dark wooden window frames, weathered beige plaster walls, gingham-covered outdoor tables, and a vintage red “CAFE” sign. Warm amber illumination spills from inside the café, contrasting beautifully with the cooler blue dress and scooter.\n\nPhotograph the scene with direct on-camera flash combined with the existing warm environmental lighting. Use saturated but natural colors, crisp flash highlights, subtle shadows, realistic skin texture, authentic fabric detail, and fine 35mm film grain. The final image should resemble a rare vintage Italian fashion editorial photographed for a contemporary luxury magazine.\n\nVertical 3:4 composition, full-body framing, realistic perspective, high-resolution photography, sophisticated color grading, tactile materials, natural anatomy, believable reflections, cinematic depth, premium editorial photography.\n\nAvoid: generic or minimalist café interiors, ordinary casual clothing, understated fashion, simple dresses, soft beauty lighting, artificial-looking skin, CGI appearance, illustration, anime, cartoon styling, distorted anatomy, malformed hands or feet, warped scooter geometry, unrealistic sidecar proportions, excessive blur, plastic textures, or an obviously AI-generated appearance.",
+      "translations": {},
+      "promptKind": "text-to-image",
+      "inputRequirement": "No reference image required.",
+      "categories": {
+        "use": [
+          "fashion-editorial"
+        ],
+        "style": [
+          "photorealistic",
+          "retro"
+        ],
+        "subject": [
+          "people",
+          "fashion"
+        ]
+      },
+      "tags": [
+        "Fashion Editorial",
+        "1960s Italian",
+        "On-Camera Flash",
+        "Street"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HTY0mFjaoAAp8os?format=webp&name=large",
+          "role": "output",
+          "alt": "Original artwork 1 by @mehvishs25",
+          "sourceUrl": "https://x.com/mehvishs25/status/2104927737014329524"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTY0nOlaEAAJ3jd.jpg",
+          "role": "output",
+          "alt": "Original artwork 2 by @mehvishs25",
+          "sourceUrl": "https://x.com/mehvishs25/status/2104927737014329524"
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+      },
+      "localizedPrompts": {
+        "en": {
+          "text": "Create a photorealistic high-fashion street photograph set on a charming European café street, styled like a surreal yet believable 1960s Italian fashion editorial.\n\nA young adult woman is seated gracefully along the edge of a vintage powder-blue Vespa-inspired scooter. Attached to the scooter is an unusually large, highly polished canary-yellow sidecar, creating a bold pop of color and an eccentric fashion-editorial focal point.\n\nShe wears an extravagant icy-blue couture midi dress constructed from layers of sculptural 3D ruffles, delicate shredded tulle, feather-like fabric petals, translucent organza strips, and subtle dark decorative accents. The silhouette is intentionally oversized and cloud-like, with a dramatic neckline and exaggerated architectural shoulders. The outfit should feel luxurious, theatrical, and unmistakably haute couture rather than costume-like.\n\nHer styling is distinctly retro-glamorous: sleek jet-black hair pulled into a perfectly smooth low bun with a precise center part, porcelain-toned skin, sharply defined brows, dramatic black winged eyeliner, and intensely vivid matte-red lipstick. Oversized white cat-eye sunglasses with deep black lenses complete the look.\n\nAccessories include a structured emerald-green handbag and striking yellow pointed-toe stiletto pumps featuring refined black detailing.\n\nHer pose is elegant and controlled, with a sophisticated, slightly aloof expression. Capture her entire figure naturally within the frame, emphasizing the dramatic proportions of the couture silhouette and the unusual scooter-sidecar combination.\n\nThe setting is an authentic old European café with dark wooden window frames, weathered beige plaster walls, gingham-covered outdoor tables, and a vintage red “CAFE” sign. Warm amber illumination spills from inside the café, contrasting beautifully with the cooler blue dress and scooter.\n\nPhotograph the scene with direct on-camera flash combined with the existing warm environmental lighting. Use saturated but natural colors, crisp flash highlights, subtle shadows, realistic skin texture, authentic fabric detail, and fine 35mm film grain. The final image should resemble a rare vintage Italian fashion editorial photographed for a contemporary luxury magazine.\n\nVertical 3:4 composition, full-body framing, realistic perspective, high-resolution photography, sophisticated color grading, tactile materials, natural anatomy, believable reflections, cinematic depth, premium editorial photography.\n\nAvoid: generic or minimalist café interiors, ordinary casual clothing, understated fashion, simple dresses, soft beauty lighting, artificial-looking skin, CGI appearance, illustration, anime, cartoon styling, distorted anatomy, malformed hands or feet, warped scooter geometry, unrealistic sidecar proportions, excessive blur, plastic textures, or an obviously AI-generated appearance.",
+          "language": "en",
+          "fallback": false
+        },
+        "zh": {
+          "text": "Create a photorealistic high-fashion street photograph set on a charming European café street, styled like a surreal yet believable 1960s Italian fashion editorial.\n\nA young adult woman is seated gracefully along the edge of a vintage powder-blue Vespa-inspired scooter. Attached to the scooter is an unusually large, highly polished canary-yellow sidecar, creating a bold pop of color and an eccentric fashion-editorial focal point.\n\nShe wears an extravagant icy-blue couture midi dress constructed from layers of sculptural 3D ruffles, delicate shredded tulle, feather-like fabric petals, translucent organza strips, and subtle dark decorative accents. The silhouette is intentionally oversized and cloud-like, with a dramatic neckline and exaggerated architectural shoulders. The outfit should feel luxurious, theatrical, and unmistakably haute couture rather than costume-like.\n\nHer styling is distinctly retro-glamorous: sleek jet-black hair pulled into a perfectly smooth low bun with a precise center part, porcelain-toned skin, sharply defined brows, dramatic black winged eyeliner, and intensely vivid matte-red lipstick. Oversized white cat-eye sunglasses with deep black lenses complete the look.\n\nAccessories include a structured emerald-green handbag and striking yellow pointed-toe stiletto pumps featuring refined black detailing.\n\nHer pose is elegant and controlled, with a sophisticated, slightly aloof expression. Capture her entire figure naturally within the frame, emphasizing the dramatic proportions of the couture silhouette and the unusual scooter-sidecar combination.\n\nThe setting is an authentic old European café with dark wooden window frames, weathered beige plaster walls, gingham-covered outdoor tables, and a vintage red “CAFE” sign. Warm amber illumination spills from inside the café, contrasting beautifully with the cooler blue dress and scooter.\n\nPhotograph the scene with direct on-camera flash combined with the existing warm environmental lighting. Use saturated but natural colors, crisp flash highlights, subtle shadows, realistic skin texture, authentic fabric detail, and fine 35mm film grain. The final image should resemble a rare vintage Italian fashion editorial photographed for a contemporary luxury magazine.\n\nVertical 3:4 composition, full-body framing, realistic perspective, high-resolution photography, sophisticated color grading, tactile materials, natural anatomy, believable reflections, cinematic depth, premium editorial photography.\n\nAvoid: generic or minimalist café interiors, ordinary casual clothing, understated fashion, simple dresses, soft beauty lighting, artificial-looking skin, CGI appearance, illustration, anime, cartoon styling, distorted anatomy, malformed hands or feet, warped scooter geometry, unrealistic sidecar proportions, excessive blur, plastic textures, or an obviously AI-generated appearance.",
+          "language": "en",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "id": "x-2105146737359024184",
+      "slug": "child-landmark",
+      "modelClaimed": "GPT Image 2.5",
+      "title": {
+        "en": "Split-Scene Landmark: Reality Turning into Childhood Memory",
+        "zh": "现实与童年记忆的地标分屏"
+      },
+      "description": {
+        "en": "Top half shows a cinematic photorealistic landmark; bottom half reimagines the identical scene as a child’s crayon drawing.",
+        "zh": "上半部写实地标，下半部用儿童蜡笔画重现同一构图，以手写纸条连接两种世界。"
+      },
+      "author": {
+        "name": "simeon-sanai",
+        "handle": "Naiknelofar788"
+      },
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2105146737359024184",
+      "originalLanguage": "en",
+      "originalPrompt": "Create a visually striking split-scene artwork showing [LANDMARK / CITY / COUNTRY] in two artistic worlds.\n\nTop half: a cinematic, photorealistic view of [LANDMARK], captured during a beautiful [morning/golden-hour/evening], with authentic architecture, local people, atmosphere, street details, natural lighting, realistic textures, and strong cinematic depth. Include recognizable cultural details that immediately establish the location.\n\nBottom half: the exact same scene reimagined as a handmade child’s drawing, created with rough colored pencils, wax crayons, imperfect strokes, scribbled textures, uneven outlines, innocent proportions, visible paper grain, playful colors, and charming imperfections. Keep the important landmarks and visual elements recognizable but make them feel lovingly drawn from memory.\n\nBetween the two worlds, place a small torn piece of cream paper with handwritten text: “[SHORT EMOTIONAL PHRASE]”.\n\nThe transition should feel like reality turning into a childhood memory. Warm nostalgic atmosphere, tactile paper texture, subtle imperfections, editorial composition, emotionally charming, highly detailed, artistic but believable. No clean digital illustration, no glossy 3D render, no overly polished cartoon.\nThe strongest visual hook is keeping the same composition in both halves so the viewer immediately recognizes that the crayon drawing is the child’s imaginative/memory version of the real place.",
+      "translations": {},
+      "promptKind": "text-to-image",
+      "inputRequirement": "No reference image required.",
+      "categories": {
+        "use": [
+          "posters"
+        ],
+        "style": [
+          "photorealistic",
+          "crayon"
+        ],
+        "subject": [
+          "architecture",
+          "travel"
+        ]
+      },
+      "tags": [
+        "Split-Scene",
+        "Child Drawing",
+        "Memory Nostalgia",
+        "Poster"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HTb7yinaYAA1zgi?format=webp&name=large",
+          "role": "output",
+          "alt": "Original artwork 1 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2105146737359024184"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTb7yibasAAdD8t.jpg",
+          "role": "output",
+          "alt": "Original artwork 2 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2105146737359024184"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTb7yiCbUAAmr49.jpg",
+          "role": "output",
+          "alt": "Original artwork 3 by @Naiknelofar788",
+          "sourceUrl": "https://x.com/Naiknelofar788/status/2105146737359024184"
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+      },
+      "localizedPrompts": {
+        "en": {
+          "text": "Create a visually striking split-scene artwork showing [LANDMARK / CITY / COUNTRY] in two artistic worlds.\n\nTop half: a cinematic, photorealistic view of [LANDMARK], captured during a beautiful [morning/golden-hour/evening], with authentic architecture, local people, atmosphere, street details, natural lighting, realistic textures, and strong cinematic depth. Include recognizable cultural details that immediately establish the location.\n\nBottom half: the exact same scene reimagined as a handmade child’s drawing, created with rough colored pencils, wax crayons, imperfect strokes, scribbled textures, uneven outlines, innocent proportions, visible paper grain, playful colors, and charming imperfections. Keep the important landmarks and visual elements recognizable but make them feel lovingly drawn from memory.\n\nBetween the two worlds, place a small torn piece of cream paper with handwritten text: “[SHORT EMOTIONAL PHRASE]”.\n\nThe transition should feel like reality turning into a childhood memory. Warm nostalgic atmosphere, tactile paper texture, subtle imperfections, editorial composition, emotionally charming, highly detailed, artistic but believable. No clean digital illustration, no glossy 3D render, no overly polished cartoon.\nThe strongest visual hook is keeping the same composition in both halves so the viewer immediately recognizes that the crayon drawing is the child’s imaginative/memory version of the real place.",
+          "language": "en",
+          "fallback": false
+        },
+        "zh": {
+          "text": "Create a visually striking split-scene artwork showing [LANDMARK / CITY / COUNTRY] in two artistic worlds.\n\nTop half: a cinematic, photorealistic view of [LANDMARK], captured during a beautiful [morning/golden-hour/evening], with authentic architecture, local people, atmosphere, street details, natural lighting, realistic textures, and strong cinematic depth. Include recognizable cultural details that immediately establish the location.\n\nBottom half: the exact same scene reimagined as a handmade child’s drawing, created with rough colored pencils, wax crayons, imperfect strokes, scribbled textures, uneven outlines, innocent proportions, visible paper grain, playful colors, and charming imperfections. Keep the important landmarks and visual elements recognizable but make them feel lovingly drawn from memory.\n\nBetween the two worlds, place a small torn piece of cream paper with handwritten text: “[SHORT EMOTIONAL PHRASE]”.\n\nThe transition should feel like reality turning into a childhood memory. Warm nostalgic atmosphere, tactile paper texture, subtle imperfections, editorial composition, emotionally charming, highly detailed, artistic but believable. No clean digital illustration, no glossy 3D render, no overly polished cartoon.\nThe strongest visual hook is keeping the same composition in both halves so the viewer immediately recognizes that the crayon drawing is the child’s imaginative/memory version of the real place.",
+          "language": "en",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "id": "x-2105170431577870682",
+      "slug": "beige-autumn",
+      "modelClaimed": "GPT Image 2.5",
+      "title": {
+        "en": "Noble-Beige Quiet Luxury Autumn Editorial",
+        "zh": "贵族米色秋日艺术画页"
+      },
+      "description": {
+        "en": "Intimate autumn memory on luxury art-book paper, using soft gouache dry-brush rendering and generous ivory negative space.",
+        "zh": "用柔和水粉、干笔肌理与中性色衣装，呈现留白丰富的秋日片刻。"
+      },
+      "author": {
+        "name": "Saul Goodman",
+        "handle": "Goodmanprotocol"
+      },
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2105170431577870682",
+      "originalLanguage": "en",
+      "originalPrompt": "Create a premium 4:5 vertical noble-beige autumn editorial artwork for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a small, intimate autumn moment surrounded by generous warm ivory negative space, as if a precious fragment of an autumn memory has been painted onto a luxury art-book page. Automatically determine the most fitting human figure, setting, foliage, atmosphere, and seasonal details associated with [COUNTRY / LOCATION / SUBJECT].\n\nSUBJECT & WARDROBE\nPlace one elegant human figure within the scene, wearing understated Italian quiet-luxury autumn clothing: soft cashmere, fine wool, brushed suede, or refined natural fabrics with relaxed tailoring.\n\nUse a sophisticated tonal wardrobe of ivory, cream, oatmeal, sand, camel, cappuccino, taupe, and soft greige. Keep the styling effortless, timeless, minimal, and free of visible branding or logos.\n\nARTISTIC STYLE\nRender the scene as delicate soft gouache and sophisticated dry-brush painting with subtle handmade texture, translucent tonal transitions, softly unfinished edges, and gentle color fading into the surrounding ivory paper.\n\nKeep the human figure more refined and visually defined than the surrounding painterly environment, while maintaining a natural, understated appearance.\n\nCOLOR PALETTE\nBuild the entire artwork around noble beige and warm neutral tones: warm ivory, ecru, parchment, cashmere beige, oatmeal, sand, biscuit, light camel, mushroom, greige, and warm taupe.\n\nUse only restrained accents of muted chocolate, dusty olive, or softly browned foliage. Avoid strong orange, red, yellow, or rustic autumn colors.\n\nAUTUMN DETAILS\nAdd only a few delicate autumn leaves and understated foliage. Let several pale beige or muted ochre leaves subtly extend beyond the painted scene into the surrounding negative space.\n\nLIGHTING\nUse soft diffused creamy light with a slightly luminous quality, gentle contrast, and no harsh shadows. Emphasize tactile natural fabrics, quiet atmosphere, and sophisticated tonal harmony.\n\nFINAL AESTHETIC\nLuxury art-book page × noble beige autumn painting × soft gouache × Italian quiet luxury × cashmere-like tonal harmony × minimalist editorial composition.\n\nThe result should feel serene, intimate, expensive, tactile, collectible, and timeless.\n\nAvoid photorealism, saturated autumn colors, rustic styling, excessive foliage, harsh contrast, heavy shadows, excessive accessories, busy backgrounds, collage layouts, hard frames, logos, text, watermarks, or artificial 3D rendering.\n\nFORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist composition.",
+      "translations": {},
+      "promptKind": "text-to-image",
+      "inputRequirement": "No reference image required.",
+      "categories": {
+        "use": [
+          "art-editorial"
+        ],
+        "style": [
+          "gouache",
+          "minimalist"
+        ],
+        "subject": [
+          "people",
+          "autumn"
+        ]
+      },
+      "tags": [
+        "Quiet Luxury",
+        "Soft Gouache",
+        "Autumn Palette",
+        "Editorial"
+      ],
+      "media": [
+        {
+          "url": "https://pbs.twimg.com/media/HTcRTt-bAAASV7r?format=webp&name=large",
+          "role": "output",
+          "alt": "Original artwork 1 by @Goodmanprotocol",
+          "sourceUrl": "https://x.com/Goodmanprotocol/status/2105170431577870682"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTcRUaSa0AAakLN.jpg",
+          "role": "output",
+          "alt": "Original artwork 2 by @Goodmanprotocol",
+          "sourceUrl": "https://x.com/Goodmanprotocol/status/2105170431577870682"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTcRVJwbMAABlDz.jpg",
+          "role": "output",
+          "alt": "Original artwork 3 by @Goodmanprotocol",
+          "sourceUrl": "https://x.com/Goodmanprotocol/status/2105170431577870682"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTcRV9maQAATIo8.jpg",
+          "role": "output",
+          "alt": "Original artwork 4 by @Goodmanprotocol",
+          "sourceUrl": "https://x.com/Goodmanprotocol/status/2105170431577870682"
+        }
+      ],
+      "rights": {
+        "basis": "third-party-source",
+        "note": "Original prompts and artwork belong to their respective authors. Public source links; no blanket reuse license is granted."
+      },
+      "localizedPrompts": {
+        "en": {
+          "text": "Create a premium 4:5 vertical noble-beige autumn editorial artwork for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a small, intimate autumn moment surrounded by generous warm ivory negative space, as if a precious fragment of an autumn memory has been painted onto a luxury art-book page. Automatically determine the most fitting human figure, setting, foliage, atmosphere, and seasonal details associated with [COUNTRY / LOCATION / SUBJECT].\n\nSUBJECT & WARDROBE\nPlace one elegant human figure within the scene, wearing understated Italian quiet-luxury autumn clothing: soft cashmere, fine wool, brushed suede, or refined natural fabrics with relaxed tailoring.\n\nUse a sophisticated tonal wardrobe of ivory, cream, oatmeal, sand, camel, cappuccino, taupe, and soft greige. Keep the styling effortless, timeless, minimal, and free of visible branding or logos.\n\nARTISTIC STYLE\nRender the scene as delicate soft gouache and sophisticated dry-brush painting with subtle handmade texture, translucent tonal transitions, softly unfinished edges, and gentle color fading into the surrounding ivory paper.\n\nKeep the human figure more refined and visually defined than the surrounding painterly environment, while maintaining a natural, understated appearance.\n\nCOLOR PALETTE\nBuild the entire artwork around noble beige and warm neutral tones: warm ivory, ecru, parchment, cashmere beige, oatmeal, sand, biscuit, light camel, mushroom, greige, and warm taupe.\n\nUse only restrained accents of muted chocolate, dusty olive, or softly browned foliage. Avoid strong orange, red, yellow, or rustic autumn colors.\n\nAUTUMN DETAILS\nAdd only a few delicate autumn leaves and understated foliage. Let several pale beige or muted ochre leaves subtly extend beyond the painted scene into the surrounding negative space.\n\nLIGHTING\nUse soft diffused creamy light with a slightly luminous quality, gentle contrast, and no harsh shadows. Emphasize tactile natural fabrics, quiet atmosphere, and sophisticated tonal harmony.\n\nFINAL AESTHETIC\nLuxury art-book page × noble beige autumn painting × soft gouache × Italian quiet luxury × cashmere-like tonal harmony × minimalist editorial composition.\n\nThe result should feel serene, intimate, expensive, tactile, collectible, and timeless.\n\nAvoid photorealism, saturated autumn colors, rustic styling, excessive foliage, harsh contrast, heavy shadows, excessive accessories, busy backgrounds, collage layouts, hard frames, logos, text, watermarks, or artificial 3D rendering.\n\nFORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist composition.",
+          "language": "en",
+          "fallback": false
+        },
+        "zh": {
+          "text": "Create a premium 4:5 vertical noble-beige autumn editorial artwork for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a small, intimate autumn moment surrounded by generous warm ivory negative space, as if a precious fragment of an autumn memory has been painted onto a luxury art-book page. Automatically determine the most fitting human figure, setting, foliage, atmosphere, and seasonal details associated with [COUNTRY / LOCATION / SUBJECT].\n\nSUBJECT & WARDROBE\nPlace one elegant human figure within the scene, wearing understated Italian quiet-luxury autumn clothing: soft cashmere, fine wool, brushed suede, or refined natural fabrics with relaxed tailoring.\n\nUse a sophisticated tonal wardrobe of ivory, cream, oatmeal, sand, camel, cappuccino, taupe, and soft greige. Keep the styling effortless, timeless, minimal, and free of visible branding or logos.\n\nARTISTIC STYLE\nRender the scene as delicate soft gouache and sophisticated dry-brush painting with subtle handmade texture, translucent tonal transitions, softly unfinished edges, and gentle color fading into the surrounding ivory paper.\n\nKeep the human figure more refined and visually defined than the surrounding painterly environment, while maintaining a natural, understated appearance.\n\nCOLOR PALETTE\nBuild the entire artwork around noble beige and warm neutral tones: warm ivory, ecru, parchment, cashmere beige, oatmeal, sand, biscuit, light camel, mushroom, greige, and warm taupe.\n\nUse only restrained accents of muted chocolate, dusty olive, or softly browned foliage. Avoid strong orange, red, yellow, or rustic autumn colors.\n\nAUTUMN DETAILS\nAdd only a few delicate autumn leaves and understated foliage. Let several pale beige or muted ochre leaves subtly extend beyond the painted scene into the surrounding negative space.\n\nLIGHTING\nUse soft diffused creamy light with a slightly luminous quality, gentle contrast, and no harsh shadows. Emphasize tactile natural fabrics, quiet atmosphere, and sophisticated tonal harmony.\n\nFINAL AESTHETIC\nLuxury art-book page × noble beige autumn painting × soft gouache × Italian quiet luxury × cashmere-like tonal harmony × minimalist editorial composition.\n\nThe result should feel serene, intimate, expensive, tactile, collectible, and timeless.\n\nAvoid photorealism, saturated autumn colors, rustic styling, excessive foliage, harsh contrast, heavy shadows, excessive accessories, busy backgrounds, collage layouts, hard frames, logos, text, watermarks, or artificial 3D rendering.\n\nFORMAT: 4:5 vertical, generous warm-ivory negative space, refined minimalist composition.",
+          "language": "en",
+          "fallback": true
+        }
+      }
+    }
+  ]
+}

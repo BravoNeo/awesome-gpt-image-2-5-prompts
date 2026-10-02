@@ -1,0 +1,28 @@
+{
+  "use": {
+    "posters": {"en": "Posters", "zh": "海报"},
+    "portraits": {"en": "Portraits", "zh": "人像"},
+    "storyboards": {"en": "Storyboards", "zh": "分镜"},
+    "products": {"en": "Products", "zh": "产品"},
+    "image-editing": {"en": "Image editing", "zh": "图像编辑"},
+    "fashion-editorial": {"en": "Fashion editorial", "zh": "时装大片"},
+    "art-editorial": {"en": "Art editorial", "zh": "艺术画页"}
+  },
+  "style": {
+    "colored-pencil": {"en": "Colored pencil", "zh": "彩铅"},
+    "crayon": {"en": "Crayon", "zh": "蜡笔"},
+    "ink-wash": {"en": "Ink wash", "zh": "水墨"},
+    "photorealistic": {"en": "Photorealistic", "zh": "写实摄影"},
+    "retro": {"en": "Retro", "zh": "复古"},
+    "gouache": {"en": "Gouache", "zh": "水粉"},
+    "minimalist": {"en": "Minimalist", "zh": "极简"}
+  },
+  "subject": {
+    "architecture": {"en": "Architecture", "zh": "建筑"},
+    "travel": {"en": "Travel", "zh": "旅行"},
+    "landscape": {"en": "Landscape", "zh": "风景"},
+    "people": {"en": "People", "zh": "人物"},
+    "fashion": {"en": "Fashion", "zh": "时装"},
+    "autumn": {"en": "Autumn", "zh": "秋日"}
+  }
+}

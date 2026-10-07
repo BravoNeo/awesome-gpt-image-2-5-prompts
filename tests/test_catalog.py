@@ -28,7 +28,9 @@ class CatalogTests(unittest.TestCase):
         travel['categories']['use'] = ['posters']
         travel['media'] = [dict(travel['media'][0], url=f'https://example.com/output-{i}.jpg') for i in range(4)]
         validate_entries([travel])
-        outputs = build_outputs([travel])
+        # Synthetic count fixture has no uploaded CDN assets; it is never exported.
+        with mock.patch('generate.media_url', side_effect=lambda url: 'https://media.reeldance.ai/test-fixtures/' + url.rsplit('/', 1)[-1]):
+            outputs = build_outputs([travel])
         self.assertEqual(json.loads(outputs['references/use/posters.json'])['count'],1)
         self.assertEqual(json.loads(outputs['export/catalog.json'])['count'],1)
 
@@ -167,6 +169,10 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(manifest['totalArtworks'],len(self.entries))
         ids={e['id'] for e in self.entries}
         for category in manifest['categories']:
+            if category['count'] == 0:
+                self.assertNotIn(f"]({category['path']})", outputs['README.md'])
+                self.assertNotIn(f"]({category['path']})", outputs['README.zh-CN.md'])
+                continue
             index=json.loads(outputs[category['path']])
             self.assertEqual(index['count'],len(set(index['entryIds'])))
             self.assertLessEqual(set(index['entryIds']),ids)
@@ -176,10 +182,13 @@ class CatalogTests(unittest.TestCase):
             self.assertEqual(hashlib.sha256(outputs[path].encode()).hexdigest(),digest)
         for readme in ['README.md','README.zh-CN.md']:
             for link in re.findall(r'\]\(([^\s)]+)\)',outputs[readme]):
-                if not link.startswith('https://'):
+                if link.startswith('#'):
+                    self.assertIn('id="' + link[1:] + '"', outputs[readme])
+                elif not link.startswith('https://'):
                     self.assertTrue(link in outputs or (ROOT/link).is_file(),link)
             for e in self.entries:
                 self.assertIn(e['sourceUrl'],outputs[readme])
+                self.assertIn(e['originalPrompt'], outputs[readme])
                 self.assertIn(e['originalPrompt'], [i['originalPrompt'] for i in json.loads(outputs['export/catalog.json'])['entries']])
 
     def test_markdown_input_stays_inert(self):

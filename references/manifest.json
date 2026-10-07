@@ -526,8 +526,8 @@
     }
   ],
   "sha256": {
-    "README.md": "dd4db4298b5b8ec24d7e55d375716890275802b02737ea2c88efa3dd1a4bd104",
-    "README.zh-CN.md": "41cd19fbe9d9102b905f35a33be1e4f41dc5b5ef8d5956897b6cb28c47b2bb2d",
+    "README.md": "f6b4905a6eecde4521cdc27af4de019505730dc5c16d8f7fa52600a9c0eedca8",
+    "README.zh-CN.md": "5c91bd202974910d71c0bb46c6ca2d97955a42107fb2639460e33bc27be9a793",
     "export/catalog.json": "e317f5d5c2f02a32dc4591c5e4edda6d7ce3c468da2fd6c920c705436039c887",
     "references/style/architectural-sketch.json": "5e6ee8aa724f49e97010c44c27451f2bce3eb721e9367244509b0e3597a824de",
     "references/style/bauhaus.json": "69a6cd80742a34b65268b9934f9de8347b7a50955610fc68faaa2e12c1874f0a",

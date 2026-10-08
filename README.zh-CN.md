@@ -6,7 +6,7 @@
 
 ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
 
-收集 19 位创作者的 50 个图像作品与提示词，涵盖海报、人像、产品视觉、照片编辑和插画。每个案例都有对应作品、完整原始提示词和作者原帖。
+收集 20 位创作者的 56 个图像作品与提示词，涵盖海报、人像、产品视觉、照片编辑和插画。每个案例都有对应作品、完整原始提示词和作者原帖。
 
 <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
 
@@ -41,11 +41,11 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
 | 海报 | 22 | [JSON](references/use/posters.json) |
-| 人像 | 10 | [JSON](references/use/portraits.json) |
+| 人像 | 11 | [JSON](references/use/portraits.json) |
 | 产品 | 4 | [JSON](references/use/products.json) |
 | 图像编辑 | 17 | [JSON](references/use/image-editing.json) |
 | 时装大片 | 7 | [JSON](references/use/fashion-editorial.json) |
-| 艺术画页 | 8 | [JSON](references/use/art-editorial.json) |
+| 艺术画页 | 13 | [JSON](references/use/art-editorial.json) |
 | 照片与多格布局 | 4 | [JSON](references/use/photo-grids.json) |
 | 壁纸 | 2 | [JSON](references/use/wallpapers.json) |
 | 信息图 | 1 | [JSON](references/use/infographics.json) |
@@ -63,16 +63,16 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 极简 | 10 | [JSON](references/style/minimalist.json) |
 | 胶片摄影 | 7 | [JSON](references/style/film.json) |
 | 水彩 | 4 | [JSON](references/style/watercolor.json) |
-| 手绘 | 6 | [JSON](references/style/hand-drawn.json) |
+| 手绘 | 7 | [JSON](references/style/hand-drawn.json) |
 | 朴拙插画 | 1 | [JSON](references/style/naive-illustration.json) |
 | 漫画插画 | 2 | [JSON](references/style/comic.json) |
 | 平面设计 | 10 | [JSON](references/style/graphic-design.json) |
 | 钢笔涂鸦 | 1 | [JSON](references/style/pen-doodle.json) |
 | 拼贴 | 3 | [JSON](references/style/collage.json) |
 | 半调网点 | 2 | [JSON](references/style/halftone.json) |
-| 超现实 | 3 | [JSON](references/style/surreal.json) |
+| 超现实 | 7 | [JSON](references/style/surreal.json) |
 | 建筑手绘 | 3 | [JSON](references/style/architectural-sketch.json) |
-| 单色 | 1 | [JSON](references/style/monochrome.json) |
+| 单色 | 2 | [JSON](references/style/monochrome.json) |
 | 油画 | 2 | [JSON](references/style/oil-painting.json) |
 | 工笔画 | 1 | [JSON](references/style/gongbi.json) |
 | 迷幻 | 1 | [JSON](references/style/psychedelic.json) |
@@ -82,10 +82,10 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
-| 建筑 | 8 | [JSON](references/subject/architecture.json) |
+| 建筑 | 11 | [JSON](references/subject/architecture.json) |
 | 旅行 | 8 | [JSON](references/subject/travel.json) |
 | 风景 | 1 | [JSON](references/subject/landscape.json) |
-| 人物 | 31 | [JSON](references/subject/people.json) |
+| 人物 | 33 | [JSON](references/subject/people.json) |
 | 时装 | 7 | [JSON](references/subject/fashion.json) |
 | 秋日 | 2 | [JSON](references/subject/autumn.json) |
 | 车辆 | 4 | [JSON](references/subject/vehicles.json) |
@@ -99,7 +99,7 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 数字界面 | 3 | [JSON](references/subject/digital-ui.json) |
 | 文学 | 1 | [JSON](references/subject/literature.json) |
 | 食物 | 1 | [JSON](references/subject/food.json) |
-| 游戏 | 1 | [JSON](references/subject/gaming.json) |
+| 游戏 | 2 | [JSON](references/subject/gaming.json) |
 | 科技 | 1 | [JSON](references/subject/technology.json) |
 
 ## 作品与提示词
@@ -2058,6 +2058,223 @@ No excessive makeup, no artificial beauty retouching, no exaggerated pose, no fa
 ```text
 Hyper-realistic IMAX-level Netflix-style watercolor fashion illustration, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a dusty-pink cropped jacket over a ribbed pink fitted top with a dark inner layer at the neckline, distressed blue short jeans and layered bracelets, standing upright with a relaxed slight lean, her torso facing mostly toward the viewer, left arm hanging naturally beside her thigh while her right arm bends forward and her right hand grips the neck of a guitar-like instrument crossing horizontally in front of her waist; her shoulders stay relaxed and her stance feels casual and confident. Her face tilts slightly upward and toward the camera with a bright gentle smile, softly raised cheeks, relaxed eyes looking directly forward, naturally lifted brows, relaxed jaw and softly closed lips, giving her a cheerful, warm and carefree expression. Her medium-length dark-brown hair is worn loose with a slightly messy natural texture, soft waves and uneven flowing strands around the shoulders, a loose center-to-slight-side part, wispy strands crossing the forehead and several fine flyaways extending outward to create an airy hand-painted movement. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, rendered with delicate watercolor texture and soft translucent blush on the cheeks. Keep the background mostly white textured watercolor paper with a large irregular pale peach-pink watercolor wash behind the figure, with softly feathered edges and a few scattered paint splashes. Use gentle diffuse illustrated lighting with soft highlights along the face, hair and jacket and very subtle shadow washes beneath the chin, hair and clothing folds. Colour grade with a soft pastel palette of blush pink, dusty rose, muted blue, warm beige and clean ivory, low contrast, delicate saturation, creamy highlights and very light grey shadows. Apply a refined watercolor-and-fine-ink filter with visible paper grain, translucent layered pigment, soft pigment bleeding, delicate brush edges, subtle ink outlines and natural colour variation while keeping the face and important details clean and expressive.  
 Negative prompt: changed identity, distorted anatomy, extra fingers, malformed hands, broken instrument, harsh digital rendering, photorealistic skin, 3D CGI, muddy colours, text, watermark.
+```
+
+</details>
+
+<a id="architecture-emerging-from-audio-waves"></a>
+### 从声波中浮现的城市建筑
+
+从声波中浮现的城市建筑
+
+作者：simeon-sanai (@Naiknelofar788) · <a href="https://x.com/Naiknelofar788/status/2107690033688056029" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![City Architecture Emerging from Sound Waves](https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+A surreal high-fashion editorial artwork where [CITY/LANDMARK] is formed entirely from flowing sound waves, audio frequencies, and rhythmic lines. The soundwaves begin as tiny vibrations at the bottom of the composition and gradually transform into the recognizable architecture of [CITY/LANDMARK].
+
+Different frequencies become different visual elements — thick bass waves create buildings, delicate high-frequency lines create windows and bridges, glowing pulses become streetlights and moving vehicles. Tiny fragments of typography, coordinates, music notes, and abstract symbols float through the waves.
+
+Clean pale background, intense electric colors mixed with subtle metallic textures, dramatic depth, ultra-fine linework, futuristic editorial art, controlled chaos, sophisticated composition, no people, no ordinary skyline illustration, the architecture itself must visibly emerge from the soundwave pattern, striking and instantly recognizable, premium magazine cover aesthetic.
+```
+
+</details>
+
+<a id="psp-first-person-retro-battle"></a>
+### 第一人称PSP与复古像素战场
+
+第一人称PSP与复古像素战场
+
+作者：DeepBlue深藍 (@DeepBlueX0) · <a href="https://x.com/DeepBlueX0/status/2107818993813950746" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![First-Person PSP with a Retro Pixel Battlefield](https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (zh)</summary>
+
+```text
+【游戏名】 × PSP第一人称掌机视角 × 屏幕内16位战场 × 复古掌机UI
+```
+
+</details>
+
+<a id="knitted-yarn-landmark-diorama"></a>
+### 针织毛线城市地标微缩景观
+
+针织毛线城市地标微缩景观
+
+作者：Saul Goodman (@Goodmanprotocol) · <a href="https://x.com/Goodmanprotocol/status/2108039007376724135" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Knitted Yarn City Landmark Diorama](https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a premium 4:5 vertical architectural travel artwork for [COUNTRY / CITY / LOCATION / LANDMARK].
+
+TEXT-TO-IMAGE ONLY — generate the entire scene creatively from [COUNTRY / CITY / LOCATION / LANDMARK] alone. No reference image required.
+
+CORE CONCEPT
+
+Transform the destination into a charming handcrafted miniature world made entirely from knitted yarn, soft felt, embroidery, and plush textile materials. Reimagine its architecture, streets, nature, transportation, and local atmosphere as a sophisticated collectible textile diorama.
+
+LANDMARK & COMPOSITION
+
+Automatically select ONE unmistakable landmark representing [COUNTRY / CITY / LOCATION / LANDMARK] and make it the central hero.
+
+Build a complete miniature environment around it using authentic local architecture, streets, gardens, trees, shops, landscape, and a few tiny generic yarn characters. Keep the landmark’s recognizable silhouette and defining architectural features while translating everything into rounded handmade textile forms.
+
+MATERIAL LANGUAGE
+
+Every element should visibly feel handmade:
+- chunky knitted yarn
+- soft felt
+- embroidered details
+- woven fabric
+- stitched edges
+- wool fibers
+- plush textile surfaces
+- tiny handcrafted imperfections
+
+Architecture should look carefully constructed from layered fabric and yarn rather than plastic, clay, or CGI.
+
+ATMOSPHERE
+
+Create a warm, playful, cozy travel atmosphere with soft natural lighting, gentle shadows, tactile fibers, rounded forms, and subtle depth. Add small destination-specific details such as local food, transportation, plants, signs, or cultural objects where they naturally enhance the scene.
+
+Keep the background simple and softly colored so the miniature world remains the focus.
+
+STYLE
+
+Architectural travel poster × knitted miniature diorama × handmade textile art × plush yarn world × sophisticated editorial illustration.
+
+The result should feel like an elaborate handcrafted collectible discovered in a miniature museum — whimsical but visually refined and architecturally recognizable.
+
+COLOR
+
+Use a harmonious palette inspired by the destination itself, combining warm neutrals with a few distinctive local accent colors. Keep the colors soft, rich, and tactile rather than overly bright.
+
+Avoid photorealism, plastic materials, smooth CGI, generic architecture, unrelated landmarks, hard geometric edges, excessive clutter, realistic humans, logos, watermarks, and flat vector illustration.
+
+FORMAT
+
+4:5 vertical, one cohesive miniature world, central landmark, rich textile detail, soft depth of field, premium handcrafted finish, highly detailed yarn and felt textures.
+```
+
+</details>
+
+<a id="modern-woodcut-black-white-subject"></a>
+### 现代黑白木刻人物像
+
+现代黑白木刻人物像
+
+作者：DeepBlue深藍 (@DeepBlueX0) · <a href="https://x.com/DeepBlueX0/status/2108069906407383081" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Modern Black-and-White Woodcut Portrait](https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (zh)</summary>
+
+```text
+【主体】 × 新兴木刻版画 × 极简黑白块面 × 干净留白
+```
+
+</details>
+
+<a id="pen-portrait-on-blank-ivory-paper"></a>
+### 象牙纸上的钢笔排线人物稿
+
+象牙纸上的钢笔排线人物稿
+
+作者：鱼哥 (@MrGafish) · <a href="https://x.com/MrGafish/status/2108104473235341588" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：图像编辑 · 请使用原帖附带的彩色围巾人像作为参考图。
+
+![Cross-Hatched Pen Portrait on Ivory Paper](https://media.reeldance.ai/galleries/assets/6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a> · <a href="https://media.reeldance.ai/galleries/assets/5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">input 2</a>
+
+<details>
+<summary>完整原始提示词 (zh)</summary>
+
+```text
+以参考图人物为原型，保留五官特征、神态、服饰与身体姿态，去除原始背景，重新创作成大师级黑白钢笔人物手稿。采用精湛的传统钢笔绘画技法，以灵动流畅的墨线、细密交叉排线、自然断笔与大胆留白塑造人物的立体感和艺术张力。面部精细刻画，服饰线条疏密有致，局部保留起稿痕迹与随性的未完成笔触，呈现真实艺术家亲笔创作的质感。暖象牙色复古素描纸，清晰可见纸张纤维与细腻墨迹，黑白灰层次丰富。极简艺术画册排版，大面积留白，角落点缀手写签名与创作日期。整体优雅、自由、富有艺术收藏价值，拒绝数字描摹与AI滤镜感，9:16竖版高清构图。
+```
+
+</details>
+
+<a id="white-doodle-landmark-interaction"></a>
+### 白线涂鸦与城市地标互动
+
+白线涂鸦与城市地标互动
+
+作者：Saul Goodman (@Goodmanprotocol) · <a href="https://x.com/Goodmanprotocol/status/2108112844239892599" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![White Doodle Figures Interacting with City Landmarks](https://media.reeldance.ai/galleries/assets/8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a premium 4:5 vertical conceptual travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+GENERATIVE IMAGE ONLY.
+Create the complete artwork entirely from the written [COUNTRY / CITY / LOCATION / SUBJECT]. Do not use, request, require, inspect, modify, or reference any existing image. No source image is needed.
+
+CORE CONCEPT:
+Create a highly realistic cinematic travel scene combined with oversized white hand-drawn doodle illustrations. The destination itself forms the complete visual foundation, while imaginative white sketch figures interact with the real architecture, landscape, objects, and atmosphere.
+
+DESTINATION:
+Automatically determine the most recognizable architecture, landscape, streets, structures, transportation, natural features, and cultural details associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Build one coherent scene with accurate perspective, believable materials, natural lighting, and authentic local character.
+
+DOODLE INTERACTION:
+Introduce only one strong visual idea. Create oversized white hand-drawn figures that actively interact with something naturally present in the scene. They may climb, hold, repair, paint, pull, carry, explore, play with, or transform a real environmental element. Their hands, feet, props, and gestures must connect naturally with the surrounding architecture or landscape.
+
+DOODLE STYLE:
+Loose white marker/chalk line drawings, simple expressive figures, minimal facial features, imperfect hand-drawn strokes, varied line thickness, playful proportions, natural gestures, subtle whimsical character. The drawings should feel like elegant hand-drawn lines existing within the scene, never like stickers, clip-art, comic characters, or 3D cartoons.
+
+COMPOSITION:
+Keep the realistic destination as the dominant visual layer. Place the white drawings mainly within natural open areas such as sky, water, roads, walls, or atmospheric space. Allow creative scale differences between the drawings and the environment while maintaining believable perspective and spatial relationships.
+
+COLOR:
+Use the authentic colors and lighting of the chosen destination as the main palette. White linework is the primary graphic accent. Add only a small amount of warm mustard-gold/yellow to selected doodle details such as a prop, light, ribbon, flower, clothing detail, or small object.
+
+VISUAL LANGUAGE:
+Cinematic realism × hand-drawn illustration × surreal scale play × visual metaphor × conceptual travel art × premium editorial advertising.
+
+MOOD:
+Clever, imaginative, minimal, warm, playful, sophisticated, cinematic, and visually memorable. The concept should be immediately understandable but reveal additional details on closer inspection.
+
+AVOID:
+Existing-image editing, image references, source images, copied photographs, image recreation, photo manipulation, collage, altered landmarks, unrelated architecture, excessive characters, full-screen doodles, thick black outlines, sticker effects, 3D cartoon characters, generic cartoon scenery, clutter, excessive effects, text, logos, watermarks, UI elements.
+
+OUTPUT:
+4:5 vertical composition, ultra-detailed realistic environment, seamless white hand-drawn interaction, premium conceptual travel artwork, polished editorial quality.
 ```
 
 </details>

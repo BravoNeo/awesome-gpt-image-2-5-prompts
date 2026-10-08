@@ -1,0 +1,96 @@
+{
+  "id": "x-2108104473235341588",
+  "slug": "pen-portrait-on-blank-ivory-paper",
+  "title": {
+    "en": "Cross-Hatched Pen Portrait on Ivory Paper",
+    "zh": "象牙纸上的钢笔排线人物稿"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: cross-hatched pen portrait on ivory paper. Complete original prompt and original output are source-linked.",
+    "zh": "象牙纸上的钢笔排线人物稿"
+  },
+  "author": {
+    "handle": "MrGafish",
+    "name": "鱼哥"
+  },
+  "sourceUrl": "https://x.com/MrGafish/status/2108104473235341588",
+  "promptSourceUrl": "https://x.com/MrGafish/status/2108104473235341588",
+  "mediaSourceUrl": "https://x.com/MrGafish/status/2108104473235341588",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "以参考图人物为原型，保留五官特征、神态、服饰与身体姿态，去除原始背景，重新创作成大师级黑白钢笔人物手稿。采用精湛的传统钢笔绘画技法，以灵动流畅的墨线、细密交叉排线、自然断笔与大胆留白塑造人物的立体感和艺术张力。面部精细刻画，服饰线条疏密有致，局部保留起稿痕迹与随性的未完成笔触，呈现真实艺术家亲笔创作的质感。暖象牙色复古素描纸，清晰可见纸张纤维与细腻墨迹，黑白灰层次丰富。极简艺术画册排版，大面积留白，角落点缀手写签名与创作日期。整体优雅、自由、富有艺术收藏价值，拒绝数字描摹与AI滤镜感，9:16竖版高清构图。",
+  "promptKind": "image-editing",
+  "inputRequirement": "Use the attached colour scarf portrait as the input reference.",
+  "tags": [
+    "pen-portrait-on-blank-ivory-paper"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUF9uydagAAsR_a.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/MrGafish/status/2108104473235341588",
+      "alt": "Cross-Hatched Pen Portrait on Ivory Paper",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3.webp",
+        "sha256": "6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3",
+        "bytes": 230320,
+        "mimeType": "image/webp",
+        "width": 675,
+        "height": 1199,
+        "originalSha256": "3e291d97292ff8b86fff13d131e1365f3d17de303793d21fd0a9a3067b5f6c76",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3.webp",
+            "sha256": "6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3",
+            "bytes": 230320,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1199
+          }
+        ]
+      }
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HUF9szvboAAV-Hv.jpg",
+      "role": "input",
+      "sourceUrl": "https://x.com/MrGafish/status/2108104473235341588",
+      "alt": "Original input reference supplied by the author",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9.webp",
+        "sha256": "5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9",
+        "bytes": 142986,
+        "mimeType": "image/webp",
+        "width": 1200,
+        "height": 800,
+        "originalSha256": "1244693632e66857f19053be23ccac5e9d9945659f58ecfb84fccd0efb4d4f6f",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9.webp",
+            "sha256": "5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9",
+            "bytes": 142986,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 800
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "hand-drawn"
+    ],
+    "subject": [
+      "people"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "x-2107818993813950746",
+  "slug": "psp-first-person-retro-battle",
+  "title": {
+    "en": "First-Person PSP with a Retro Pixel Battlefield",
+    "zh": "第一人称PSP与复古像素战场"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: first-person psp with a retro pixel battlefield. Complete original prompt and original output are source-linked.",
+    "zh": "第一人称PSP与复古像素战场"
+  },
+  "author": {
+    "handle": "DeepBlueX0",
+    "name": "DeepBlue深藍"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2107818993813950746",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2107818993813950746",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2107818993813950746",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "【游戏名】 × PSP第一人称掌机视角 × 屏幕内16位战场 × 复古掌机UI",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "psp-first-person-retro-battle"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUB6Mhka4AAsNrM.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2107818993813950746",
+      "alt": "First-Person PSP with a Retro Pixel Battlefield",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp",
+        "sha256": "fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca",
+        "bytes": 262734,
+        "mimeType": "image/webp",
+        "width": 941,
+        "height": 1672,
+        "originalSha256": "6d0c72f97499cad7005b1cdc45e0b59f9494209cdcad43977e425dd7fc9e9dc2",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp",
+            "sha256": "fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca",
+            "bytes": 262734,
+            "mimeType": "image/webp",
+            "width": 941,
+            "height": 1672
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "gaming"
+    ]
+  }
+}

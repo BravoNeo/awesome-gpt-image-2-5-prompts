@@ -1,0 +1,71 @@
+{
+  "id": "x-2107690033688056029",
+  "slug": "architecture-emerging-from-audio-waves",
+  "title": {
+    "en": "City Architecture Emerging from Sound Waves",
+    "zh": "从声波中浮现的城市建筑"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: city architecture emerging from sound waves. Complete original prompt and original output are source-linked.",
+    "zh": "从声波中浮现的城市建筑"
+  },
+  "author": {
+    "handle": "Naiknelofar788",
+    "name": "simeon-sanai"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2107690033688056029",
+  "promptSourceUrl": "https://x.com/Naiknelofar788/status/2107690033688056029",
+  "mediaSourceUrl": "https://x.com/Naiknelofar788/status/2107690033688056029",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "A surreal high-fashion editorial artwork where [CITY/LANDMARK] is formed entirely from flowing sound waves, audio frequencies, and rhythmic lines. The soundwaves begin as tiny vibrations at the bottom of the composition and gradually transform into the recognizable architecture of [CITY/LANDMARK].\n\nDifferent frequencies become different visual elements — thick bass waves create buildings, delicate high-frequency lines create windows and bridges, glowing pulses become streetlights and moving vehicles. Tiny fragments of typography, coordinates, music notes, and abstract symbols float through the waves.\n\nClean pale background, intense electric colors mixed with subtle metallic textures, dramatic depth, ultra-fine linework, futuristic editorial art, controlled chaos, sophisticated composition, no people, no ordinary skyline illustration, the architecture itself must visibly emerge from the soundwave pattern, striking and instantly recognizable, premium magazine cover aesthetic.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "architecture-emerging-from-audio-waves"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUAE6JVbQAALdzc.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2107690033688056029",
+      "alt": "City Architecture Emerging from Sound Waves",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp",
+        "sha256": "3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7",
+        "bytes": 268516,
+        "mimeType": "image/webp",
+        "width": 1024,
+        "height": 1536,
+        "originalSha256": "81888062994f002e704493e71ff9bdddd11fd30867e5f2e5e1f261cfd60616cc",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp",
+            "sha256": "3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7",
+            "bytes": 268516,
+            "mimeType": "image/webp",
+            "width": 1024,
+            "height": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "architecture"
+    ]
+  }
+}

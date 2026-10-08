@@ -1,0 +1,71 @@
+{
+  "id": "x-2108039007376724135",
+  "slug": "knitted-yarn-landmark-diorama",
+  "title": {
+    "en": "Knitted Yarn City Landmark Diorama",
+    "zh": "针织毛线城市地标微缩景观"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: knitted yarn city landmark diorama. Complete original prompt and original output are source-linked.",
+    "zh": "针织毛线城市地标微缩景观"
+  },
+  "author": {
+    "handle": "Goodmanprotocol",
+    "name": "Saul Goodman"
+  },
+  "sourceUrl": "https://x.com/Goodmanprotocol/status/2108039007376724135",
+  "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2108039007376724135",
+  "mediaSourceUrl": "https://x.com/Goodmanprotocol/status/2108039007376724135",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a premium 4:5 vertical architectural travel artwork for [COUNTRY / CITY / LOCATION / LANDMARK].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene creatively from [COUNTRY / CITY / LOCATION / LANDMARK] alone. No reference image required.\n\nCORE CONCEPT\n\nTransform the destination into a charming handcrafted miniature world made entirely from knitted yarn, soft felt, embroidery, and plush textile materials. Reimagine its architecture, streets, nature, transportation, and local atmosphere as a sophisticated collectible textile diorama.\n\nLANDMARK & COMPOSITION\n\nAutomatically select ONE unmistakable landmark representing [COUNTRY / CITY / LOCATION / LANDMARK] and make it the central hero.\n\nBuild a complete miniature environment around it using authentic local architecture, streets, gardens, trees, shops, landscape, and a few tiny generic yarn characters. Keep the landmark’s recognizable silhouette and defining architectural features while translating everything into rounded handmade textile forms.\n\nMATERIAL LANGUAGE\n\nEvery element should visibly feel handmade:\n- chunky knitted yarn\n- soft felt\n- embroidered details\n- woven fabric\n- stitched edges\n- wool fibers\n- plush textile surfaces\n- tiny handcrafted imperfections\n\nArchitecture should look carefully constructed from layered fabric and yarn rather than plastic, clay, or CGI.\n\nATMOSPHERE\n\nCreate a warm, playful, cozy travel atmosphere with soft natural lighting, gentle shadows, tactile fibers, rounded forms, and subtle depth. Add small destination-specific details such as local food, transportation, plants, signs, or cultural objects where they naturally enhance the scene.\n\nKeep the background simple and softly colored so the miniature world remains the focus.\n\nSTYLE\n\nArchitectural travel poster × knitted miniature diorama × handmade textile art × plush yarn world × sophisticated editorial illustration.\n\nThe result should feel like an elaborate handcrafted collectible discovered in a miniature museum — whimsical but visually refined and architecturally recognizable.\n\nCOLOR\n\nUse a harmonious palette inspired by the destination itself, combining warm neutrals with a few distinctive local accent colors. Keep the colors soft, rich, and tactile rather than overly bright.\n\nAvoid photorealism, plastic materials, smooth CGI, generic architecture, unrelated landmarks, hard geometric edges, excessive clutter, realistic humans, logos, watermarks, and flat vector illustration.\n\nFORMAT\n\n4:5 vertical, one cohesive miniature world, central landmark, rich textile detail, soft depth of field, premium handcrafted finish, highly detailed yarn and felt textures.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "knitted-yarn-landmark-diorama"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUFCQxgbIAAhuzJ.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2108039007376724135",
+      "alt": "Knitted Yarn City Landmark Diorama",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp",
+        "sha256": "d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24",
+        "bytes": 328154,
+        "mimeType": "image/webp",
+        "width": 1122,
+        "height": 1402,
+        "originalSha256": "30ef5210da74ecac257c4adfcf41eee6a8fcf4b9507ceedd1b85f0b666d7287a",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp",
+            "sha256": "d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24",
+            "bytes": 328154,
+            "mimeType": "image/webp",
+            "width": 1122,
+            "height": 1402
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "architecture"
+    ]
+  }
+}

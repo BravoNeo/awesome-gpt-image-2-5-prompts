@@ -1,0 +1,71 @@
+{
+  "id": "x-2108112844239892599",
+  "slug": "white-doodle-landmark-interaction",
+  "title": {
+    "en": "White Doodle Figures Interacting with City Landmarks",
+    "zh": "白线涂鸦与城市地标互动"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: white doodle figures interacting with city landmarks. Complete original prompt and original output are source-linked.",
+    "zh": "白线涂鸦与城市地标互动"
+  },
+  "author": {
+    "handle": "Goodmanprotocol",
+    "name": "Saul Goodman"
+  },
+  "sourceUrl": "https://x.com/Goodmanprotocol/status/2108112844239892599",
+  "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2108112844239892599",
+  "mediaSourceUrl": "https://x.com/Goodmanprotocol/status/2108112844239892599",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a premium 4:5 vertical conceptual travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nGENERATIVE IMAGE ONLY.\nCreate the complete artwork entirely from the written [COUNTRY / CITY / LOCATION / SUBJECT]. Do not use, request, require, inspect, modify, or reference any existing image. No source image is needed.\n\nCORE CONCEPT:\nCreate a highly realistic cinematic travel scene combined with oversized white hand-drawn doodle illustrations. The destination itself forms the complete visual foundation, while imaginative white sketch figures interact with the real architecture, landscape, objects, and atmosphere.\n\nDESTINATION:\nAutomatically determine the most recognizable architecture, landscape, streets, structures, transportation, natural features, and cultural details associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Build one coherent scene with accurate perspective, believable materials, natural lighting, and authentic local character.\n\nDOODLE INTERACTION:\nIntroduce only one strong visual idea. Create oversized white hand-drawn figures that actively interact with something naturally present in the scene. They may climb, hold, repair, paint, pull, carry, explore, play with, or transform a real environmental element. Their hands, feet, props, and gestures must connect naturally with the surrounding architecture or landscape.\n\nDOODLE STYLE:\nLoose white marker/chalk line drawings, simple expressive figures, minimal facial features, imperfect hand-drawn strokes, varied line thickness, playful proportions, natural gestures, subtle whimsical character. The drawings should feel like elegant hand-drawn lines existing within the scene, never like stickers, clip-art, comic characters, or 3D cartoons.\n\nCOMPOSITION:\nKeep the realistic destination as the dominant visual layer. Place the white drawings mainly within natural open areas such as sky, water, roads, walls, or atmospheric space. Allow creative scale differences between the drawings and the environment while maintaining believable perspective and spatial relationships.\n\nCOLOR:\nUse the authentic colors and lighting of the chosen destination as the main palette. White linework is the primary graphic accent. Add only a small amount of warm mustard-gold/yellow to selected doodle details such as a prop, light, ribbon, flower, clothing detail, or small object.\n\nVISUAL LANGUAGE:\nCinematic realism × hand-drawn illustration × surreal scale play × visual metaphor × conceptual travel art × premium editorial advertising.\n\nMOOD:\nClever, imaginative, minimal, warm, playful, sophisticated, cinematic, and visually memorable. The concept should be immediately understandable but reveal additional details on closer inspection.\n\nAVOID:\nExisting-image editing, image references, source images, copied photographs, image recreation, photo manipulation, collage, altered landmarks, unrelated architecture, excessive characters, full-screen doodles, thick black outlines, sticker effects, 3D cartoon characters, generic cartoon scenery, clutter, excessive effects, text, logos, watermarks, UI elements.\n\nOUTPUT:\n4:5 vertical composition, ultra-detailed realistic environment, seamless white hand-drawn interaction, premium conceptual travel artwork, polished editorial quality.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "white-doodle-landmark-interaction"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUGFaUEbEAEbGo1.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2108112844239892599",
+      "alt": "White Doodle Figures Interacting with City Landmarks",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3.webp",
+        "sha256": "8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3",
+        "bytes": 269956,
+        "mimeType": "image/webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "a8439d8286fb92c95c3953bcb041291daa1ac0d0b19ee65239088685c916c8cb",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3.webp",
+            "sha256": "8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3",
+            "bytes": 269956,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "architecture"
+    ]
+  }
+}

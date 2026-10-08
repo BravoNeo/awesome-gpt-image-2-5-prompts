@@ -129,7 +129,14 @@
     "https://pbs.twimg.com/media/HTPMBIWbcAAuHTt.jpg": "https://media.reeldance.ai/galleries/assets/40d1515de5cb9a1062cf36f1627d16db52520f38ecaedab517172fd3ba87b2a5.webp",
     "https://pbs.twimg.com/media/HTMSmK8bYAAB_vP.jpg": "https://media.reeldance.ai/galleries/assets/21f0555721b56f4ff108a329690df9254f16df5540b68036b9b06f04f115f4e5.webp",
     "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg": "https://media.reeldance.ai/galleries/assets/b24d5d6570f69164d4ba4104978439d49319b34f82c6827d4de53ff161401d08.webp",
-    "https://pbs.twimg.com/media/HS1JJ3NaMAAqRQR.jpg": "https://media.reeldance.ai/galleries/assets/4464cd1fddba584adce51c0ed6ebffc730252112ca5cb72ba260ce453bec378d.webp"
+    "https://pbs.twimg.com/media/HS1JJ3NaMAAqRQR.jpg": "https://media.reeldance.ai/galleries/assets/4464cd1fddba584adce51c0ed6ebffc730252112ca5cb72ba260ce453bec378d.webp",
+    "https://pbs.twimg.com/media/HUGFaUEbEAEbGo1.jpg": "https://media.reeldance.ai/galleries/assets/8d8ccdf791f414f24d449a6d726fe81d8339dce25658334c1d2ac479a2044ee3.webp",
+    "https://pbs.twimg.com/media/HUF9uydagAAsR_a.jpg": "https://media.reeldance.ai/galleries/assets/6aa00a50ac7b81836b51e741e8aef13bda4f5eef35d70e2fe1b9fcf37fe09df3.webp",
+    "https://pbs.twimg.com/media/HUF9szvboAAV-Hv.jpg": "https://media.reeldance.ai/galleries/assets/5de6ed55576b93166469098f0ddd5f5cc27668f6938b08dabdae699a4249d1a9.webp",
+    "https://pbs.twimg.com/media/HUFeZtMa8AARf_W.jpg": "https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp",
+    "https://pbs.twimg.com/media/HUFCQxgbIAAhuzJ.jpg": "https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp",
+    "https://pbs.twimg.com/media/HUB6Mhka4AAsNrM.jpg": "https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp",
+    "https://pbs.twimg.com/media/HUAE6JVbQAALdzc.jpg": "https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp"
   },
   "inputRequirementsZh": {
     "four-live-show-flyer-variations": "提供参考角色和画风，用于四张传单。",
@@ -148,6 +155,12 @@
     "calculation-paper-pen-doodle": "提供包含人物的照片，用于黑色钢笔涂鸦。",
     "casual-night-film-snapshot": "上传人物参考，保留面部和服装特征。",
     "crayon-people-photo-edit": "上传待重画人物的照片，保留背景和物体。",
-    "pink-watercolor-fashion-portrait": "上传人像参考，保留面部身份、比例和特征。"
+    "pink-watercolor-fashion-portrait": "上传人像参考，保留面部身份、比例和特征。",
+    "white-doodle-landmark-interaction": "纯文本生成；无需额外上传参考图。",
+    "pen-portrait-on-blank-ivory-paper": "请使用原帖附带的彩色围巾人像作为参考图。",
+    "modern-woodcut-black-white-subject": "纯文本生成；无需额外上传参考图。",
+    "knitted-yarn-landmark-diorama": "纯文本生成；无需额外上传参考图。",
+    "psp-first-person-retro-battle": "纯文本生成；无需额外上传参考图。",
+    "architecture-emerging-from-audio-waves": "纯文本生成；无需额外上传参考图。"
   }
 }

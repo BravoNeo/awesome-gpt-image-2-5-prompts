@@ -1,0 +1,71 @@
+{
+  "id": "x-2108069906407383081",
+  "slug": "modern-woodcut-black-white-subject",
+  "title": {
+    "en": "Modern Black-and-White Woodcut Portrait",
+    "zh": "现代黑白木刻人物像"
+  },
+  "description": {
+    "en": "Creator-attributed GPT Image 2.5 example: modern black-and-white woodcut portrait. Complete original prompt and original output are source-linked.",
+    "zh": "现代黑白木刻人物像"
+  },
+  "author": {
+    "handle": "DeepBlueX0",
+    "name": "DeepBlue深藍"
+  },
+  "sourceUrl": "https://x.com/DeepBlueX0/status/2108069906407383081",
+  "promptSourceUrl": "https://x.com/DeepBlueX0/status/2108069906407383081",
+  "mediaSourceUrl": "https://x.com/DeepBlueX0/status/2108069906407383081",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "zh",
+  "originalPrompt": "【主体】 × 新兴木刻版画 × 极简黑白块面 × 干净留白",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "modern-woodcut-black-white-subject"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUFeZtMa8AARf_W.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/DeepBlueX0/status/2108069906407383081",
+      "alt": "Modern Black-and-White Woodcut Portrait",
+      "cdn": {
+        "url": "https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp",
+        "sha256": "4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6",
+        "bytes": 142070,
+        "mimeType": "image/webp",
+        "width": 675,
+        "height": 1199,
+        "originalSha256": "5691e2e7ef98766b9cfd8bfb4c8f43b05c65b5c337ffb8a6d6170b953bc3b48e",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp",
+            "sha256": "4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6",
+            "bytes": 142070,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1199
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their respective creators. Public source attribution; no blanket reuse license verified."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "monochrome"
+    ],
+    "subject": [
+      "people"
+    ]
+  }
+}

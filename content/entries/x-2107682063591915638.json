@@ -1,0 +1,71 @@
+{
+  "id": "x-2107682063591915638",
+  "slug": "vintage-convertible-window-framed-portrait",
+  "title": {
+    "en": "Vintage Convertible Window-Framed Portrait",
+    "zh": "复古敞篷车窗框人像"
+  },
+  "description": {
+    "en": "Vintage Convertible Window-Framed Portrait.",
+    "zh": "复古敞篷车窗框人像。"
+  },
+  "author": {
+    "handle": "Just_Anika_Here",
+    "name": "Anika"
+  },
+  "sourceUrl": "https://x.com/Just_Anika_Here/status/2107682063591915638",
+  "promptSourceUrl": "https://x.com/Just_Anika_Here/status/2107682063591915638",
+  "mediaSourceUrl": "https://x.com/Just_Anika_Here/status/2107682063591915638",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "{\n\"subject\": {\n\"type\": \"young adult woman\",\n\"appearance\": \"fair skin with subtle freckles, green-gray eyes, defined brows, full natural lips\",\n\"hair\": \"short vintage auburn hair, swept back with soft volume\",\n\"expression\": \"calm, serious, slightly mysterious\",\n\"gaze\": \"looking directly into the camera\"\n},\n\"wardrobe\": {\n\"top\": \"cream vintage blouse\",\n\"scarf\": \"rust-orange patterned neck scarf tied loosely\"\n},\n\"setting\": {\n\"location\": \"inside a classic 1950s turquoise convertible\",\n\"environment\": \"sunny rural landscape with softly blurred hills in the background\",\n\"car\": \"vintage turquoise body, chrome trim, warm brown leather interior\"\n},\n\"composition\": {\n\"aspect_ratio\": \"4:5\",\n\"framing\": \"tight portrait through the open car window\",\n\"camera_position\": \"outside the car at eye level\",\n\"foreground\": \"turquoise car door and chrome window frame partially framing the woman\",\n\"focus\": \"sharp focus on face and eyes\",\n\"background\": \"strongly blurred with shallow depth of field\"\n},\n\"lighting\": {\n\"type\": \"warm natural sunlight\",\n\"quality\": \"soft directional sunlight with gentle facial shadows\",\n\"mood\": \"warm nostalgic summer afternoon\"\n},\n\"visual_style\": {\n\"style\": \"photorealistic vintage film photography\",\n\"era\": \"1950s–1960s Americana\",\n\"color_grading\": \"warm muted tones with turquoise, amber and orange dominance\",\n\"texture\": \"subtle analog film grain, slight vintage softness\",\n\"lens\": \"cinematic portrait lens with shallow depth of field\"\n},\n\"negative_prompt\": [\n\"modern car\",\n\"modern clothing\",\n\"studio lighting\",\n\"overly polished digital skin\",\n\"plastic skin\",\n\"heavy makeup\",\n\"wide-angle distortion\",\n\"extra people\",\n\"text\",\n\"watermark\",\n\"deformed face\",\n\"extra fingers\"\n]\n}",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "vintage-convertible-window-framed-portrait"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HT_9nPwawAATaVI.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Just_Anika_Here/status/2107682063591915638",
+      "alt": "Vintage Convertible Window-Framed Portrait",
+      "cdn": {
+        "sha256": "3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f",
+        "bytes": 140816,
+        "mimeType": "image/webp",
+        "url": "https://media.reeldance.ai/galleries/assets/3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f.webp",
+        "width": 675,
+        "height": 1199,
+        "originalSha256": "37326436906bc420ed406b5f4b1790281824376c1ec3638916c0f6e2b952b135",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f.webp",
+            "sha256": "3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f",
+            "bytes": 140816,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1199
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "photorealistic"
+    ],
+    "subject": [
+      "people"
+    ]
+  }
+}

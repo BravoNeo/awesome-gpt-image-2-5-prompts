@@ -1,0 +1,71 @@
+{
+  "id": "x-2108184319995047999",
+  "slug": "botanical-mesh-asymmetric-fashion-portrait",
+  "title": {
+    "en": "Asymmetric Botanical Mesh Fashion Portrait",
+    "zh": "不对称植物网纱人像"
+  },
+  "description": {
+    "en": "Asymmetric Botanical Mesh Fashion Portrait.",
+    "zh": "不对称植物网纱人像。"
+  },
+  "author": {
+    "handle": "listudio",
+    "name": "leolee"
+  },
+  "sourceUrl": "https://x.com/listudio/status/2108184319995047999",
+  "promptSourceUrl": "https://x.com/listudio/status/2108184319995047999",
+  "mediaSourceUrl": "https://x.com/listudio/status/2108184319995047999",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a single 9:16 vertical fine-art fashion portrait, 1080x1920 composition. Clearly adult East Asian woman around 28 with refined natural East Asian facial proportions, real skin texture, subtle dusty-rose lips, long silver-white hair with faint pale lilac and icy-blue strands. Dramatic asymmetric low-angle upper-body portrait: her face occupies LOWER RIGHT, centered at x=79%, y=47%, chin lifted and eyes looking toward upper-left, shoulders turned obliquely; luminous face and visible upper shoulder surrounded by clothing, no exposed chest. Large uninterrupted midnight navy negative space in the UPPER LEFT, about upper 36 percent and left 48 percent. Floral framework rises along the right edge above her head, while fine hair and airy leaf-skeleton textile sweep diagonally toward the bottom left as if a gentle breeze carries them. Small cobalt, ultramarine and pale blue five-petal flowers with tiny bright centers, fine branching stems, bead-sized white buds woven into the hair and garments. Sculptural couture wraps shoulders and chest in intricate ivory and cobalt skeletonized-leaf mesh, translucent fibrous lace with irregular ragged edges, silver threads and blue botanical ribbons; open delicate vein networks, not solid paper or generic tulle. Thin silver hair streams left across foreground. Directional warm-white sunlight from upper left projects crisp tiny botanical silhouettes onto the right cheek, neck and upper shoulder, producing warm lifelike skin against cool navy. Sharp face, eyelashes, individual hairs and delicate leaf veins, layered depth and restrained highlights, painterly photographic finish. Eastern dreamlike elegance, quiet upward longing, nocturnal blue atmosphere with sunlit skin. Preserve lower-right face and upper-left void; do not center subject or clutter empty area. No text, signature, logo, watermark. Clean master image.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "botanical-mesh-asymmetric-fashion-portrait"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUHGR9kaUAAzv3d.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/listudio/status/2108184319995047999",
+      "alt": "Asymmetric Botanical Mesh Fashion Portrait",
+      "cdn": {
+        "sha256": "09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5",
+        "bytes": 192970,
+        "mimeType": "image/webp",
+        "url": "https://media.reeldance.ai/galleries/assets/09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5.webp",
+        "width": 675,
+        "height": 1200,
+        "originalSha256": "1547a52147b6dcdf2c1b3cbf1747facfe39aa85a5a0ac3d6b34670e3bc0feff7",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5.webp",
+            "sha256": "09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5",
+            "bytes": 192970,
+            "mimeType": "image/webp",
+            "width": 675,
+            "height": 1200
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "portraits"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "people"
+    ]
+  }
+}

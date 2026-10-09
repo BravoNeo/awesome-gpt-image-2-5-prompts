@@ -1,0 +1,71 @@
+{
+  "id": "x-2108199004546933097",
+  "slug": "unified-watercolor-city-editorial-print",
+  "title": {
+    "en": "Unified Watercolor City Editorial Print",
+    "zh": "统一水彩城市编辑画"
+  },
+  "description": {
+    "en": "Unified Watercolor City Editorial Print.",
+    "zh": "统一水彩城市编辑画。"
+  },
+  "author": {
+    "handle": "Goodmanprotocol",
+    "name": "Saul Goodman"
+  },
+  "sourceUrl": "https://x.com/Goodmanprotocol/status/2108199004546933097",
+  "promptSourceUrl": "https://x.com/Goodmanprotocol/status/2108199004546933097",
+  "mediaSourceUrl": "https://x.com/Goodmanprotocol/status/2108199004546933097",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nPURE GENERATION.\nInvent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination.\n\nMASTER STYLE LOCK:\nHand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism.\n\nDESTINATION INTERPRETATION:\nAutomatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination.\n\nCreate ONE unified scene rather than a collection of separate elements.\n\nCOMPOSITION:\nUse an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes.\n\nLeave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding.\n\nLOCAL STORY:\nShow an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings.\n\nFavor ordinary local atmosphere over generic tourism imagery.\n\nLIGHT & ATMOSPHERE:\nAutomatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination.\n\nUse atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling.\n\nCOLOR LANGUAGE:\nBuild the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate.\n\nKeep the colors slightly desaturated, harmonious, and naturally layered.\n\nTYPOGRAPHY:\nAt the bottom of the artwork, add three restrained editorial text elements:\n\n[LOCATION NAME]\n[SHORT DESTINATION-INSPIRED SUBTITLE]\n[SHORT WARM POETIC SENTENCE]\n\nUse elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled.\n\nFINAL AESTHETIC:\nPremium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design.\n\nThe finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT].\n\nAVOID:\nAny editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements.\n\nFORMAT:\n4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "unified-watercolor-city-editorial-print"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUHTxopacAAxaN7.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2108199004546933097",
+      "alt": "Unified Watercolor City Editorial Print",
+      "cdn": {
+        "sha256": "e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef",
+        "bytes": 317602,
+        "mimeType": "image/webp",
+        "url": "https://media.reeldance.ai/galleries/assets/e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef.webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "59114e23552376cf612ac8e2ba5ee2464ce792d111e9f84b035e3f7255f56d4b",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef.webp",
+            "sha256": "e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef",
+            "bytes": 317602,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "hand-drawn"
+    ],
+    "subject": [
+      "architecture"
+    ]
+  }
+}

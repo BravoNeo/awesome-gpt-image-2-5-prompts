@@ -1,0 +1,71 @@
+{
+  "id": "x-2108383348641214926",
+  "slug": "kintsugi-bowl-transformation-exhibition",
+  "title": {
+    "en": "Kintsugi Bowl Transformation Exhibition",
+    "zh": "金缮茶碗修复展览海报"
+  },
+  "description": {
+    "en": "Kintsugi Bowl Transformation Exhibition.",
+    "zh": "金缮茶碗修复展览海报。"
+  },
+  "author": {
+    "handle": "Alyssa4aicreate",
+    "name": "Alyssa"
+  },
+  "sourceUrl": "https://x.com/Alyssa4aicreate/status/2108383348641214926",
+  "promptSourceUrl": "https://x.com/Alyssa4aicreate/status/2108383348641214926",
+  "mediaSourceUrl": "https://x.com/Alyssa4aicreate/status/2108383348641214926",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Theme: Kintsugi tea bowl repair Chinese title: 金缮成器 English title: GOLDEN SEAM Initial state / material: A cracked celadon tea bowl split into two pieces, cool gray-green glaze, visible raw clay fracture edges Transformation process: Fine gold lacquer seams being brushed along the cracks, tiny gold dust catching light Completed state: The same celadon bowl fully restored with luminous gold kintsugi lines, upright on a linen mat Central change axis: The gold lacquer repair seam itself — wet gold meeting clay fracture Correspondence: Crack / seam Main colors: celadon green, warm gold, ivory paper, soft charcoal Accent colors: muted rust Research node: PROCESS · SEAM · GLAZE Aspect ratio: 9:16\n\nGenerate a mature cultural exhibition poster with strong material expression and a craft-transformation central-axis composition.\n\nThe core is not two unrelated objects side by side — the material change itself becomes the composition.\n\nLeft side shows the INITIAL cracked celadon tea bowl pieces. Right side shows the COMPLETED gold-repaired bowl. Center is the critical craft moment where gold lacquer fills the fracture.\n\nViewers must understand without reading: original material → craft happening → finished state.\n\nLeft and right must truly belong together: the same bowl form, matching fracture edges that could rejoin, identical celadon glaze language.\n\nThe central axis is not a plain color band — it is where transformation occurs (gold lacquer meeting clay). Add 2–3 extremely restrained correspondence lines or process marks, never a process PPT.\n\nMaterials must read real: celadon glaze, raw clay, gold lacquer, linen, paper — clear stable surface logic. Do not replace material detail with noise or heavy aging.\n\nTypography relates to the craft logic and may cross materials, sit near the central seam, or lightly intersect the subject. Avoid fixed four-character vertical stacks or one giant central character every time.\n\nInclude one small research node totaling about 6% of the frame (PROCESS / SEAM / GLAZE).\n\nFirst glance: material contrast. Second: the central repair happening. Third: why left and right are one craft process.\n\nMuseum Exhibition Poster × Contemporary Editorial Graphic Design × East Asian Cultural Visual. High clarity, clean structure, concentrated information.\n\nAvoid: unrelated left/right content, broken process logic, plastic materials, random cracks, excessive flame, complex tool diagrams, too many technical parameters, mechanical three-column layout, PPT info boxes, heavy aging, low-finish AI poster look.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "kintsugi-bowl-transformation-exhibition"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUJ7elLaEAABd1u.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Alyssa4aicreate/status/2108383348641214926",
+      "alt": "Kintsugi Bowl Transformation Exhibition",
+      "cdn": {
+        "sha256": "22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a",
+        "bytes": 175248,
+        "mimeType": "image/webp",
+        "url": "https://media.reeldance.ai/galleries/assets/22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a.webp",
+        "width": 1200,
+        "height": 1200,
+        "originalSha256": "ef5d6db85a868636af1d7f372a7f89cf51294dfa3bd0f6a1973081622f138c49",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a.webp",
+            "sha256": "22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a",
+            "bytes": 175248,
+            "mimeType": "image/webp",
+            "width": 1200,
+            "height": 1200
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "surreal"
+    ],
+    "subject": [
+      "objects"
+    ]
+  }
+}

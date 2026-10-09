@@ -6,7 +6,7 @@
 
 ReelDance 是一个多模型 AI 图像与视频创作平台。可以从文字生成图片或视频、让图片动起来，并为创作选择合适的模型。
 
-收集 20 位创作者的 56 个图像作品与提示词，涵盖海报、人像、产品视觉、照片编辑和插画。每个案例都有对应作品、完整原始提示词和作者原帖。
+收集 25 位创作者的 66 个图像作品与提示词，涵盖海报、人像、产品视觉、照片编辑和插画。每个案例都有对应作品、完整原始提示词和作者原帖。
 
 <a href="https://reeldance.ai/gpt-image-2-5-prompts" rel="nofollow noreferrer" referrerpolicy="no-referrer">浏览在线作品库</a> · <a href="https://reeldance.ai/explore" rel="nofollow noreferrer" referrerpolicy="no-referrer">探索更多灵感</a>
 
@@ -41,11 +41,11 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
 | 海报 | 22 | [JSON](references/use/posters.json) |
-| 人像 | 11 | [JSON](references/use/portraits.json) |
+| 人像 | 15 | [JSON](references/use/portraits.json) |
 | 产品 | 4 | [JSON](references/use/products.json) |
 | 图像编辑 | 17 | [JSON](references/use/image-editing.json) |
 | 时装大片 | 7 | [JSON](references/use/fashion-editorial.json) |
-| 艺术画页 | 13 | [JSON](references/use/art-editorial.json) |
+| 艺术画页 | 19 | [JSON](references/use/art-editorial.json) |
 | 照片与多格布局 | 4 | [JSON](references/use/photo-grids.json) |
 | 壁纸 | 2 | [JSON](references/use/wallpapers.json) |
 | 信息图 | 1 | [JSON](references/use/infographics.json) |
@@ -57,20 +57,20 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 彩铅 | 2 | [JSON](references/style/colored-pencil.json) |
 | 蜡笔 | 4 | [JSON](references/style/crayon.json) |
 | 水墨 | 1 | [JSON](references/style/ink-wash.json) |
-| 写实摄影 | 19 | [JSON](references/style/photorealistic.json) |
+| 写实摄影 | 22 | [JSON](references/style/photorealistic.json) |
 | 复古 | 5 | [JSON](references/style/retro.json) |
 | 水粉 | 2 | [JSON](references/style/gouache.json) |
 | 极简 | 10 | [JSON](references/style/minimalist.json) |
 | 胶片摄影 | 7 | [JSON](references/style/film.json) |
 | 水彩 | 4 | [JSON](references/style/watercolor.json) |
-| 手绘 | 7 | [JSON](references/style/hand-drawn.json) |
+| 手绘 | 9 | [JSON](references/style/hand-drawn.json) |
 | 朴拙插画 | 1 | [JSON](references/style/naive-illustration.json) |
 | 漫画插画 | 2 | [JSON](references/style/comic.json) |
 | 平面设计 | 10 | [JSON](references/style/graphic-design.json) |
 | 钢笔涂鸦 | 1 | [JSON](references/style/pen-doodle.json) |
 | 拼贴 | 3 | [JSON](references/style/collage.json) |
 | 半调网点 | 2 | [JSON](references/style/halftone.json) |
-| 超现实 | 7 | [JSON](references/style/surreal.json) |
+| 超现实 | 12 | [JSON](references/style/surreal.json) |
 | 建筑手绘 | 3 | [JSON](references/style/architectural-sketch.json) |
 | 单色 | 2 | [JSON](references/style/monochrome.json) |
 | 油画 | 2 | [JSON](references/style/oil-painting.json) |
@@ -82,10 +82,10 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 
 | 分类 | 作品 | JSON |
 | --- | ---: | --- |
-| 建筑 | 11 | [JSON](references/subject/architecture.json) |
+| 建筑 | 13 | [JSON](references/subject/architecture.json) |
 | 旅行 | 8 | [JSON](references/subject/travel.json) |
 | 风景 | 1 | [JSON](references/subject/landscape.json) |
-| 人物 | 33 | [JSON](references/subject/people.json) |
+| 人物 | 37 | [JSON](references/subject/people.json) |
 | 时装 | 7 | [JSON](references/subject/fashion.json) |
 | 秋日 | 2 | [JSON](references/subject/autumn.json) |
 | 车辆 | 4 | [JSON](references/subject/vehicles.json) |
@@ -94,11 +94,11 @@ GPT Image 2.5 是 OpenAI 的图像生成与编辑模型系列。<a href="https:/
 | 音乐 | 3 | [JSON](references/subject/music.json) |
 | 节庆 | 1 | [JSON](references/subject/holidays.json) |
 | 数学 | 1 | [JSON](references/subject/math.json) |
-| 物件 | 5 | [JSON](references/subject/objects.json) |
+| 物件 | 7 | [JSON](references/subject/objects.json) |
 | 角色 | 5 | [JSON](references/subject/characters.json) |
 | 数字界面 | 3 | [JSON](references/subject/digital-ui.json) |
 | 文学 | 1 | [JSON](references/subject/literature.json) |
-| 食物 | 1 | [JSON](references/subject/food.json) |
+| 食物 | 3 | [JSON](references/subject/food.json) |
 | 游戏 | 2 | [JSON](references/subject/gaming.json) |
 | 科技 | 1 | [JSON](references/subject/technology.json) |
 
@@ -2062,6 +2062,79 @@ Negative prompt: changed identity, distorted anatomy, extra fingers, malformed h
 
 </details>
 
+<a id="vintage-convertible-window-framed-portrait"></a>
+### 复古敞篷车窗框人像
+
+复古敞篷车窗框人像。
+
+作者：Anika (@Just\_Anika\_Here) · <a href="https://x.com/Just_Anika_Here/status/2107682063591915638" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Vintage Convertible Window-Framed Portrait](https://media.reeldance.ai/galleries/assets/3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+{
+"subject": {
+"type": "young adult woman",
+"appearance": "fair skin with subtle freckles, green-gray eyes, defined brows, full natural lips",
+"hair": "short vintage auburn hair, swept back with soft volume",
+"expression": "calm, serious, slightly mysterious",
+"gaze": "looking directly into the camera"
+},
+"wardrobe": {
+"top": "cream vintage blouse",
+"scarf": "rust-orange patterned neck scarf tied loosely"
+},
+"setting": {
+"location": "inside a classic 1950s turquoise convertible",
+"environment": "sunny rural landscape with softly blurred hills in the background",
+"car": "vintage turquoise body, chrome trim, warm brown leather interior"
+},
+"composition": {
+"aspect_ratio": "4:5",
+"framing": "tight portrait through the open car window",
+"camera_position": "outside the car at eye level",
+"foreground": "turquoise car door and chrome window frame partially framing the woman",
+"focus": "sharp focus on face and eyes",
+"background": "strongly blurred with shallow depth of field"
+},
+"lighting": {
+"type": "warm natural sunlight",
+"quality": "soft directional sunlight with gentle facial shadows",
+"mood": "warm nostalgic summer afternoon"
+},
+"visual_style": {
+"style": "photorealistic vintage film photography",
+"era": "1950s–1960s Americana",
+"color_grading": "warm muted tones with turquoise, amber and orange dominance",
+"texture": "subtle analog film grain, slight vintage softness",
+"lens": "cinematic portrait lens with shallow depth of field"
+},
+"negative_prompt": [
+"modern car",
+"modern clothing",
+"studio lighting",
+"overly polished digital skin",
+"plastic skin",
+"heavy makeup",
+"wide-angle distortion",
+"extra people",
+"text",
+"watermark",
+"deformed face",
+"extra fingers"
+]
+}
+```
+
+</details>
+
 <a id="architecture-emerging-from-audio-waves"></a>
 ### 从声波中浮现的城市建筑
 
@@ -2275,6 +2348,325 @@ Existing-image editing, image references, source images, copied photographs, ima
 
 OUTPUT:
 4:5 vertical composition, ultra-detailed realistic environment, seamless white hand-drawn interaction, premium conceptual travel artwork, polished editorial quality.
+```
+
+</details>
+
+<a id="storybook-landmark-child-activity-illustration"></a>
+### 童书地标与儿童插画
+
+童书地标与儿童插画。
+
+作者：simeon-sanai (@Naiknelofar788) · <a href="https://x.com/Naiknelofar788/status/2108165803338277063" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Storybook Landmark and Child Illustration](https://media.reeldance.ai/galleries/assets/5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a charming children’s storybook-style illustration of [LANDMARK], inspired by vintage activity-book artwork. Place the landmark in a bright, dreamy countryside or natural setting with soft hand-drawn black outlines, rounded illustrated elements, gentle watercolor textures, and cheerful pastel colors.
+
+The landmark itself must be highly accurate and realistically depicted, closely matching its real-world architecture, proportions, shape, colors, windows, towers, rooftops, and distinctive details. Do not cartoonize, distort, simplify, or redesign the landmark. It should look like a faithful miniature representation of the actual landmark, while the surrounding environment remains whimsical and illustrated.
+
+Add a cute little child exploring or looking toward the landmark. Include green rolling grass, a large leafy tree, tiny wildflowers, soft clouds, warm sunlight, and a simple blue sky. No sheep, lambs, or other oversized animals.
+
+Keep the contrast intentional: realistic, instantly recognizable landmark + charming hand-drawn children’s-book surroundings. The child should have expressive innocent features and slightly exaggerated storybook proportions.
+
+Visual style: vintage preschool activity book, soft hand-drawn outlines, watercolor + subtle crayon textures, slightly imperfect printed texture, nostalgic children’s illustration, cheerful and wholesome, detailed environmental elements, realistic landmark architecture, natural lighting, no photorealistic background.
+
+Composition: portrait 4:5, full-page storybook illustration, landmark as the central visual element, child in the foreground, lots of colorful negative space, clean composition, no modern text, no sheep or lambs, no distorted architecture.
+```
+
+</details>
+
+<a id="biscuit-cup-clock-four-oclock-advertisement"></a>
+### 饼干与茶杯时钟广告
+
+饼干与茶杯时钟广告。
+
+作者：Loriel.AI (@ou\_zhen599) · <a href="https://x.com/ou_zhen599/status/2108178899305955696" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Biscuit and Tea Cup Clock Advertisement](https://media.reeldance.ai/galleries/assets/eed19f2f440fcb4d971e8028f7b5fc8db7b6ae182fdc7295da6ed4cc9e2491e7.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/eed19f2f440fcb4d971e8028f7b5fc8db7b6ae182fdc7295da6ed4cc9e2491e7.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a Cannes-grade vertical poster ad for an original overseas biscuit brand, HOURMARK, with Butter Dip Rounds as the absolute hero. Preserve the exact logic of a high-overhead ultra-wide lifestyle poster: a large round dark walnut table fills the lower two-thirds as the main stage; at its center, a white ceramic teacup fused with a minimal analog clock face forms the conceptual core. In the upper frame, a smiling young woman stands beyond the table, secondary in scale, reaching from the upper-left toward the camera, delicately holding one biscuit very close to the lens directly above the cup-clock, freezing the instant before dipping. On the right side of the table, place the premium biscuit pack diagonally, fully readable. On the lower-left, place a small tray with three extra biscuits. Preserve the circular composition, the foreground-to-center-to-product visual loop, generous negative space, and elegant tabletop typography rhythm.
+
+Set this in a refined domestic interior edited into a premium lifestyle set: blush clay and muted butter-cream walls, warm walnut furniture, pale stone floor, sparse indoor greenery, framed wall art, and one open doorway with soft depth. Keep the environment realistic but gallery-clean so nothing competes with the product. The woman should feel authentic, warm, and approachable, with natural dark hair, an understated ivory floral dress, and a relaxed smile toward the biscuit and cup. She is emotional context only, never stronger than the product.
+
+The hero biscuit must look hyper-real and edible: crisp baked pores, scalloped edge, golden toasted gradient, dry buttery surface, believable thickness, subtle crumbs. The packaging must feel premium and physically convincing, in amber gold, deep cobalt, and brushed copper, with realistic laminated reflections, precise crimped edges, clean print registration, and premium FMCG proportions. The walnut tabletop shows rich grain and soft specular rolloff. The cup-clock is smooth white ceramic with a matte dial and slim dark hands; the tea surface shows controlled amber reflection and a gentle meniscus.
+
+Use late-afternoon four-o’clock light as the narrative anchor. Main light enters from the right-back side, soft but directional, wrapping across the fingers, biscuit texture, cup rim, and pack edges. Build refined contrast so the product gains volume and authority. Add subtle floor bounce and environmental fill to avoid dead blacks. Keep shadows warm, transparent, and clean. Color system: 60% warm cream, blush clay, pale stone; 30% walnut brown, toasted biscuit gold, amber tea; 10% cobalt and copper accents on the pack and selected graphic details. The overall image should feel premium, tactile, calm, and sharply art-directed.
+
+Typography must be original, not copied, and integrated as graphic composition within the scene. In the top-right, place a small premium logo badge reading "HOURMARK" with the micro-line "crafted for the pause". Around the cup-clock and tabletop arc, integrate custom rounded display lettering in warm cream and apricot tones: "PAUSE, PERFECTED" and "THE FOUR O'CLOCK RITUAL". Near the pack, place a small elegant product note: "butter tea biscuits". Typography should feel polished, sculpted, and spatially embedded, sharing the same light and color logic, never flat black text, and never blocking the biscuit, hand, or packaging.
+
+Commercial poster finish, hyper-real product rendering, product-first hierarchy, elegant perspective, believable anatomy, unified light logic, clean negative space, coherent object contact, subtle luxury print sensibility, refined advertising concept, museum-clean composition, high material readability. No clutter, random particles, decorative crystals, floating objects, duplicated products, broken fingers, warped biscuit geometry, malformed hands, unreadable or gibberish text, pack distortion, perspective collapse, muddy haze, dirty shadows, dead black patches, overdone CGI gloss, style drift, irrelevant props, extra branding, human name, or cheap poster effects.
+```
+
+</details>
+
+<a id="botanical-mesh-asymmetric-fashion-portrait"></a>
+### 不对称植物网纱人像
+
+不对称植物网纱人像。
+
+作者：leolee (@listudio) · <a href="https://x.com/listudio/status/2108184319995047999" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Asymmetric Botanical Mesh Fashion Portrait](https://media.reeldance.ai/galleries/assets/09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a single 9:16 vertical fine-art fashion portrait, 1080x1920 composition. Clearly adult East Asian woman around 28 with refined natural East Asian facial proportions, real skin texture, subtle dusty-rose lips, long silver-white hair with faint pale lilac and icy-blue strands. Dramatic asymmetric low-angle upper-body portrait: her face occupies LOWER RIGHT, centered at x=79%, y=47%, chin lifted and eyes looking toward upper-left, shoulders turned obliquely; luminous face and visible upper shoulder surrounded by clothing, no exposed chest. Large uninterrupted midnight navy negative space in the UPPER LEFT, about upper 36 percent and left 48 percent. Floral framework rises along the right edge above her head, while fine hair and airy leaf-skeleton textile sweep diagonally toward the bottom left as if a gentle breeze carries them. Small cobalt, ultramarine and pale blue five-petal flowers with tiny bright centers, fine branching stems, bead-sized white buds woven into the hair and garments. Sculptural couture wraps shoulders and chest in intricate ivory and cobalt skeletonized-leaf mesh, translucent fibrous lace with irregular ragged edges, silver threads and blue botanical ribbons; open delicate vein networks, not solid paper or generic tulle. Thin silver hair streams left across foreground. Directional warm-white sunlight from upper left projects crisp tiny botanical silhouettes onto the right cheek, neck and upper shoulder, producing warm lifelike skin against cool navy. Sharp face, eyelashes, individual hairs and delicate leaf veins, layered depth and restrained highlights, painterly photographic finish. Eastern dreamlike elegance, quiet upward longing, nocturnal blue atmosphere with sunlit skin. Preserve lower-right face and upper-left void; do not center subject or clutter empty area. No text, signature, logo, watermark. Clean master image.
+```
+
+</details>
+
+<a id="unified-watercolor-city-editorial-print"></a>
+### 统一水彩城市编辑画
+
+统一水彩城市编辑画。
+
+作者：Saul Goodman (@Goodmanprotocol) · <a href="https://x.com/Goodmanprotocol/status/2108199004546933097" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Unified Watercolor City Editorial Print](https://media.reeldance.ai/galleries/assets/e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT].
+
+PURE GENERATION.
+Invent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination.
+
+MASTER STYLE LOCK:
+Hand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism.
+
+DESTINATION INTERPRETATION:
+Automatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination.
+
+Create ONE unified scene rather than a collection of separate elements.
+
+COMPOSITION:
+Use an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes.
+
+Leave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding.
+
+LOCAL STORY:
+Show an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings.
+
+Favor ordinary local atmosphere over generic tourism imagery.
+
+LIGHT & ATMOSPHERE:
+Automatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination.
+
+Use atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling.
+
+COLOR LANGUAGE:
+Build the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate.
+
+Keep the colors slightly desaturated, harmonious, and naturally layered.
+
+TYPOGRAPHY:
+At the bottom of the artwork, add three restrained editorial text elements:
+
+[LOCATION NAME]
+[SHORT DESTINATION-INSPIRED SUBTITLE]
+[SHORT WARM POETIC SENTENCE]
+
+Use elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled.
+
+FINAL AESTHETIC:
+Premium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design.
+
+The finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT].
+
+AVOID:
+Any editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements.
+
+FORMAT:
+4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
+```
+
+</details>
+
+<a id="sunset-camping-chair-text-generated-portrait"></a>
+### 露营椅上的日落人像
+
+露营椅上的日落人像。
+
+作者：Adam也叫吉米 (@Adam38363368936) · <a href="https://x.com/Adam38363368936/status/2108212906596941864" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Sunset Portrait in a Camping Chair](https://media.reeldance.ai/galleries/assets/0d8f66cdec64613e044f67a3bee79b311b1fa476976c3695848d990ccbd3d601.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/0d8f66cdec64613e044f67a3bee79b311b1fa476976c3695848d990ccbd3d601.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (zh)</summary>
+
+```text
+超写实露营地日落画面，年轻女子坐在折叠露营椅上侧身凝视夕阳，黑色长波浪发被微风轻轻吹动，黑色无袖上衣简洁休闲，白色短裤，神态安静放松，中景视角，背景是白色帐篷、草地、远处低矮树影和橙红色天空，夕阳贴近地平线，暖金色逆光勾勒人物轮廓，光线轻柔笼罩整个场景，草地和帐篷边缘有柔和光晕，皮肤在暖光下呈现柔和质感，衣物纹理清晰，画面充满治愈、浪漫和闲适情绪，HDR写实质感，电影级色彩分级，细节丰富
+```
+
+</details>
+
+<a id="giant-beer-can-coastline-scale-poster"></a>
+### 巨型啤酒罐与微缩海岸
+
+巨型啤酒罐与微缩海岸。
+
+作者：Loriel.AI (@ou\_zhen599) · <a href="https://x.com/ou_zhen599/status/2108252496737292631" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Giant Beer Can at a Miniature Coastline](https://media.reeldance.ai/galleries/assets/69e173cce7ec02786626942490415f55e3237b205a6b4fdf5cb4fb11c9aa0608.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/69e173cce7ec02786626942490415f55e3237b205a6b4fdf5cb4fb11c9aa0608.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a Cannes-level vertical poster ad for an original overseas beer brand, SHORELINE STANDARD: a premium coastal lager campaign where a hyper-real chilled can and a sunlit shoreline merge into one physically believable, graphically commanding image. The can is the absolute visual leader; the beach, sea, boats, underwater seal, and typography function as one unified brand system.
+
+Use a high-angle near-top-down view with a slight diagonal tilt. A giant emerald-green aluminum can lies diagonally across the border between pale sand and shallow turquoise water, occupying the central-left field and dominating the poster. The shoreline creates a clean diagonal split. The can feels oversized but grounded, with its lower body pressing slightly into the sand and its upper side nearing the waterline. In the upper beach zone, add tiny sunbathers, towels, footprints, and sparse miniature leisure activity as scale rhythm only, never portrait subjects. In the upper-right water area, place two elegant leisure boats near shore. On the right half beneath the water, embed a huge semi-transparent circular brand seal. Along the far-right edge, place a bold vertical brand wordmark as a clean graphic column.
+
+The hero can must feel premium and hyper-real: cold aluminum realism, dense micro-condensation, varied droplet size, fine embossed texture, crisp print registration, realistic pull-tab, silver rim detail, subtle natural scuffs, and believable wet metallic sheen. Brand design is original and iconic: deep emerald base, off-white lettering, restrained coral-red emblem, refined silver details. Primary can text: "SHORELINE STANDARD", "COASTAL LAGER", "BREWED FOR OPEN WATER". Any other can text should stay minimal, premium, and art-directed.
+
+Build a tropical shoreline with creamy warm sand, translucent mint-to-turquoise shallows, delicate foam traces, visible shallow seabed gradients, and clean coastal clarity. Keep the beach real but edited toward a design-led ad aesthetic: airy spacing, elegant negative space, simplified micro-activity, no clutter. The giant can, underwater seal, and right-edge typography must feel like one integrated poster logic.
+
+Use bright coastal afternoon sunlight from the upper-left. Light cuts crisply across the can, emphasizing condensation, casting a soft shadow over the sand, adding luminous sparkle on the water, and creating clear tonal separation between lit metal, shaded undercurve, pale shoreline, and translucent sea. Color system: 60% luminous aqua, sea-glass green, pale coastal light; 30% warm sand, soft ivory, muted mineral beige; 10% saturated emerald product tones with restrained coral-red accents. The feeling is fresh, premium, expansive, and sharply art-directed, with stronger contrast than a flat lifestyle image while staying clean and elegant.
+
+Materials must be highly convincing: cold tactile aluminum, realistic droplet adhesion and highlight response, fine granular sand with slight compression under the can, shallow refractive water with subtle distortion over the embedded seal so it feels submerged yet readable. Boats are realistic and crisp but secondary. The whole poster should carry luxury FMCG finish, museum-clean composition, and international ad-award polish.
+
+Typography must be fully original and treated as graphic architecture. Top-left: a small premium circular badge reading "SHORELINE STANDARD" with "coastal brewed lager". Right edge: a large vertical wordmark "SHORELINE" in a bold custom rounded sans-serif, functioning as a green graphic pillar. Underwater circular seal on the right half: "SHORELINE STANDARD", "COASTAL LAGER", and "OPEN TO HORIZONS" as a translucent emblem. Bottom-left: a compact logo lockup using the coral-red emblem beside "SHORELINE STANDARD". All text must feel polished, spatially embedded, tonally unified, never crude, flat black, or blocking the can.
+
+Luxury commercial poster, product-first hierarchy, precise scale contrast, crisp readable typography, unified brand system, clean negative space, realistic boats, realistic miniature beach figures, grounded can placement, hyper-detailed condensation, elegant diagonal structure, premium print-poster finish. No clutter, warped can geometry, broken pull-tab, unreadable text, accidental resemblance to any real beer brand, muddy shadows, dead black patches, floating objects, malformed people, distorted boats, cheap glow, over-saturated water, random decorative debris, compositing artifacts, or weak product emphasis.
+```
+
+</details>
+
+<a id="continuous-tagliatelle-letter-weaving-poster"></a>
+### 意面穿行字母的海报
+
+意面穿行字母的海报。
+
+作者：Loriel.AI (@ou\_zhen599) · <a href="https://x.com/ou_zhen599/status/2108255531567898645" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Tagliatelle Weaving through Poster Letters](https://media.reeldance.ai/galleries/assets/7a31e274ac0f7ad0b0b144df8e5d1e2d831218f0cdbb88e69646a59dab3f42c1.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/7a31e274ac0f7ad0b0b144df8e5d1e2d831218f0cdbb88e69646a59dab3f42c1.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Create a Cannes-grade vertical poster ad for an original premium pasta brand, VELLORA, merging the warmth of a plated dish, the tactile authority of luxury food photography, and the restraint of a curator-led graphic poster. The core idea is a single continuous ribbon of lemon-butter tagliatelle physically twisting around typography, making pasta and letters structurally inseparable. The pasta remains the true visual hero, while the letter interaction delivers the conceptual impact.
+
+Use a tall minimalist composition on a warm ivory paper-plaster background with subtle tactile grain and generous negative space. From the upper-left, a polished vintage-gold fork enters diagonally, holding a compact nest of glossy tagliatelle near the top center. From this lifted forkful, one continuous strand descends vertically through the poster, tightening, looping, crossing, and relaxing with believable weight and gravity. At the center, place one monumental ultra-bold black serif display word: "COIL". The pasta wraps around the letter stems, passes behind counters, crosses in front of key edges, and re-emerges with precise occlusion, natural contact shadows, and elegant tension. The strand continues below and resolves near the lower-right with a fresh lemon wedge accent, keeping the movement vertically unified.
+
+Render the pasta with exceptional realism: silky ribbons with slight width variation, rich butter emulsion, subtle lemon zest, cracked black pepper, delicate grated aged cheese, and restrained parsley flecks. The noodles should feel freshly tossed, elastic, heavy, and luxurious, with visible drag, torsion, overlap, and sauce cling. Add only a few curated crumbs, pepper granules, zest curls, and tiny herb leaves close to the strand so the image feels alive without clutter. The fork must feel premium and tactile, with brushed metallic highlights, slight edge wear, and refined reflection control.
+
+Typography must be entirely original and treated as graphic architecture. At the top center, place a small premium brand lockup reading "VELLORA" with the micro-line "pasta atelier". Top-right: "CITRUS ZEST / CULTURED BUTTER / AGED CHEESE / CRACKED PEPPER", with a small italic line beneath: "Simple elements. Lasting craving." The main central word is "COIL". In the lower-left, place "Lemon Velvet Tagliatelle", with the line "fresh ribbons in a butter-bright sauce with a lifted citrus finish". Mid-right: "Tangled into flavor." Bottom-right: a restrained numeric marker "128" with the tiny line "single serve". All lettering must feel custom-designed, beautifully kerned, spatially embedded, and tonally harmonized with the food, never crude, generic, or blocking the key pasta interaction.
+
+Use soft directional daylight from the upper-left with refined studio discipline. The forkful catches creamy highlights, the black display word feels dense and premium without dead flat black, and the pasta carries luminous buttery reflections with layered shadows where it crosses the letters. Build a strong tonal step between the pale background, the dark central word, and the golden pasta so the concept reads instantly from a distance. Color hierarchy: 60% warm ivory and cream paper tones, 25% golden pasta and butter hues, 10% deep black typography, 5% lemon yellow and herb green accents. The overall mood is bright, tactile, elegant, modern, and quietly indulgent.
+
+Materials must feel physically coherent and expensive: matte-ink or painted letter surface with subtle paper response, glossy butter-coated pasta with fine semolina texture, irregular grated cheese, crisp pepper granules, moist lemon flesh, and softly reflective metal. Hyper-real food photography merged with high-end editorial poster design, luxury print-ad finish, crisp readable text, believable gravity, clean background, strong product-first hierarchy, no clutter.
+
+Avoid floating noodles without support logic, broken or melted strands, warped fork structure, unreadable text, generic menu-board styling, garnish overload, muddy shadows, dirty paper stains, dead black slabs, plastic-looking sauce, stiff pasta geometry, cheap glow, random particles, compositing artifacts, distorted letters, style drift, accidental resemblance to any real brand, or extra props that weaken the central noodle-and-typography interaction.
+```
+
+</details>
+
+<a id="beach-selfie-earbud-microphone-tattoo"></a>
+### 海滩耳机麦克风自拍
+
+海滩耳机麦克风自拍。
+
+作者：Ramzi B. (@SDDFounder) · <a href="https://x.com/SDDFounder/status/2108290949994414098" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Beach Selfie with Earbud Microphone](https://media.reeldance.ai/galleries/assets/88d660f8ead2780cf53dd7aec8db54054ed3724fc1b8d8e0d0ef249e5eb04e1f.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/88d660f8ead2780cf53dd7aec8db54054ed3724fc1b8d8e0d0ef249e5eb04e1f.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+{ "meta": { "aspect_ratio": "9:16", "orientation": "vertical", "quality": "ultra_photorealistic", "resolution": "4K", "camera": "Modern smartphone front-facing camera, likely iPhone 13 or newer", "lens": "Wide-angle selfie lens, approximately 24mm equivalent, f/2.2 aperture", "capture_style": "Casual arm's-length selfie, lying down", "style": "Candid, unposed, natural lifestyle photography" }, "scene": { "location": "Sandy public beach with the ocean in the background", "specific_spot": "Lying on a white terrycloth beach towel placed directly on the sand", "time_of_day": "Mid-afternoon, bright daylight", "atmosphere": "Breezy, relaxed, summery, casual and intimate" }, "environment": { "background_elements": [ "Bright blue sky with wispy, scattered white cirrus clouds", "Dark blue ocean horizon with gentle waves", "Tan sand stretching to the water", "Distant tiny figures of people in the water and on the beach", "A white and blue patterned beach towel or bag and a white crocheted bag slightly out of focus in the background to the right" ], "foreground_elements": [ "Thick, textured white terrycloth towel immediately beneath the subject", "White wires of Apple EarPods draping down the center of the frame" ], "lighting": { "source": "Direct, harsh sunlight from above and slightly in front of the subject", "direction": "Top-down, angled slightly from the camera's perspective", "color_temperature": "Daylight, approximately 5500K to 6000K, bringing out warm skin tones", "effect": "Creates bright highlights on the bridge of the nose, cheekbones, and forehead", "shadows": "Sharp, distinct shadows under the chin, beneath the bangs on the forehead, and cast by the earphone wires on the chest", "highlights": "Natural specular highlights on the lower lip, tip of the nose, and the apples of the cheeks due to slight skin oils/sweat" } }, "subject": { "identity": "A person matching the following exact description. Reproduce their appearance precisely.", "gender": "Female", "age_vibe": "Early to mid-20s", "ethnicity": "Latina or Mediterranean descent", "skin": { "tone": "Warm tan, olive complexion", "texture": "Natural, unretouched, visible pores, slight natural sheen from the sun", "condition": "Healthy, sun-kissed", "visible_details": [ "Sprinkling of natural brown freckles across the nose and upper cheeks", "Slight pinkish sun-flush on the cheeks", "Large, intricate black ink tattoo on the right shoulder and upper arm featuring a coiled snake, a botanical stem with leaves, and a crescent moon" ] }, "hair": { "color": "Dark brown, almost black", "length": "Long, cascading past the shoulders", "style": "Loose, wavy, messy beach hair with straight curtain bangs covering the forehead down to the eyebrows", "behavior": "Blown by the wind, with long, fine strands blowing across the sky on the left side of the frame", "details": "Strands are clustered and slightly piecey from the beach humidity, framing the face heavily" }, "face": { "shape": "Oval with softly defined jawline", "features": "Full lips with a slight natural part revealing the two front teeth with a very tiny gap, straight nose, thick natural dark eyebrows", "expression": "Relaxed, softly gazing, calm and slightly sultry", "eye_direction": "Looking directly and intensely into the camera lens", "makeup": "Very minimal or bare-faced, possibly a sheer tinted lip balm in a dark berry or natural red hue" }, "body": { "build": "Slim, athletic", "posture": "Lying prone on her stomach, torso propped up" } }, "outfit": { "top": { "type": "String bikini top", "color": "Warm earth tones: burnt orange, brown, dark red, and cream", "pattern": "Geometric, vaguely tribal or bohemian diamond/zigzag print", "fit": "Snug, typical triangle bikini fit", "fabric": "Standard swimwear spandex/nylon blend", "condition": "Dry", "details": "Thin red string halter straps extending from the top, visible over the left shoulder" }, "bottom": { "type": "String bikini bottoms", "color": "Matching burnt orange and dark red", "pattern": "Matching geometric pattern", "fit": "Low rise", "fabric": "Spandex/nylon", "details": "Thin red tie-strings resting on the hip bone, visible on the left side of the frame" }, "shoes": { "type": "None visible", "color": "", "details": "" }, "accessories": [ "White wired Apple EarPods, right earbud inserted in ear, wires draping down the front of the body", "Inline microphone/volume control module of the EarPods held near the mouth", "Thick, dark brown ruched fabric scrunchie worn on the left wrist", "Beaded bracelet with alternating white, brown, and black round beads worn on the left wrist below the scrunchie" ], "jewelry": [] }, "pose": { "body_position": "Lying on stomach on a beach towel, upper body propped up to face the camera", "legs": "Out of frame, trailing behind", "arms": "Right arm rests on the towel supporting the body weight. Left arm is bent upwards with the hand near the face.", "hands": "Left hand is loosely curled, delicately holding the white earphone wire/microphone module just below the chin. Natural, unpainted fingernails.", "shoulders": "Relaxed, right shoulder pushed forward towards the camera revealing the tattoo.", "head_tilt": "Very slight tilt to her left (viewer's right)", "micro_action": "Speaking into or resting the inline microphone against her mouth while listening" }, "camera_perspective": { "pov": "First-person selfie from the subject's extended arm or leaning over the device", "angle": "Eye-level, pointing very slightly downward", "framing": "Medium close-up, capturing from the top of the head down to the lower back/hips", "distance": "Approximately 1.5 to 2 feet away from the face", "depth_of_field": "Deep; subject is completely sharp, while the beach background is only very slightly out of focus, retaining structural clarity", "imperfections": [ "Minor lens distortion typical of wide-angle smartphone selfie cameras, slightly exaggerating the proximity of the right shoulder and face" ] }, "post_processing": { "editing_level": "None to minimal", "color_grading": "Natural smartphone color science, vibrant blues and true-to-life warm skin tones", "contrast": "High, natural sunlight contrast", "saturation": "Natural, slightly boosted by the smartphone's HDR processing for the sky", "retouching": "None. Skin texture, freckles, and stray hairs remain intact", "final_look": "Raw, authentic daytime beach selfie" }, "photography_rules": { "no_cgi": true, "no_plastic_skin": true, "no_exaggerated_anatomy": true, "hyper_realistic": true, "reproduce_exact_scene": true } }
+```
+
+</details>
+
+<a id="kintsugi-bowl-transformation-exhibition"></a>
+### 金缮茶碗修复展览海报
+
+金缮茶碗修复展览海报。
+
+作者：Alyssa (@Alyssa4aicreate) · <a href="https://x.com/Alyssa4aicreate/status/2108383348641214926" rel="nofollow noreferrer" referrerpolicy="no-referrer">原帖</a>
+
+类型：文生图 · 纯文本生成；无需额外上传参考图。
+
+![Kintsugi Bowl Transformation Exhibition](https://media.reeldance.ai/galleries/assets/22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a.webp)
+
+<a href="https://media.reeldance.ai/galleries/assets/22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a.webp" rel="nofollow noreferrer" referrerpolicy="no-referrer">output 1</a>
+
+<details>
+<summary>完整原始提示词 (en)</summary>
+
+```text
+Theme: Kintsugi tea bowl repair Chinese title: 金缮成器 English title: GOLDEN SEAM Initial state / material: A cracked celadon tea bowl split into two pieces, cool gray-green glaze, visible raw clay fracture edges Transformation process: Fine gold lacquer seams being brushed along the cracks, tiny gold dust catching light Completed state: The same celadon bowl fully restored with luminous gold kintsugi lines, upright on a linen mat Central change axis: The gold lacquer repair seam itself — wet gold meeting clay fracture Correspondence: Crack / seam Main colors: celadon green, warm gold, ivory paper, soft charcoal Accent colors: muted rust Research node: PROCESS · SEAM · GLAZE Aspect ratio: 9:16
+
+Generate a mature cultural exhibition poster with strong material expression and a craft-transformation central-axis composition.
+
+The core is not two unrelated objects side by side — the material change itself becomes the composition.
+
+Left side shows the INITIAL cracked celadon tea bowl pieces. Right side shows the COMPLETED gold-repaired bowl. Center is the critical craft moment where gold lacquer fills the fracture.
+
+Viewers must understand without reading: original material → craft happening → finished state.
+
+Left and right must truly belong together: the same bowl form, matching fracture edges that could rejoin, identical celadon glaze language.
+
+The central axis is not a plain color band — it is where transformation occurs (gold lacquer meeting clay). Add 2–3 extremely restrained correspondence lines or process marks, never a process PPT.
+
+Materials must read real: celadon glaze, raw clay, gold lacquer, linen, paper — clear stable surface logic. Do not replace material detail with noise or heavy aging.
+
+Typography relates to the craft logic and may cross materials, sit near the central seam, or lightly intersect the subject. Avoid fixed four-character vertical stacks or one giant central character every time.
+
+Include one small research node totaling about 6% of the frame (PROCESS / SEAM / GLAZE).
+
+First glance: material contrast. Second: the central repair happening. Third: why left and right are one craft process.
+
+Museum Exhibition Poster × Contemporary Editorial Graphic Design × East Asian Cultural Visual. High clarity, clean structure, concentrated information.
+
+Avoid: unrelated left/right content, broken process logic, plastic materials, random cracks, excessive flame, complex tool diagrams, too many technical parameters, mechanical three-column layout, PPT info boxes, heavy aging, low-finish AI poster look.
 ```
 
 </details>

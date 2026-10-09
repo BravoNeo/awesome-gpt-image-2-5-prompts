@@ -136,7 +136,17 @@
     "https://pbs.twimg.com/media/HUFeZtMa8AARf_W.jpg": "https://media.reeldance.ai/galleries/assets/4996ca260e547b0f1e7759f376ce2e7a10ee9cbb7954c36563e3a57a50286eb6.webp",
     "https://pbs.twimg.com/media/HUFCQxgbIAAhuzJ.jpg": "https://media.reeldance.ai/galleries/assets/d9841c14eb8d3689cd7a6410c4a53e350c80ddc6c30827c69f31b95a7c993f24.webp",
     "https://pbs.twimg.com/media/HUB6Mhka4AAsNrM.jpg": "https://media.reeldance.ai/galleries/assets/fefcfaf6523784a7db64dda98ad5e1043f3b83ff61e5e92f0dea2362f69a00ca.webp",
-    "https://pbs.twimg.com/media/HUAE6JVbQAALdzc.jpg": "https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp"
+    "https://pbs.twimg.com/media/HUAE6JVbQAALdzc.jpg": "https://media.reeldance.ai/galleries/assets/3b56c7ebadfec08f9075e3ebf2d8218ea8fe6875b51dc16bc369facab0af04a7.webp",
+    "https://pbs.twimg.com/media/HUJ7elLaEAABd1u.jpg": "https://media.reeldance.ai/galleries/assets/22fd41b652ef2f969a49ac20da86ee2c4fb62d9cd0307fb3ae52b767a1fa809a.webp",
+    "https://pbs.twimg.com/media/HUInZKLWoAAxSAW.jpg": "https://media.reeldance.ai/galleries/assets/88d660f8ead2780cf53dd7aec8db54054ed3724fc1b8d8e0d0ef249e5eb04e1f.webp",
+    "https://pbs.twimg.com/media/HUIHNpaaoAAFw6w.jpg": "https://media.reeldance.ai/galleries/assets/7a31e274ac0f7ad0b0b144df8e5d1e2d831218f0cdbb88e69646a59dab3f42c1.webp",
+    "https://pbs.twimg.com/media/HUIEdUcbkAAbdHb.jpg": "https://media.reeldance.ai/galleries/assets/69e173cce7ec02786626942490415f55e3237b205a6b4fdf5cb4fb11c9aa0608.webp",
+    "https://pbs.twimg.com/media/HUHftmhbAAA4R6k.jpg": "https://media.reeldance.ai/galleries/assets/0d8f66cdec64613e044f67a3bee79b311b1fa476976c3695848d990ccbd3d601.webp",
+    "https://pbs.twimg.com/media/HUHTxopacAAxaN7.jpg": "https://media.reeldance.ai/galleries/assets/e52819ed68c795c27ef34320aee9d2944d6db4d6589e1daac10475bbe54740ef.webp",
+    "https://pbs.twimg.com/media/HUHGR9kaUAAzv3d.jpg": "https://media.reeldance.ai/galleries/assets/09048f030e2774a98fb0b59a01ec2287f34ef410ca0e18673c7eee593a636ad5.webp",
+    "https://pbs.twimg.com/media/HUHBhG5aQAAve5N.jpg": "https://media.reeldance.ai/galleries/assets/eed19f2f440fcb4d971e8028f7b5fc8db7b6ae182fdc7295da6ed4cc9e2491e7.webp",
+    "https://pbs.twimg.com/media/HUG1nWlbIAA8vkQ.jpg": "https://media.reeldance.ai/galleries/assets/5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30.webp",
+    "https://pbs.twimg.com/media/HT_9nPwawAATaVI.jpg": "https://media.reeldance.ai/galleries/assets/3be8b314269cd8ec2d8bed51d8350ea254b27c1c47aed2b90adfa272f379601f.webp"
   },
   "inputRequirementsZh": {
     "four-live-show-flyer-variations": "提供参考角色和画风，用于四张传单。",
@@ -161,6 +171,16 @@
     "modern-woodcut-black-white-subject": "纯文本生成；无需额外上传参考图。",
     "knitted-yarn-landmark-diorama": "纯文本生成；无需额外上传参考图。",
     "psp-first-person-retro-battle": "纯文本生成；无需额外上传参考图。",
-    "architecture-emerging-from-audio-waves": "纯文本生成；无需额外上传参考图。"
+    "architecture-emerging-from-audio-waves": "纯文本生成；无需额外上传参考图。",
+    "kintsugi-bowl-transformation-exhibition": "纯文本生成；无需额外上传参考图。",
+    "beach-selfie-earbud-microphone-tattoo": "纯文本生成；无需额外上传参考图。",
+    "continuous-tagliatelle-letter-weaving-poster": "纯文本生成；无需额外上传参考图。",
+    "giant-beer-can-coastline-scale-poster": "纯文本生成；无需额外上传参考图。",
+    "sunset-camping-chair-text-generated-portrait": "纯文本生成；无需额外上传参考图。",
+    "unified-watercolor-city-editorial-print": "纯文本生成；无需额外上传参考图。",
+    "botanical-mesh-asymmetric-fashion-portrait": "纯文本生成；无需额外上传参考图。",
+    "biscuit-cup-clock-four-oclock-advertisement": "纯文本生成；无需额外上传参考图。",
+    "storybook-landmark-child-activity-illustration": "纯文本生成；无需额外上传参考图。",
+    "vintage-convertible-window-framed-portrait": "纯文本生成；无需额外上传参考图。"
   }
 }

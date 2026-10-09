@@ -1,0 +1,71 @@
+{
+  "id": "x-2108165803338277063",
+  "slug": "storybook-landmark-child-activity-illustration",
+  "title": {
+    "en": "Storybook Landmark and Child Illustration",
+    "zh": "童书地标与儿童插画"
+  },
+  "description": {
+    "en": "Storybook Landmark and Child Illustration.",
+    "zh": "童书地标与儿童插画。"
+  },
+  "author": {
+    "handle": "Naiknelofar788",
+    "name": "simeon-sanai"
+  },
+  "sourceUrl": "https://x.com/Naiknelofar788/status/2108165803338277063",
+  "promptSourceUrl": "https://x.com/Naiknelofar788/status/2108165803338277063",
+  "mediaSourceUrl": "https://x.com/Naiknelofar788/status/2108165803338277063",
+  "mediaBinding": "direct-source",
+  "originalLanguage": "en",
+  "originalPrompt": "Create a charming children’s storybook-style illustration of [LANDMARK], inspired by vintage activity-book artwork. Place the landmark in a bright, dreamy countryside or natural setting with soft hand-drawn black outlines, rounded illustrated elements, gentle watercolor textures, and cheerful pastel colors.\n\nThe landmark itself must be highly accurate and realistically depicted, closely matching its real-world architecture, proportions, shape, colors, windows, towers, rooftops, and distinctive details. Do not cartoonize, distort, simplify, or redesign the landmark. It should look like a faithful miniature representation of the actual landmark, while the surrounding environment remains whimsical and illustrated.\n\nAdd a cute little child exploring or looking toward the landmark. Include green rolling grass, a large leafy tree, tiny wildflowers, soft clouds, warm sunlight, and a simple blue sky. No sheep, lambs, or other oversized animals.\n\nKeep the contrast intentional: realistic, instantly recognizable landmark + charming hand-drawn children’s-book surroundings. The child should have expressive innocent features and slightly exaggerated storybook proportions.\n\nVisual style: vintage preschool activity book, soft hand-drawn outlines, watercolor + subtle crayon textures, slightly imperfect printed texture, nostalgic children’s illustration, cheerful and wholesome, detailed environmental elements, realistic landmark architecture, natural lighting, no photorealistic background.\n\nComposition: portrait 4:5, full-page storybook illustration, landmark as the central visual element, child in the foreground, lots of colorful negative space, clean composition, no modern text, no sheep or lambs, no distorted architecture.",
+  "promptKind": "text-to-image",
+  "inputRequirement": "No separate input reference image is required.",
+  "tags": [
+    "storybook-landmark-child-activity-illustration"
+  ],
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HUG1nWlbIAA8vkQ.jpg",
+      "role": "output",
+      "sourceUrl": "https://x.com/Naiknelofar788/status/2108165803338277063",
+      "alt": "Storybook Landmark and Child Illustration",
+      "cdn": {
+        "sha256": "5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30",
+        "bytes": 435012,
+        "mimeType": "image/webp",
+        "url": "https://media.reeldance.ai/galleries/assets/5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30.webp",
+        "width": 960,
+        "height": 1200,
+        "originalSha256": "91728d9a7ada0b21e3317dc40d683e5117ec190c27796f34a3a9e88e8630ccd5",
+        "variants": [
+          {
+            "url": "https://media.reeldance.ai/galleries/assets/5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30.webp",
+            "sha256": "5d73a03fbeec30a91291670955de36c021174eb4e016ae5ed96b93ba9168ec30",
+            "bytes": 435012,
+            "mimeType": "image/webp",
+            "width": 960,
+            "height": 1200
+          }
+        ]
+      }
+    }
+  ],
+  "rights": {
+    "basis": "third-party-source",
+    "note": "Original prompts and artwork belong to their creators; attributed public sources, without a verified blanket reuse license."
+  },
+  "modelClaimed": "GPT Image 2.5",
+  "translations": {},
+  "categories": {
+    "use": [
+      "art-editorial"
+    ],
+    "style": [
+      "hand-drawn"
+    ],
+    "subject": [
+      "architecture"
+    ]
+  }
+}
